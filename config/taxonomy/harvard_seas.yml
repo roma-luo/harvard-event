@@ -1,0 +1,55 @@
+# events.seas.harvard.edu — Localist
+#
+# From `uv run harvard-events discover events.seas.harvard.edu`. SEAS uses
+# different facet group keys than MIT for the same concepts:
+#   event_target_audience  (MIT: event_audience)
+#   event_lecture_other_series  — Series, the highest-precision dimension
+#   event_academics / event_organization — Academic Areas
+#
+# Values marked "documented" appear in the SEAS filter panel but were not in the
+# last scan window; listed so they map correctly the first time they show up.
+
+facets:
+  kind: ["event_types"]
+  access: ["event_target_audience"]
+  units: ["event_academics", "event_organization", "event_research_centers_intiatives"]
+  topics: ["event_academics", "event_research_centers_intiatives"]
+  series: ["event_lecture_other_series"]
+
+kind:
+  "Colloquia / Seminar / Lecture": lecture
+  "Career Development": career
+  "Industry": career
+  "Social Event": social
+  "Training / Workshop": workshop
+  # documented
+  "Conference": conference
+  "Exhibit / Fair": exhibition
+  "Project Showcase (Course-Related)": showcase
+  "Thesis Defense": defense
+  "Meeting": admin
+  "Information Session": career
+
+access:
+  "General Public": open
+  "Harvard Community": open
+  "Graduate Students": open
+  "Undergraduate Students": open
+  "Researchers / Postdocs": open
+  "SEAS Community": check
+  "Faculty": check
+  "Staff": check
+  # documented
+  "Invitation-Only": restricted
+  "Invitation Only": restricted
+  "Alumni": restricted
+
+campus: {}
+
+# "Academic Areas" and "Offices & Services" are section headers in the SEAS
+# organisation facet, not real units.
+ignore:
+  - "Academic Areas"
+  - "Offices & Services"
+
+overrides: []

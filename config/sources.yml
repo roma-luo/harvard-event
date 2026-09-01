@@ -1,0 +1,128 @@
+# The single source list. Adding a Localist calendar is a config change, not
+# code: copy a block, change `domain` and `id`, set `enabled: true`.
+#
+# Before enabling anything new:
+#   uv run harvard-events probe <domain>      # is it Localist / ICS / a scrape?
+#   uv run harvard-events discover <domain>   # what vocabulary does it use?
+#   uv run harvard-events preview --source <id> --days 7   # what would it add?
+#
+# Fields
+#   weight    base score every event from this source starts with
+#   priority  cross-source dedup: the higher number wins and keeps its URL
+#   campus    default campus, used for the commute penalty
+#   taxonomy  which config/taxonomy/<name>.yml to use (defaults to `id`)
+
+sources:
+  # ---- Harvard GSD: the user's own school, highest priority ----------------
+  - id: harvard_gsd
+    type: gsd
+    enabled: true
+    weight: 10
+    priority: 100
+    campus: cambridge_harvard
+    taxonomy: harvard_gsd
+
+  - id: harvard_art_museums
+    type: artmuseums
+    enabled: true
+    weight: 4
+    priority: 90
+    campus: cambridge_harvard
+    taxonomy: harvard_art_museums
+
+  - id: gsd_loeb_library
+    type: ics
+    enabled: true
+    weight: 2
+    priority: 10
+    campus: cambridge_harvard
+    taxonomy: gsd_loeb_library
+    url: "https://libcal.gsd.harvard.edu/ical_subscribe.php?src=p&cid=4722"
+    options:
+      address: "48 Quincy Street, Cambridge, MA 02138"
+      default_access: open
+      units: ["Frances Loeb Library"]
+      fallback_url: "https://libcal.gsd.harvard.edu/calendar"
+
+  # ---- MIT ----------------------------------------------------------------
+  - id: mit_csail
+    type: ics
+    enabled: true
+    weight: 6
+    priority: 80
+    campus: cambridge_mit
+    taxonomy: mit_csail
+    url: "https://www.csail.mit.edu/event_calendar.ics?v1"
+    options:
+      address: "32 Vassar Street, Cambridge, MA 02139"
+      default_access: check   # appendix B: CSAIL "private" is a hint, not a hide
+      units: ["MIT CSAIL"]
+      event_url_contains: "csail.mit.edu/event"
+      fallback_url: "https://www.csail.mit.edu/events"
+
+  - id: mit_media_lab
+    type: medialab
+    enabled: true
+    weight: 6
+    priority: 70
+    campus: cambridge_mit
+    taxonomy: mit_media_lab
+
+  - id: mit_all
+    type: localist
+    enabled: true
+    weight: 3
+    priority: 40
+    campus: cambridge_mit
+    taxonomy: mit_localist
+    domain: calendar.mit.edu
+    filters:
+      # Localist filters by name; these come straight from `discover`.
+      event_types:
+        - "Conferences/Seminars/Lectures"
+        - "Exhibits"
+        - "Workshops/Fairs"
+
+  # "In this building", not "run by the Media Lab" — appendix B says the mix of
+  # Sloan meetings and hackathons is a feature, so no extra filter here.
+  # Buildings are Localist *places*: /building_e14 is a place page, and the
+  # events API filters by its venue_id (find ids via `discover`, venues section).
+  - id: mit_building_e14
+    type: localist
+    enabled: true
+    weight: 3
+    priority: 39
+    campus: cambridge_mit
+    taxonomy: mit_localist
+    domain: calendar.mit.edu
+    filters:
+      venue_id: 360453   # Building E14: Media Lab
+
+  # ---- Harvard SEAS / HBS -------------------------------------------------
+  - id: harvard_seas
+    type: localist
+    enabled: true
+    weight: 4
+    priority: 50
+    campus: cambridge_harvard
+    taxonomy: harvard_seas
+    domain: events.seas.harvard.edu
+
+  - id: harvard_hbs
+    type: localist
+    enabled: true
+    weight: 1
+    priority: 20
+    campus: allston
+    taxonomy: harvard_hbs
+    domain: events.hbs.edu
+
+  # ---- Off by default. Flip `enabled` after previewing. --------------------
+  - id: harvard_hks
+    type: localist
+    enabled: false
+    weight: 2
+    priority: 30
+    campus: cambridge_harvard
+    taxonomy: harvard_hks
+    domain: events.hks.harvard.edu

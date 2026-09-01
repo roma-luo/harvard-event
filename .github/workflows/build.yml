@@ -1,0 +1,49 @@
+name: build
+
+on:
+  # GitHub cron is UTC. Boston is UTC-4/-5, so this fires at 05:00 or 06:00
+  # local depending on daylight saving — either is fine.
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch: # manual trigger for debugging
+
+permissions:
+  contents: write # the pipeline commits docs/*.ics and state/*.json back
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: astral-sh/setup-uv@v5
+        with:
+          enable-cache: true
+
+      - name: Install dependencies
+        run: uv sync --locked --no-dev
+
+      - name: Run pipeline (emails on Sundays, decided in Python)
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          BUSY_SCHEDULE_JSON: ${{ secrets.BUSY_SCHEDULE_JSON }}
+        run: uv run harvard-events run
+
+      - name: Commit calendars and state
+        run: |
+          git config user.name "harvard-events-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/ state/
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Update calendars $(date -u +%Y-%m-%d)"
+            git push
+          fi

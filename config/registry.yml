@@ -1,0 +1,103 @@
+# Registry of known Harvard / MIT calendars — the menu, not the active list.
+# Active sources live in config/sources.yml. Everything here is a candidate:
+# each entry records its platform, because adding a Localist source is a config
+# change while adding anything else means writing an adapter. Know the cost
+# before you start.
+#
+# Platform values: localist | ics | scraper | unknown
+# For `unknown`, run: uv run harvard-events probe <domain>
+
+confirmed_localist:
+  # Adding any of these = copy a block in sources.yml, no code.
+  - id: calendar.mit.edu
+    platform: localist
+    domain: calendar.mit.edu
+    content: "MIT 全校日历；各系、各楼有子频道（/department/<slug>、/building_<n>）"
+    note: "量大，建议配 filters 或 subscriptions 使用"
+
+  - id: events.seas.harvard.edu
+    platform: localist
+    domain: events.seas.harvard.edu
+    content: "SEAS：CS 讲座系列、Kempner、CRCS、IACS；Series 维度精度最高"
+
+  - id: events.hbs.edu
+    platform: localist
+    domain: events.hbs.edu
+    content: "HBS：讲座、招聘、俱乐部活动；在 Allston，通勤扣分已在 campus.yml"
+
+  - id: events.college.harvard.edu
+    platform: livewhale
+    domain: events.college.harvard.edu
+    content: "Harvard College 本科生日历"
+    note: "LiveWhale 不是 Localist；ICS 路径形如 /live/ical/events/group/<slug>/"
+
+confirmed_not_localist:
+  # Adding any of these = writing an adapter.
+  - id: gse.harvard.edu
+    platform: trumba
+    domain: gse.harvard.edu
+    content: "教育学院（HGSE）活动"
+    note: "Trumba 有 ICS 导出，可能可以直接用 IcsAdapter"
+
+  - id: hms.harvard.edu
+    platform: ics
+    domain: calendar.hms.harvard.edu
+    content: "医学院日历，自建站但提供 ICS 订阅"
+    note: "在 Longwood，默认通勤扣 15 分"
+
+  - id: www.gsd.harvard.edu
+    platform: scraper
+    domain: www.gsd.harvard.edu
+    content: "GSD Public Programs — 用户自己院系，已实现（adapters/gsd.py，走 WP REST API）"
+
+  - id: harvardartmuseums.org
+    platform: scraper
+    domain: harvardartmuseums.org
+    content: "Harvard Art Museums 展览与活动，已实现（页面内嵌 JSON）"
+
+  - id: www.media.mit.edu
+    platform: scraper
+    domain: www.media.mit.edu
+    content: "MIT Media Lab 自建站，已实现；ML 的 Localist 频道常年是空的，别依赖它"
+
+unknown_probe_first:
+  # Run `uv run harvard-events probe <domain>` before doing anything.
+  - id: events.hks.harvard.edu
+    platform: localist
+    domain: events.hks.harvard.edu
+    content: "肯尼迪学院：政策讲座，已在 sources.yml（默认关闭）"
+
+  - id: hls.harvard.edu
+    platform: unknown
+    domain: hls.harvard.edu
+    content: "法学院活动"
+
+  - id: hds.harvard.edu
+    platform: unknown
+    domain: hds.harvard.edu
+    content: "神学院活动"
+
+  - id: gsas.harvard.edu
+    platform: unknown
+    domain: gsas.harvard.edu
+    content: "文理研究生院（GSAS）"
+
+  - id: radcliffe.harvard.edu
+    platform: unknown
+    domain: www.radcliffe.harvard.edu
+    content: "Radcliffe Institute 公开讲座和展览，质量不错"
+
+  - id: mahindra.fas.harvard.edu
+    platform: unknown
+    domain: mahindrahumanities.fas.harvard.edu
+    content: "Mahindra Humanities Center 人文讲座"
+
+  - id: cyber.harvard.edu
+    platform: unknown
+    domain: cyber.harvard.edu
+    content: "Berkman Klein Center：互联网与社会，和 CS/设计都有交集"
+
+  - id: sloan.mit.edu
+    platform: unknown
+    domain: www.mitsloan.mit.edu
+    content: "MIT Sloan 自己的站；注意 Sloan 活动也会出现在 calendar.mit.edu"

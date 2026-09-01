@@ -1,0 +1,45 @@
+domain: events.seas.harvard.edu
+path: null
+events_scanned: 59
+facets:
+  event_academics:
+  - Computer Science
+  - Environmental Science & Engineering
+  event_lecture_other_series:
+  - Computer Science Lecture Series
+  - ESE Seminar Series
+  - Harvard Grid
+  - Robotics Seminar Series
+  event_organization:
+  - Academic Areas
+  - Computer Science
+  - Development
+  - Entrepreneurship
+  - Environmental Science & Engineering
+  - Offices & Services
+  event_research_centers_intiatives:
+  - Harvard Grid
+  event_target_audience:
+  - Faculty
+  - General Public
+  - Graduate Students
+  - Harvard Community
+  - Researchers / Postdocs
+  - SEAS Community
+  - Staff
+  - Undergraduate Students
+  event_types:
+  - Career Development
+  - Colloquia / Seminar / Lecture
+  - Industry
+  - Social Event
+  - Training / Workshop
+departments: []
+venues:
+  Gordon Hall: ''
+  Harvard Stadium: ''
+  Pierce Hall: '30972668602080'
+  SEC: ''
+  Science Center Plaza Tent: ''
+  Science and Engineering Complex (SEC): '38254903915972'
+keywords: []

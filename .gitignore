@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Private: the user's weekly schedule never enters this public repo.
+# CI injects it via the BUSY_SCHEDULE_JSON secret instead.
+config/busy.yml
+
+# Runtime output; logs stay local, state/ and docs/ are committed.
+logs/
+.cache/

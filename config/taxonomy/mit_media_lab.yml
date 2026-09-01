@@ -1,0 +1,38 @@
+# MIT Media Lab — self-hosted site, no structured type at all, so everything
+# comes from `kind_from_title`.
+
+facets: {}
+kind: {}
+
+kind_from_title:
+  - pattern: '\b(member meeting|spring meeting|fall meeting|horizons)\b'
+    kind: admin
+  - pattern: '\b(thesis|dissertation)\b'
+    kind: defense
+  - pattern: '\b(conference|summit|symposium|spacechi)\b'
+    kind: conference
+  - pattern: '\b(workshop|bootcamp|hackathon|tutorial|class)\b'
+    kind: workshop
+  - pattern: '\b(exhibit|exhibition|installation|showcase)\b'
+    kind: exhibition
+  - pattern: '\b(seminar|lecture|talk|colloquium|series)\b'
+    kind: lecture
+  - pattern: '\b(celebration|reception|party|open house|social)\b'
+    kind: social
+  - pattern: '.'
+    kind: lecture
+
+access: {}
+campus: {}
+ignore: []
+
+overrides:
+  # Appendix B: these are sponsor-facing, not open to students.
+  - title_contains:
+      - "member meeting"
+      - "members meeting"
+      - "spring meeting"
+      - "fall meeting"
+      - "horizons"
+      - "sponsor"
+    access: restricted

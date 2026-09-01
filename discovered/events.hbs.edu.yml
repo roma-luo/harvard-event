@@ -1,0 +1,17 @@
+domain: events.hbs.edu
+path: null
+events_scanned: 15
+facets:
+  event_audience:
+  - General Public
+  event_topics:
+  - Entrepreneurship/Innovation
+  event_types:
+  - Conference
+  - Tour
+departments: []
+venues:
+  Baker Library | Bloomberg Center: '39749756378741'
+keywords:
+- Entrepreneurship
+- innovation

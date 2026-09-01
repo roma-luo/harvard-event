@@ -1,0 +1,193 @@
+# Layer 3 — keywords. This is the LEAST precise layer. Prefer adding a Series
+# name to config/subscriptions.yml over adding words here.
+#
+# Rules the engine enforces, so you can write entries safely:
+#   * `terms` are matched case-insensitively, on word boundaries
+#   * `acronyms` are matched CASE-SENSITIVELY, so "AI" will not fire on "Chair",
+#     "Thai" or "Retail" — but write them in their real casing
+#   * a group scores its weight ONCE no matter how many of its words match
+#   * hyphen/space variants collapse: "human-computer interaction" also matches
+#     "human computer interaction"
+#   * the match window is title + series + speaker + first 300 chars of the
+#     description, not the whole body
+#
+# This file is committed to a PUBLIC repo. It reveals your interests, nothing else.
+
+groups:
+  - name: computational_design
+    weight: 10
+    terms:
+      - "computational design"
+      - "generative design"
+      - "digital fabrication"
+      - "parametric design"
+      - "parametric"
+      - "design computation"
+      - "robotic fabrication"
+      - "additive manufacturing"
+      - "3d printing"
+      - "shape grammar"
+      - "form finding"
+    acronyms: ["CAD", "CNC"]
+
+  - name: architecture_theory
+    weight: 7
+    terms:
+      - "architecture"
+      - "architectural"
+      - "urban design"
+      - "urbanism"
+      - "landscape architecture"
+      - "built environment"
+      - "housing"
+      - "public space"
+      - "spatial practice"
+    acronyms: []
+
+  - name: machine_learning
+    weight: 6
+    terms:
+      - "machine learning"
+      - "deep learning"
+      - "neural network"
+      - "large language model"
+      - "foundation model"
+      - "generative model"
+      - "diffusion model"
+      - "reinforcement learning"
+      - "artificial intelligence"
+    acronyms: ["ML", "LLM", "AI", "RL", "GAN"]
+
+  - name: hci
+    weight: 7
+    terms:
+      - "human computer interaction"
+      - "human centered design"
+      - "interaction design"
+      - "user interface"
+      - "tangible interface"
+      - "wearable"
+      - "haptics"
+      - "mixed reality"
+      - "augmented reality"
+      - "virtual reality"
+    acronyms: ["HCI", "AR", "VR", "XR", "UI", "UX"]
+
+  - name: geometry_graphics
+    weight: 6
+    terms:
+      - "computational geometry"
+      - "computer graphics"
+      - "geometry processing"
+      - "shape analysis"
+      - "rendering"
+      - "simulation"
+      - "topology optimization"
+      - "neural rendering"
+      - "point cloud"
+    acronyms: ["SDF"]
+
+  - name: robotics
+    weight: 5
+    terms:
+      - "robotics"
+      - "robot learning"
+      - "manipulation"
+      - "autonomous system"
+      - "embodied intelligence"
+      - "drone"
+    acronyms: []
+
+  - name: cities_climate
+    weight: 6
+    terms:
+      - "climate"
+      - "sustainability"
+      - "carbon"
+      - "energy transition"
+      - "resilience"
+      - "transportation"
+      - "mobility"
+      - "city science"
+      - "urban analytics"
+      - "remote sensing"
+    acronyms: ["GIS"]
+
+  - name: art_media
+    weight: 5
+    terms:
+      - "art and technology"
+      - "media art"
+      - "installation"
+      - "curatorial"
+      - "exhibition design"
+      - "sound art"
+      - "photography"
+      - "visual culture"
+    acronyms: ["ACT"]
+
+  - name: data_visualization
+    weight: 6
+    terms:
+      - "data visualization"
+      - "information design"
+      - "visual analytics"
+      - "cartography"
+      - "mapping"
+    acronyms: []
+
+  - name: design_engineering
+    weight: 8
+    terms:
+      - "design engineering"
+      - "product design"
+      - "systems design"
+      - "human factors"
+      - "prototyping"
+    acronyms: ["MDE"]
+
+# Negative groups subtract. Keep these blunt: recruiting noise is the single
+# biggest source of low-value calendar entries.
+negative:
+  - name: recruiting
+    weight: -12
+    terms:
+      - "info session"
+      - "information session"
+      - "career fair"
+      - "resume"
+      - "cover letter"
+      - "networking night"
+      - "recruiting"
+      - "job search"
+      - "internship fair"
+      - "employer"
+    acronyms: []
+
+  - name: admin_noise
+    weight: -10
+    terms:
+      - "office hours"
+      - "drop in hours"
+      - "registration deadline"
+      - "add drop"
+      - "advising"
+      - "orientation"
+      - "town hall"
+      - "staff meeting"
+      - "faculty meeting"
+      - "blood drive"
+      - "flu shot"
+    acronyms: []
+
+  - name: athletics
+    weight: -8
+    terms:
+      - "intramural"
+      - "varsity"
+      - "basketball"
+      - "hockey"
+      - "soccer game"
+      - "fitness class"
+      - "yoga"
+    acronyms: []

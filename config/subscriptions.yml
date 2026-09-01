@@ -1,0 +1,89 @@
+# Layer 2 — the highest-precision layer, and the one worth maintaining.
+#
+# Anything matching here gets a large fixed bonus and bypasses keyword scoring.
+# Subscribing to five series beats writing twenty keyword rules.
+#
+# To find real names to paste in here:
+#   uv run harvard-events discover events.seas.harvard.edu
+#   uv run harvard-events discover calendar.mit.edu
+# then copy from discovered/<domain>.yml.
+#
+# Matching is case-insensitive and ignores punctuation, so "CRCS Seminars" also
+# matches "CRCS seminar". Keys are source ids from config/sources.yml.
+
+harvard_seas:
+  series:
+    # confirmed present on the instance today
+    - "Computer Science Lecture Series"
+    - "Robotics Seminar Series"
+    - "ESE Seminar Series"
+    # documented by SEAS; harmless until they reappear
+    - "Kempner Seminar Series"
+    - "CRCS Seminars"
+    - "IACS Seminars"
+    - "Applied Algebra and Geometry Seminar"
+    # cross-campus events forwarded into SEAS — free aggregation
+    - "Harvard Events of Interest"
+    - "Cambridge/Boston Events of Interest"
+  academic_areas:
+    - "Computer Science"
+    - "Applied Computation"
+    - "Applied Mathematics"
+    - "Master in Design Engineering"   # the joint GSD+SEAS degree
+    - "Environmental Science & Engineering"
+  units: []
+
+harvard_gsd:
+  series:
+    - "positions"
+    - "Kenzo Tange Lecture"
+    - "Rouse Visiting Artist Lecture"
+    - "Senior Loeb Scholar"
+    - "Public Programs"
+  academic_areas: []
+  units: []
+
+mit_all:
+  series: []
+  academic_areas: []
+  units:
+    - "School of Architecture and Planning (SA+P)"
+    - "Schwarzman College of Computing"
+  topics:
+    - "Arts/Music/Film"
+
+mit_building_e14:
+  series: []
+  academic_areas: []
+  units: []
+
+mit_csail:
+  series:
+    - "CSL Seminar Series"
+    - "Hot Topics in Computing"
+    - "Brains, Minds and Machines Seminar Series"
+    - "EECS Special Seminar"
+  academic_areas: []
+  units: []
+
+mit_media_lab:
+  series:
+    - "AHA Seminar Series"
+    - "Media Lab Conversations"
+  academic_areas: []
+  units: []
+
+harvard_art_museums:
+  series: []
+  academic_areas: []
+  units: []
+
+harvard_hbs:
+  series: []
+  academic_areas: []
+  units: []
+
+gsd_loeb_library:
+  series: []
+  academic_areas: []
+  units: []

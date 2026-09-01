@@ -1,0 +1,58 @@
+# calendar.mit.edu — Localist
+#
+# Vocabulary below comes from `uv run harvard-events discover calendar.mit.edu`
+# (767 events scanned), not from guesswork. Shared by every source that points
+# at this instance (mit_all, mit_building_e14, ...).
+#
+# Anything this file does not cover lands in logs/unmapped.log and is reported
+# in the weekly email, so a new MIT category cannot go missing quietly.
+
+# Which Localist facet group feeds which unified field. These group KEYS differ
+# per Localist instance — that is why this mapping is per-source.
+facets:
+  kind: ["event_types"]
+  access: ["event_audience"]
+  units: ["event_events_by_school"]
+  topics: ["event_events_by_interest"]
+  series: []
+
+kind:
+  "Conferences/Seminars/Lectures": lecture
+  "Exhibits": exhibition
+  "Workshops/Fairs": workshop
+  "Thesis defense": defense
+  "Meetings/Gatherings": social
+  "Community Event": social
+  "Career Development": career
+  "Performing Arts": social
+  "Athletics/Recreation": social
+  "Campus Tours": admin
+  "Institute Holidays": admin
+  # Values documented by MIT but not seen in the last scan; kept so they do not
+  # show up as "unmapped" the first week they appear.
+  "Concerts/Performances": social
+  "Film Screenings": social
+  "Parties/Receptions": social
+  "Sales/Auctions": admin
+  "Volunteering": social
+  "Deadlines": admin
+  "Freshman Events": admin
+
+access:
+  "Public": open
+  "MIT Community": open
+  "Students": open
+  "Faculty": check
+  "Staff": check
+  "Alumni": restricted
+  "Invitation Only": restricted
+  "Parents": restricted
+
+campus:
+  # location_name values are too varied to enumerate; the source-level default
+  # in config/sources.yml (cambridge_mit) carries the weight here.
+
+# Facet values that are noise for the kind/access decision.
+ignore: []
+
+overrides: []

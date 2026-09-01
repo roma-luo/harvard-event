@@ -1,0 +1,40 @@
+# Harvard GSD — WordPress taxonomies.
+# The values are the `event_type-<slug>` entries in the REST `class_list`
+# field, hyphens already turned into spaces by the adapter.
+
+facets: {}
+
+kind:
+  "lecture": lecture
+  "lectures": lecture
+  "conference": conference
+  "conferences": conference
+  "symposium": conference
+  "exhibition": exhibition
+  "exhibitions": exhibition
+  "workshop": workshop
+  "workshops": workshop
+  "book talk": lecture
+  "panel": lecture
+  "panel discussion": lecture
+  "conversation": lecture
+  "film screening": social
+  "screening": social
+  "open house": social
+  "reception": social
+  "info session": career
+  "information session": career
+  "career": career
+  "thesis review": defense
+  "final review": showcase
+  "reviews": showcase
+  "student work": showcase
+  "deadline": admin
+  "registration": admin
+  "alumni event": social
+  "program": other
+
+access: {}
+campus: {}
+ignore: []
+overrides: []

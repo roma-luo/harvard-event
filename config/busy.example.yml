@@ -1,0 +1,16 @@
+# Committed template. Copy to config/busy.yml (which is gitignored) and edit.
+# For GitHub Actions, convert to JSON and store as the BUSY_SCHEDULE_JSON secret:
+#   uv run harvard-events busy-json
+busy:
+  - name: "Studio"
+    days: ["tue", "thu"]
+    start: "13:30"
+    end: "18:30"
+available:
+  - days: ["mon", "tue", "wed", "thu", "fri"]
+    start: "12:00"
+    end: "22:00"
+  - days: ["sat", "sun"]
+    start: "10:00"
+    end: "22:00"
+blackout: []

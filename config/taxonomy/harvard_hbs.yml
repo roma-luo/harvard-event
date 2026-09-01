@@ -1,0 +1,36 @@
+# events.hbs.edu — Localist
+#
+# From `uv run harvard-events discover events.hbs.edu`. HBS shows very little
+# without an HBS login (appendix B); a small scan is expected, not a failure.
+
+facets:
+  kind: ["event_types"]
+  access: ["event_audience"]
+  units: ["event_groups"]
+  topics: ["event_topics"]
+  series: []
+
+kind:
+  "Conference": conference
+  "Tour": social
+  # documented on the HBS filter panel
+  "Lecture": lecture
+  "Seminar": lecture
+  "Panel": lecture
+  "Workshop": workshop
+  "Networking": career
+  "Reception": social
+  "Exhibit": exhibition
+  "Information Session": career
+
+access:
+  "General Public": open
+  "HBS Community": check
+  "Harvard Community": open
+  "Students": open
+  "Alumni": restricted
+  "Invitation Only": restricted
+
+campus: {}
+ignore: []
+overrides: []

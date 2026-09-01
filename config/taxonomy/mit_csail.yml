@@ -1,0 +1,40 @@
+# MIT CSAIL — plain ICS. CATEGORIES is usually absent, so `kind_from_title`
+# does the work. Order matters: the first pattern that matches wins.
+
+facets: {}
+
+kind:
+  "Thesis Defense": defense
+  "Seminar": lecture
+  "Lecture": lecture
+  "Talk": lecture
+  "Workshop": workshop
+  "Conference": conference
+  "Social": social
+
+kind_from_title:
+  - pattern: '\b(thesis|phd|dissertation)\s+defen[cs]e\b'
+    kind: defense
+  - pattern: '\bdefen[cs]e\b'
+    kind: defense
+  - pattern: '\b(hackathon|workshop|tutorial|bootcamp|hands[- ]on)\b'
+    kind: workshop
+  - pattern: '\b(conference|symposium|summit)\b'
+    kind: conference
+  - pattern: '\b(seminar|colloquium|lecture|talk|series|forum)\b'
+    kind: lecture
+  - pattern: '\b(reception|social|mixer|lunch|coffee|celebration)\b'
+    kind: social
+  - pattern: '\b(career|recruit|info session|internship)\b'
+    kind: career
+  - pattern: '.'
+    kind: lecture
+
+access:
+  "Private": check
+  "Public": open
+  "CSAIL": check
+
+campus: {}
+ignore: []
+overrides: []

@@ -1,0 +1,17 @@
+# Commute penalties, subtracted from the score.
+# Defaults assume you live/study around Harvard Cambridge.
+
+penalties:
+  cambridge_harvard: 0    # Gund Hall and everything walkable from it
+  cambridge_mit: -2       # one red line stop / 25 min walk
+  allston: -8             # HBS, across the river
+  longwood: -15           # medical campus, a real trip
+  online: -3              # counted here as well as virtual_adjustment
+  other: -4
+
+# Street addresses used for the ICS LOCATION field when an adapter has none.
+addresses:
+  cambridge_harvard: "Cambridge, MA 02138"
+  cambridge_mit: "Cambridge, MA 02139"
+  allston: "Boston, MA 02163"
+  longwood: "Boston, MA 02115"

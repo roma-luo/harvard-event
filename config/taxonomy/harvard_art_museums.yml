@@ -1,0 +1,37 @@
+# Harvard Art Museums — the `event_type` string in the embedded JSON payload.
+# Categories shown on the site: Lectures, Workshops & Seminars, Talks & Tours,
+# Film & Performance, Special Events, Supporters.
+
+facets: {}
+
+kind:
+  "Lecture": lecture
+  "Lectures": lecture
+  "Talk": lecture
+  "Gallery Talk": lecture
+  "Workshop": workshop
+  "Seminar": lecture
+  "Workshops & Seminars": workshop
+  "Tour": social
+  "Talks & Tours": lecture
+  "Film": social
+  "Performance": social
+  "Film & Performance": social
+  "Special Event": social
+  "Special Events": social
+  "Supporters": social
+  "Supporter Event": social
+  "Course": workshop
+  "Class": workshop
+  "Exhibition": exhibition
+  "Family Program": social
+  "Community Day": social
+
+access: {}
+campus: {}
+ignore: []
+
+overrides:
+  # Supporter events are donor-only; the site does not say so in the type field.
+  - title_contains: ["supporters", "members only", "donor"]
+    access: restricted

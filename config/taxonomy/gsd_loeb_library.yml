@@ -1,0 +1,39 @@
+# GSD Frances Loeb Library — LibCal ICS. CATEGORIES carries values like
+# "Drop-in Hours" and "Workshop".
+
+facets: {}
+
+kind:
+  "Workshop": workshop
+  "Workshops": workshop
+  "Drop-in Hours": admin
+  "Office Hours": admin
+  "Consultation": admin
+  "Training": workshop
+  "Tour": social
+  "Exhibit": exhibition
+  "Exhibition": exhibition
+  "Lecture": lecture
+  "Talk": lecture
+  "Class": workshop
+  "Orientation": admin
+  "Event": other
+  "Community Event": social
+  "Faculty Author Talks": lecture
+  "Research Support": workshop
+  "Writing Services": workshop
+
+kind_from_title:
+  - pattern: '\b(office hours|drop[- ]in|consultation)\b'
+    kind: admin
+  - pattern: '\b(workshop|training|clinic|lab)\b'
+    kind: workshop
+  - pattern: '\b(tour|open house)\b'
+    kind: social
+  - pattern: '.'
+    kind: workshop
+
+access: {}
+campus: {}
+ignore: []
+overrides: []

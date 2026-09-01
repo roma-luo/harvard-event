@@ -1,0 +1,17 @@
+# Harvard Kennedy School — disabled by default. Run
+#   uv run harvard-events probe events.hks.harvard.edu
+#   uv run harvard-events discover events.hks.harvard.edu
+# and fill this in from the output before enabling the source.
+
+facets:
+  kind: ["event_types"]
+  access: ["event_audience", "event_target_audience"]
+  units: []
+  topics: []
+  series: []
+
+kind: {}
+access: {}
+campus: {}
+ignore: []
+overrides: []

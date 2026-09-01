@@ -1,0 +1,365 @@
+domain: calendar.mit.edu
+path: null
+events_scanned: 767
+facets:
+  event_audience:
+  - Alumni
+  - Faculty
+  - MIT Community
+  - Public
+  - Staff
+  - Students
+  event_events_by_interest:
+  - Academic
+  - Arts/Music/Film
+  - Career Development
+  - Climate & Sustainability
+  - Diversity/Inclusion
+  - Energy
+  - Entrepreneurship
+  - General
+  - Health/Wellness
+  - MIT Museum
+  - Religious/Spiritual
+  event_events_by_school:
+  - School of Architecture and Planning (SA+P)
+  - School of Engineering (SoE)
+  - School of Humanities, Arts, and Social Sciences (SHASS)
+  - School of Science
+  - Schwarzman College of Computing
+  - Sloan School of Management (Sloan)
+  event_types:
+  - Athletics/Recreation
+  - Campus Tours
+  - Career Development
+  - Community Event
+  - Conferences/Seminars/Lectures
+  - Exhibits
+  - Institute Holidays
+  - Meetings/Gatherings
+  - Performing Arts
+  - Workshops/Fairs
+departments:
+- Abdul Latif Jameel Water and Food Systems Lab
+- Beaver Works
+- Biological Engineering
+- Biology
+- Center for Computational Science and Engineering
+- Center for International Studies
+- Comparative Media Studies/Writing
+- Department of Architecture
+- Department of Athletics, Physical Education and Recreation
+- Department of Brain and Cognitive Sciences (BCS)
+- Department of Chemical Engineering
+- Department of Chemistry
+- Department of Economics
+- Department of Materials Science and Engineering (DMSE)
+- Department of Mathematics
+- Department of Mechanical Engineering
+- Human Resources Department
+- Koch Institute for Integrative Cancer Research
+- MIT D-Lab
+- MIT Libraries
+- MIT Museum
+- MIT Music and Theater Arts
+- MIT Open Space Programming
+- MIT Women's League
+- MIT.nano
+- Martin Trust Center for MIT Entrepreneurship
+- McGovern Institute for Brain Research
+- School of Humanities, Arts, and Social Sciences
+- Simons Center for the Social Brain
+- Teaching + Learning Lab
+- The Aga Khan Program for Islamic Architecture
+- The MIT Press
+- The Picower Institute for Learning and Memory
+- The Writing and Communication Center
+- Whitehead Institute
+venues:
+  355 W 16th St, Manhattan, New York, New York, 10011: ''
+  4-370: ''
+  Broad Institute Auditorium: ''
+  Building 1: '360406'
+  Building 10: '360416'
+  Building 13: '360418'
+  Building 14: '360419'
+  Building 2: '360407'
+  Building 3: '360408'
+  Building 32: '360426'
+  Building 4: '360409'
+  Building 45 (MIT Stephen A. Schwarzman College of Computing): '45429427400443'
+  Building 46: '360439'
+  Building 5: '360410'
+  Building 6: '360411'
+  Building 66: '360448'
+  Building 7: '360412'
+  Building 76: '360450'
+  Building 8: '360414'
+  'Building E14: Media Lab': '360453'
+  Building E17: '360455'
+  Building E18: '360456'
+  Building E19: '360457'
+  Building E23: '360458'
+  Building E38 (MIT Welcome Center): '360460'
+  Building E40: '360462'
+  Building E51: '360465'
+  Building E52: '360466'
+  Building N51: '360482'
+  'Building W15: MIT Chapel': '360533'
+  'Building W16: Kresge Auditorium': '360534'
+  Building W18: '48669153833130'
+  'Building W20: Stratton Student Center': '360535'
+  'Building W34: Johnson Athletics Center': '360539'
+  Building W41: '360542'
+  Building W51: '360544'
+  Building W97: '714788'
+  Bush Room: ''
+  E28: ''
+  Emma Rogers Room: ''
+  Harvard - Geo Museum 102: ''
+  Harvard University: ''
+  Harvard- Geo Museum 102: ''
+  Kendall Urban Park (UP) Roof Garden: ''
+  Kendall/MIT Open Space: ''
+  Lewis Music Library: ''
+  Littauer Building: ''
+  Littauer Center of Public Administration: ''
+  Lobby 13: ''
+  MIT Museum: '427579'
+  MIT Sailing Pavilion: ''
+  Pfizer Lecture Hall, lower level, Mallinckrodt Labs, 12 Oxford St., Cambridge: ''
+  Simons Center Conference room, 46-6011: ''
+  Stata, Kirsch auditorium, 32-123: ''
+  TBD: ''
+  Worcester State University: ''
+keywords:
+- AI
+- ASD
+- Aging Brain Initiative
+- Anniversary
+- Applied math
+- Arts and Culture
+- BCS
+- Ballroom Dance Team
+- Ballroom Social
+- Biotechnology
+- CIS
+- CMS/W
+- Celebration
+- Cellular
+- Center for international studies
+- Chemical Biology Seminar
+- Chemical Engineering
+- Chemistry
+- Comparative Media Studies
+- Computational Science and Engineering
+- Computer Science
+- Councel for the Arts
+- Deep Tech
+- Economics
+- Energy
+- Engineering
+- Engineering Management
+- Food Systems
+- Fred Harris
+- GPU computing
+- Generative AI
+- Global Languages
+- Graduate Students
+- Hard Tech
+- Humanities
+- International Development
+- International Relations
+- International Seminar
+- Islam
+- JClinic
+- Jameel Clinic
+- Job opportunities
+- Just Transition Micro-Clusters
+- Kendall
+- Latin Dance
+- Leadership
+- Linde Music Building
+- Literature
+- MISTI
+- MIT
+- MIT Center for International Studies
+- MIT D-Lab
+- MIT Mathematics
+- MIT Symplectic Seminar
+- MIT holidays
+- MIT jazz combos spring concert
+- MITWE PRISM
+- Machine Learning
+- Materials Science
+- Math
+- Molecular
+- Molecular Biology
+- Molecular Modelling
+- Music Tech
+- Music at MIT
+- NGOs
+- Nonprofits
+- Open rehearsal
+- Organic Chemistry
+- Percussion
+- Philosophy
+- Regina Barzilay
+- Richard P. Stanley Seminar in Combinatorics
+- Rumba
+- SHASS 75th Anniversary
+- SHASS alumni
+- SHASS faculty
+- SHASS students
+- SSP
+- Science & Technology
+- Security Studies
+- Social Sciences
+- Solo
+- Speaker
+- Systems thinking
+- Teaching Assistant workshops
+- Theater Arts
+- Thomas Tull Concert Hall
+- Tommi Jaakkola
+- Trading for Food Security in a Changing Climate
+- W97
+- Waltz
+- Weavers
+- anthropology
+- artificial intelligence
+- artist talk
+- arts
+- autism
+- ballroom
+- ballroom dance
+- big data
+- biological engineering
+- biomolecules
+- biotech
+- book sale
+- bookstore
+- brain
+- brain and cognitive science
+- cambridge
+- career fair
+- career opportunities
+- careers
+- cbmm
+- chambermusic
+- civil engineering
+- cloud computing
+- community
+- computational biology
+- computational chemistry
+- computational materials science
+- concert
+- connection
+- crafters's circle
+- crafts
+- cse
+- culture
+- dance
+- database technology
+- drug discovery
+- electrical engineering
+- electrification
+- electronics
+- embrodery
+- engineering management master's
+- environmental engineering
+- events
+- family weekend
+- food
+- food trucks
+- forum
+- foxtrot
+- free
+- free movie
+- fun
+- gas
+- graph analytics
+- handmade
+- handmaid
+- handsewing
+- hard technology
+- holidays
+- humanitarian innovation
+- improv
+- international
+- internships
+- jazz
+- jazz combos
+- jobs
+- kazz
+- latin
+- lending
+- linguistics
+- mathematics
+- mechanical engineering
+- microfinance
+- mitpress
+- mitpressbookstore
+- molecular dynamics
+- molecular modeling
+- molecular science
+- moml
+- movie night
+- music
+- music and theater arts
+- music building
+- music events
+- music research
+- music tech at mit
+- music tech research
+- music technology
+- musicology
+- nanoscience
+- nanotechnology
+- neuroscience
+- newmusic
+- off-grid energy
+- organic chemistry seminar
+- parallel computing
+- party
+- piano
+- political science
+- politics
+- process engineering
+- protein design
+- publichealth
+- qiult
+- quantum chemistry
+- quantum computer
+- quest
+- quilters
+- quilts
+- quiltshow
+- science
+- science technology society
+- screening
+- security studies program
+- seminar
+- sensor processing
+- sewing
+- snacks
+- snesor processing
+- social
+- social entrepreneurship
+- sowers
+- sowing
+- speaker series
+- study abroad
+- swing
+- systems certificate
+- systems design and management
+- talk
+- tango
+- technology
+- theater
+- theaterarts
+- therapeutics
+- violin
+- wind ensemble
+- workshop
+- writing

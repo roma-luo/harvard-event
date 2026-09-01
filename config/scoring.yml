@@ -1,0 +1,56 @@
+# The six scoring components, all pure rules. No model is ever called.
+#
+# Final score = subscription hit + keywords + source weight + kind weight
+#             + conflict penalty + commute/access adjustments
+#
+# Every component is written to logs/scoring.jsonl per event, so when something
+# unwanted shows up in the calendar you can see exactly which line caused it.
+
+# 1. Subscription hit (config/subscriptions.yml). Large, and it suppresses
+#    keyword scoring entirely so a subscribed series cannot be pushed down by a
+#    negative keyword in its description.
+subscription_bonus: 25
+subscription_suppresses_keywords: true
+
+# 4. Type weight
+kind_weight:
+  lecture: 6
+  conference: 5
+  workshop: 4
+  showcase: 4
+  exhibition: 3
+  defense: 1
+  social: -2
+  career: -4
+  admin: -12
+  other: 0
+
+# 5. Time conflict with config/busy.yml
+conflict:
+  overlap_penalty: -30       # collides with a fixed commitment
+  outside_window_penalty: -8 # outside the hours you said you can attend
+
+# 6. Commute and access
+access_penalty:
+  open: 0
+  check: -2
+  restricted: -25
+
+virtual_adjustment: -3       # online events are easier to miss, harder to enjoy
+
+# Selection
+priority_calendar_size: 8    # a ceiling, not a target
+priority_min_score: 12       # below this, leave the slot empty
+all_calendar_min_score: -5   # below this, drop the event entirely
+
+# Recurring-event cap: same series + same weekday + same start time keeps one
+# entry per week, so a standing group meeting cannot flood the calendar.
+recurring_weekly_cap: 1
+
+# How far ahead to look on a normal run.
+horizon_days: 21
+
+# Registration-deadline section of the email: events starting 8-21 days out
+# whose deadline falls inside the next 7 days.
+deadline_lookahead_days: 7
+deadline_event_window: [8, 21]
