@@ -1,65 +1,65 @@
 {
  "gsd_loeb_library": {
   "consecutive_failures": 0,
-  "count": 16,
+  "count": 17,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "harvard_art_museums": {
   "consecutive_failures": 0,
   "count": 27,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "harvard_gsd": {
   "consecutive_failures": 0,
   "count": 6,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "harvard_hbs": {
   "consecutive_failures": 0,
   "count": 1,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "harvard_seas": {
   "consecutive_failures": 0,
   "count": 10,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "mit_all": {
   "consecutive_failures": 0,
   "count": 6,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "mit_building_e14": {
   "consecutive_failures": 0,
   "count": 0,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "mit_csail": {
   "consecutive_failures": 0,
   "count": 10,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  },
  "mit_media_lab": {
   "consecutive_failures": 0,
   "count": 1,
   "error": null,
-  "last_run": "2026-09-02T04:59:49+00:00",
+  "last_run": "2026-09-02T13:55:06+00:00",
   "ok": true
  }
 }
