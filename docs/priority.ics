@@ -6,34 +6,11 @@ X-WR-CALNAME:Events - Priority
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[需确认] Bringing Physical Intelligence into the Real World
-DTSTART;TZID=America/New_York:20260904T090000
-DTEND;TZID=America/New_York:20260904T100000
-DTSTAMP:20260904T135028Z
-UID:mit_csail-14805@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
- ｜系列：CSL Seminar Series\n\n主讲：Chelsea Finn (Stanford)\n\n摘
- 要：Speaker: Chelsea Finn (Stanford) Title: Bringing Physical Intelligen
- ce into the Real WorldAbstract: Reliability and generalization remain bott
- lenecks for deploying robots into the real world. Robotic foundation model
- s have shown promising signs of generalization but are not yet performant 
- out-of-the-box in a wide range of scenarios. At the same time\, these mode
- ls often lack the reliability that i…\n\n地点：32_G449\n活动页：h
- ttps://www.csail.mit.edu/event/csl-seminar-series-bringing-physical-intell
- igence-real-world\n\n来源：mit_csail｜得分 22｜抓取于 2026-09-04
-  13:50
-LOCATION:32 Vassar Street\, Cambridge\, MA 02139
-STATUS:CONFIRMED
-URL:https://www.csail.mit.edu/event/csl-seminar-series-bringing-physical-i
- ntelligence-real-world
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[需确认] Environmental surveillance for managing infectious dis
  ease outbreaks locally and globally
 DTSTART;TZID=America/New_York:20260911T120000
 DTEND;TZID=America/New_York:20260911T130000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:harvard_seas-53568163785702@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -45,7 +22,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ment clinical surveillance infrastructure\, often providing early warning 
  and m…\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.s
  eas.harvard.edu/event/hannah-greenwald-healy-harvard-university\n\n来源
- ：harvard_seas｜得分 30｜抓取于 2026-09-04 13:50
+ ：harvard_seas｜得分 30｜抓取于 2026-09-05 13:04
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/hannah-greenwald-healy-harvard-u
@@ -55,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Meet the 2027 Loeb Fellows
 DTSTART;TZID=America/New_York:20260916T183000
 DTEND;TZID=America/New_York:20260916T203000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:harvard_gsd-2681299@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
@@ -65,7 +42,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
  Meet the Loeb Fellowship Class of 2027\, who will briefly present their wo
  rk and engage in questions from [...]\n\n地点：Piper Auditorium\n活动
  页：https://www.gsd.harvard.edu/event/meet-the-2027-loeb-fellows/\n\n来
- 源：harvard_gsd｜得分 16｜抓取于 2026-09-04 13:50
+ 源：harvard_gsd｜得分 16｜抓取于 2026-09-05 13:04
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/meet-the-2027-loeb-fellows/
@@ -74,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Open Rehearsal Event with the MIT Wind Ensemble
 DTSTART;TZID=America/New_York:20260916T193000
 DTEND;TZID=America/New_York:20260916T203000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:mit_all-53628870610822@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -84,8 +61,8 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  nsemblemusic making at MIT Musicians interested in classical and jazz enco
  uraged to attend! Sign-up here\n\n地点：Building W16: Kresge Auditorium
  \n活动页：https://calendar.mit.edu/event/open-rehearsal-event-with-the
- -mit-wind-ensemble\n\n来源：mit_all｜得分 30｜抓取于 2026-09-04 
- 13:50
+ -mit-wind-ensemble\n\n来源：mit_all｜得分 30｜抓取于 2026-09-05 
+ 13:04
 LOCATION:48 Massachusetts Avenue\, Cambridge\, MA\, 02139
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/open-rehearsal-event-with-the-mit-wind-
@@ -95,13 +72,13 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Joshua S. Benmergui - Harvard University
 DTSTART;TZID=America/New_York:20260918T120000
 DTEND;TZID=America/New_York:20260918T130000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:harvard_seas-53568239654868@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ｜系列：ESE Seminar Series\n\n地点：Pierce Hall\, Room 100F\n活动
  页：https://events.seas.harvard.edu/event/joshua-s-benmergui-harvard-uni
- versity\n\n来源：harvard_seas｜得分 33｜抓取于 2026-09-04 13:50
+ versity\n\n来源：harvard_seas｜得分 33｜抓取于 2026-09-05 13:04
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/joshua-s-benmergui-harvard-unive
@@ -112,7 +89,7 @@ SUMMARY:[需确认] Design and Application of Soft Robotics in Haptics\, G
  ripping\, and Medicine
 DTSTART;TZID=America/New_York:20260918T150000
 DTEND;TZID=America/New_York:20260918T160000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:harvard_seas-53744473228426@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -125,7 +102,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  wer\, and app…\n\n地点：SEC\, Room TBD\n活动页：https://events.se
  as.harvard.edu/event/design-and-application-of-soft-robotics-in-haptics-gr
  ipping-and-medicine\n\n来源：harvard_seas｜得分 33｜抓取于 2026-
- 09-04 13:50
+ 09-05 13:04
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/design-and-application-of-soft-r
@@ -136,7 +113,7 @@ SUMMARY:[开放] Gary Hilderbrand “Writing on the Surface of the Earth
  ”
 DTSTART;TZID=America/New_York:20260922T183000
 DTEND;TZID=America/New_York:20260922T200000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:harvard_gsd-2683439@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -150,7 +127,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  er Auditorium\n活动页：https://www.gsd.harvard.edu/event/writing-on-th
  e-surface-of-the-earth/\n报名：https://www.eventbrite.com/e/gary-hilder
  brand-writing-on-the-surface-of-the-earth-tickets-1998428626819?aff=oddtdt
- creator\n\n来源：harvard_gsd｜得分 23｜抓取于 2026-09-04 13:50
+ creator\n\n来源：harvard_gsd｜得分 23｜抓取于 2026-09-05 13:04
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/writing-on-the-surface-of-the-earth/
@@ -159,7 +136,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Lyndon Neri & Rossana Hu “Liminal Ground”
 DTSTART;TZID=America/New_York:20260924T183000
 DTEND;TZID=America/New_York:20260924T200000
-DTSTAMP:20260904T135028Z
+DTSTAMP:20260905T130457Z
 UID:harvard_gsd-2683449@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -171,7 +148,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  iper Auditorium\n活动页：https://www.gsd.harvard.edu/event/liminal-gro
  und/\n报名：https://www.eventbrite.com/e/lyndon-neri-rosasana-hu-limina
  l-ground-tickets-1998428832434?aff=oddtdtcreator\n\n来源：harvard_gsd
- ｜得分 16｜抓取于 2026-09-04 13:50
+ ｜得分 16｜抓取于 2026-09-05 13:04
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/liminal-ground/
