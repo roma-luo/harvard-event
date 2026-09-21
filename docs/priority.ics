@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] “The Science of Zero-Waste Cooking”
 DTSTART;TZID=America/New_York:20260921T190000
 DTEND;TZID=America/New_York:20260921T200000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_seas-53977445947187@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -20,7 +20,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  d the future of regenerative gastronomy.\n\n地点：Science Center\, Room
   Hall C\n活动页：https://events.seas.harvard.edu/event/science-cooking
  -lecture-series-douglas-mcmaster-the-science-of-zero-waste-cooking\n\n来
- 源：harvard_seas｜得分 16｜抓取于 2026-09-20 13:46
+ 源：harvard_seas｜得分 16｜抓取于 2026-09-21 16:03
 LOCATION:1 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/science-cooking-lecture-series-d
@@ -31,7 +31,7 @@ SUMMARY:[开放] Gary Hilderbrand “Writing on the Surface of the Earth
  ”
 DTSTART;TZID=America/New_York:20260922T183000
 DTEND;TZID=America/New_York:20260922T200000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_gsd-2683439@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -45,7 +45,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  ing-on-the-surface-of-the-earth/\n报名：https://www.eventbrite.com/e/ga
  ry-hilderbrand-writing-on-the-surface-of-the-earth-tickets-1998428626819?a
  ff=oddtdtcreator\n\n来源：harvard_gsd｜得分 23｜抓取于 2026-09-2
- 0 13:46
+ 1 16:03
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/writing-on-the-surface-of-the-earth/
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Lyndon Neri & Rossana Hu “Liminal Ground”
 DTSTART;TZID=America/New_York:20260924T183000
 DTEND;TZID=America/New_York:20260924T200000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_gsd-2683449@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -66,7 +66,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  地点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/event/l
  iminal-ground/\n报名：https://www.eventbrite.com/e/lyndon-neri-rosasana
  -hu-liminal-ground-tickets-1998428832434?aff=oddtdtcreator\n\n来源：har
- vard_gsd｜得分 41｜抓取于 2026-09-20 13:46
+ vard_gsd｜得分 41｜抓取于 2026-09-21 16:03
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/liminal-ground/
@@ -76,7 +76,7 @@ SUMMARY:[开放] Karen Korellis Reuther “Expanding the Blueprint in a Ma
  n-Made World”
 DTSTART;TZID=America/New_York:20260928T120000
 DTEND;TZID=America/New_York:20260928T130000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_gsd-2473177@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -88,7 +88,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  gy and innovative approaches to teaching. Upcoming [...]\n\n地点：Franc
  es Loeb Library Lobby\n活动页：https://www.gsd.harvard.edu/event/facul
  ty-author-talks-series/\n\n来源：harvard_gsd｜得分 16｜抓取于 20
- 26-09-20 13:46
+ 26-09-21 16:03
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/faculty-author-talks-series/
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Kashef Chowdhury “Meditations in Entropy”
 DTSTART;TZID=America/New_York:20260928T183000
 DTEND;TZID=America/New_York:20260928T200000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_gsd-2683458@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -110,7 +110,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  活动页：https://www.gsd.harvard.edu/event/meditations-in-entropy/\n报
  名：https://www.eventbrite.com/e/kashef-chowdhury-meditations-in-entropy
  -tickets-1998429350985?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 
- 23｜抓取于 2026-09-20 13:46
+ 23｜抓取于 2026-09-21 16:03
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/meditations-in-entropy/
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] The Once and Future Software Engineer
 DTSTART;TZID=America/New_York:20260930T170000
 DTEND;TZID=America/New_York:20260930T190000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:mit_all-53982830707300@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -131,7 +131,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
  gies that transformed how software is built—and what it means…\n\n地
  点：Building 32\, Room 124\n活动页：https://calendar.mit.edu/event/g
  radel-workshop-the-once-and-future-software-engineer\n\n来源：mit_all
- ｜得分 30｜抓取于 2026-09-20 13:46
+ ｜得分 30｜抓取于 2026-09-21 16:03
 LOCATION:32 Vassar Street\, Cambridge\, MA\, 02139
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/gradel-workshop-the-once-and-future-sof
@@ -142,7 +142,7 @@ SUMMARY:[开放] Kengo Kuma: New Works Kengo Kuma in Conversation with Gra
  ce La
 DTSTART;TZID=America/New_York:20261001T120000
 DTEND;TZID=America/New_York:20261001T133000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_gsd-2684334@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -155,7 +155,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  nd Hall\n活动页：https://www.gsd.harvard.edu/event/kengo-kuma-in-conve
  rsation-with-grace-la/\n报名：https://www.eventbrite.com/e/kengo-kuma-i
  n-conversation-with-grace-la-tickets-1998983986916?aff=oddtdtcreator\n\n
- 来源：harvard_gsd｜得分 41｜抓取于 2026-09-20 13:46
+ 来源：harvard_gsd｜得分 41｜抓取于 2026-09-21 16:03
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/kengo-kuma-in-conversation-with-grac
@@ -166,7 +166,7 @@ SUMMARY:[需确认] The Brown-Black Continuum of Light-Absorbing Carbonace
  ous Aerosols
 DTSTART;TZID=America/New_York:20261002T120000
 DTEND;TZID=America/New_York:20261002T130000
-DTSTAMP:20260920T134634Z
+DTSTAMP:20260921T160309Z
 UID:harvard_seas-53568250473448@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -179,7 +179,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ospher…\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.
  seas.harvard.edu/event/the-brown-black-continuum-of-light-absorbing-carbon
  aceous-aerosols\n\n来源：harvard_seas｜得分 30｜抓取于 2026-09-2
- 0 13:46
+ 1 16:03
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/the-brown-black-continuum-of-lig
