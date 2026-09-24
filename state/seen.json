@@ -11,7 +11,7 @@
    "cancelled_marker": null,
    "description": "Don't have time to come browse for books in the library? Want to do a quick drop-off on the way to Chauhaus? Need last-minute research support? No worries because the library's coming to you. Come visit the second floor outer-tray space if you want some inspiration or help for information and/or design!",
    "end": "2026-09-23T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.218741+00:00",
+   "fetched_at": "2026-09-24T14:29:05.981972+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Gund 2nd: Outer Tray Collaboration Space",
@@ -44,7 +44,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17333716"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "gsd_loeb_library-LibCal-4722-17333732@harvard-mit-events": {
@@ -241,7 +241,7 @@
  },
  "gsd_loeb_library-LibCal-4722-17333912@harvard-mit-events": {
   "calendar": null,
-  "content_hash": "240e8bc8303f076d",
+  "content_hash": "d321f8c61b7725d2",
   "event": {
    "access": "open",
    "address": "48 Quincy Street, Cambridge, MA 02138",
@@ -249,12 +249,12 @@
    "alt_urls": [],
    "campus": "cambridge_harvard",
    "cancelled_marker": null,
-   "description": "Our weekly librarian office hours! Come for a snack, browse a curated selection of library holdings, and ask your librarians any and all questions.",
+   "description": "Our weekly librarian office hours! Come for a chat, browse a curated selection of library holdings, and ask your librarians any and all questions.",
    "end": "2026-09-28T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219160+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982482+00:00",
    "is_virtual": false,
    "kind": "admin",
-   "location": "Collaboration Space 1",
+   "location": "Collaboration Space 2",
    "raw_facets": {
     "categories": [
      "Drop-in Hours"
@@ -268,7 +268,7 @@
    "registration_url": null,
    "score": 0.0,
    "score_detail": {},
-   "sequence": 0,
+   "sequence": 1,
    "series": "Drop-in Hours",
    "source": "gsd_loeb_library",
    "speaker": null,
@@ -284,12 +284,12 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17333912"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
-  "sequence": 0
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 1
  },
  "gsd_loeb_library-LibCal-4722-17333913@harvard-mit-events": {
   "calendar": null,
-  "content_hash": "f300565860c22e3f",
+  "content_hash": "cf2721f977f38fb8",
   "event": {
    "access": "open",
    "address": "48 Quincy Street, Cambridge, MA 02138",
@@ -297,12 +297,12 @@
    "alt_urls": [],
    "campus": "cambridge_harvard",
    "cancelled_marker": null,
-   "description": "Our weekly librarian office hours! Come for a snack, browse a curated selection of library holdings, and ask your librarians any and all questions.",
+   "description": "Our weekly librarian office hours! Come for a chat, browse a curated selection of library holdings, and ask your librarians any and all questions.",
    "end": "2026-10-05T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219556+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983013+00:00",
    "is_virtual": false,
    "kind": "admin",
-   "location": "Collaboration Space 1",
+   "location": "Collaboration Space 2",
    "raw_facets": {
     "categories": [
      "Drop-in Hours"
@@ -316,7 +316,7 @@
    "registration_url": null,
    "score": 0.0,
    "score_detail": {},
-   "sequence": 0,
+   "sequence": 1,
    "series": "Drop-in Hours",
    "source": "gsd_loeb_library",
    "speaker": null,
@@ -332,12 +332,12 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17333913"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
-  "sequence": 0
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 1
  },
  "gsd_loeb_library-LibCal-4722-17333914@harvard-mit-events": {
   "calendar": null,
-  "content_hash": "c0e63487ce38c4b7",
+  "content_hash": "fc3848a045a78276",
   "event": {
    "access": "open",
    "address": "48 Quincy Street, Cambridge, MA 02138",
@@ -345,12 +345,12 @@
    "alt_urls": [],
    "campus": "cambridge_harvard",
    "cancelled_marker": null,
-   "description": "Our weekly librarian office hours! Come for a snack, browse a curated selection of library holdings, and ask your librarians any and all questions.",
+   "description": "Our weekly librarian office hours! Come for a chat, browse a curated selection of library holdings, and ask your librarians any and all questions.",
    "end": "2026-10-12T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219774+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983293+00:00",
    "is_virtual": false,
    "kind": "admin",
-   "location": "Collaboration Space 1",
+   "location": "Collaboration Space 2",
    "raw_facets": {
     "categories": [
      "Drop-in Hours"
@@ -364,7 +364,7 @@
    "registration_url": null,
    "score": 0.0,
    "score_detail": {},
-   "sequence": 0,
+   "sequence": 1,
    "series": "Drop-in Hours",
    "source": "gsd_loeb_library",
    "speaker": null,
@@ -380,8 +380,8 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17333914"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
-  "sequence": 0
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 1
  },
  "gsd_loeb_library-LibCal-4722-17334115@harvard-mit-events": {
   "calendar": "all",
@@ -395,7 +395,7 @@
    "cancelled_marker": null,
    "description": "A book swap! Between you and the library! Happening in the trays! Come to the second floor outer-tray space to browse a selection of unique design books looking for a new home. And if you have any books looking for a new home, we will happily take them for the next GSD Little Free Library event. Drop-in for however long between 12 - 1PM!",
    "end": "2026-10-05T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219526+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982971+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Gund 2nd: Outer Tray Collaboration Space",
@@ -428,7 +428,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17334115"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17336858@harvard-mit-events": {
@@ -491,7 +491,7 @@
    "cancelled_marker": null,
    "description": "Learn and practice strategies to take better notes and read faster and more efficiently. The session will be led by Alison Pasinella, Writing and Communication Services Librarian, and Kai McGinn, Research and Instruction Librarian, in the Digital Research Studio Space on the lower level of Loeb Library.",
    "end": "2026-10-07T19:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219670+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983166+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Digital Research Studio Space",
@@ -524,7 +524,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17336925"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17343006@harvard-mit-events": {
@@ -587,7 +587,7 @@
    "cancelled_marker": null,
    "description": "Feeling stuck in your writing? Wondering how to turn your research notes into a final paper? Join the library's research and writing team to practice pivoting from research into formulating and supporting your own arguments and ideas. Drop in for a little, a lot, or for the whole session! We will meet in Gund 520. No registration necessary!",
    "end": "2026-10-13T12:45:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219819+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983352+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Gund 520",
@@ -620,7 +620,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17343307"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17344918@harvard-mit-events": {
@@ -635,7 +635,7 @@
    "cancelled_marker": null,
    "description": "Interested in applying for grants and fellowships? The library will provide a brief overview of how to define a research project, identify funding sources, and develop a proposal. This session will be led by Alison Pasinella (Writing and Communication Services Librarian) and Alix Reiskind (Research and Teaching Team Lead Librarian)",
    "end": "2026-09-29T12:45:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219203+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982559+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Gund 510",
@@ -668,7 +668,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/calendar/support/grants926"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17361753@harvard-mit-events": {
@@ -875,7 +875,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be in-person. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-09-23T11:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.218696+00:00",
+   "fetched_at": "2026-09-24T14:29:05.981914+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -908,7 +908,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17361826"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "gsd_loeb_library-LibCal-4722-17361842@harvard-mit-events": {
@@ -923,7 +923,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be online. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-09-24T10:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.218939+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982204+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -956,7 +956,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17361842"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17361849@harvard-mit-events": {
@@ -971,7 +971,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be online. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-09-30T17:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219238+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982610+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -1004,7 +1004,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17361849"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17362109@harvard-mit-events": {
@@ -1019,7 +1019,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be online. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-10-01T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219273+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982661+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -1052,7 +1052,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17362109"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17362118@harvard-mit-events": {
@@ -1067,7 +1067,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be online. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-10-06T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219592+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983061+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -1100,7 +1100,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17362118"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17362124@harvard-mit-events": {
@@ -1115,7 +1115,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be in-person. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-10-07T11:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219628+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983110+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -1148,7 +1148,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17362124"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17362127@harvard-mit-events": {
@@ -1163,7 +1163,7 @@
    "cancelled_marker": null,
    "description": "Join Harvard Library's workshop on Zotero, one of our favorite citation management tools! This session will be online. More information and registration through this link: Harvard Library Events - Harvard Library Calendars - Harvard Library",
    "end": "2026-10-14T10:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219854+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983399+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -1196,7 +1196,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17362127"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17363039@harvard-mit-events": {
@@ -1307,7 +1307,7 @@
    "cancelled_marker": null,
    "description": "FACULTY AUTHOR TALK \"Expanding the Blueprint in a Man-Made World” Evolution, Longevity, and Leadership in Training and Practice Please join in the library for a conversation of MDE Design Lecturer Karen Korellis Reuther with Dean Sarah Whiting and Professor Belinda Tato on the recent publication, Man-Made: How We Designed a World That Leaves Women Out, and How We Can Make It Right with Harper Business. Drawing on more than four decades of experience as an industrial designer and leader at companies including Nike and Reebok, design critic in advanced studies at the Harvard Graduate School of Design (GSD), Karen Korellis Reuther examines how products, spaces, and systems have often been designed around male bodies and experiences, leaving women to navigate environments that can be uncomfortable, exclusionary, or unsafe. The book argues for a more expansive approach to design that treats inclusion not as an add-on, but as a fundamental responsibility of the design process. This event will be held in the Frances Loeb Library and will be streamed and recorded.",
    "end": "2026-09-28T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219129+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982438+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Loeb Library Lobby, Upper Level",
@@ -1340,7 +1340,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17442846"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 2
  },
  "gsd_loeb_library-LibCal-4722-17553668@harvard-mit-events": {
@@ -1500,7 +1500,7 @@
    "cancelled_marker": null,
    "description": "Explore how to find geospatial data, examine best practices (or good enough) for managing geospatial projects, move geospatial data between different software applications, create maps for print and digital platforms, and combine curiosity and critique for rapid iteration. These sessions will be both laissez-faire and deeply intentional. Expect to learn at least 3 new things every time you participate. Bring a laptop computer with you and consider having all the software you think you need installed (but this is not a requirement). Registration is not required - just drop in - but there is really only comfortable space for about 12 people.",
    "end": "2026-09-25T16:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219005+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982290+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Digital Research Studio Space",
@@ -1533,7 +1533,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/calendar/support/makeamapfridayfall2026"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17559218@harvard-mit-events": {
@@ -1597,7 +1597,7 @@
    "cancelled_marker": null,
    "description": "Explore how to find geospatial data, examine best practices (or good enough) for managing geospatial projects, move geospatial data between different software applications, create maps for print and digital platforms, and combine curiosity and critique for rapid iteration. These sessions will be both laissez-faire and deeply intentional. Expect to learn at least 3 new things every time you participate. Bring a laptop computer with you and consider having all the software you think you need installed (but this is not a requirement). Registration is not required - just drop in - but there is really only comfortable space for about 12 people.",
    "end": "2026-10-09T16:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219737+00:00",
+   "fetched_at": "2026-09-24T14:29:05.983254+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Digital Research Studio Space",
@@ -1630,7 +1630,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/calendar/support/makeamapfridayfall2026"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17584488@harvard-mit-events": {
@@ -1741,7 +1741,7 @@
    "cancelled_marker": null,
    "description": "In landscapes without land—interior gardens, green roofs, and constructed wetlands—ecological interactions unfold within anthropogenic strata of polymers, aggregates, concrete, and steel. These engineered environments can bring life to otherwise inert sites. Yet, they are places of vegetal deviation rather than conformity: plants are expected to exceed the conventional limits of their natural habits and appearances. The feedback loops between technology and life are tightly bound—and the evolution of a landscape can be misread as failure if it does not conform to a priori expectations. From gardens to infrastructural landscapes, practitioners design and maintain material systems to cultivate particular forms of biological variation—while foreclosing others. As both cautionary tales and design possibilities, projects that work “beyond” nature call for two forms of sustained attention. The first is to follow technologized forms of life through periods of unruliness, asking what these non-human entities and humans might accomplish together that neither could achieve alone. The second is to confront what accountability for such living systems could entail—and to recognize how attending to the full life cycle of a landscape can unsettle institutional conventions governing material systems, potentially bringing designers and the public closer to projects of regeneration rather than mere replacement. —Danielle Choi, Associate Professor of Landscape Architecture",
    "end": "2026-09-23T14:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.218901+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982152+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Loeb Library Lobby, Upper Level",
@@ -1774,7 +1774,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17613506"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17628521@harvard-mit-events": {
@@ -1789,7 +1789,7 @@
    "cancelled_marker": null,
    "description": "Following the Kengo Kuma in Conversation _positions lecture with Grace La about Kuma's latest publication, KENGO KUMA: NEW WORKS, a book signing will take place afterward in the Frances Loeb Library. Books will be available for sale in the Druker Gallery before and after the lecture. More information about the event can be found on the GSD website. Kengo Kuma was born in 1954. He proposes architecture that opens up new relationships between nature, technology, and human beings, and established Kengo Kuma & Associates (KKAA) in 1990. The firm currently has projects underway in more than 50 countries. Kuma is a University Professor and Professor Emeritus at the University of Tokyo, after teaching at Keio University. His major publications include KENGO KUMA New Works, Kengo Kuma Onomatopoeia Architecture Grounding (X-Knowledge), Nihon no Kenchiku (Architecture of Japan, Iwanami Shoten), Zen Shigoto (Kengo Kuma,Complete Works, Daiwa Shobo), Ten Sen Men (Point Line Plane, Iwanami Shoten), Makeru Kenchiku (Architecture of Defeat, Iwanami Shoten), Shizen na Kenchiku (Natural Architecture, Iwanami Shinsho), Chii-sana Kenchiku (Small Architecture, Iwanami Shinsho), and many others. Grace La is Professor and Chair of the department of architecture at the Harvard University Graduate School of Design. She is cofounding principal of LA DALLMAN, a practice recognized for integrating architecture, engineering, and landscape. LA DALLMAN engages in catalytic projects of diverse scale–including civic spaces, bridges, houses, historic and mid-century modern buildings. The practice has received numerous professional honors and has presented at the National Building Museum, the New Museum, the Danish Architectural Museum, the Carnegie Museum of Art, the Houston MFA, the Chicago Architecture Biennial, and others. Co-author of the book The Middle Front and a frequent speaker on architecture, Grace La is a leading interlocuter on the discipline of design and hosts the podcast, Talking Pr…",
    "end": "2026-10-01T15:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.219479+00:00",
+   "fetched_at": "2026-09-24T14:29:05.982906+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Loeb Library Lobby, Upper Level",
@@ -1822,7 +1822,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17628521"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-3978@harvard-mit-events": {
@@ -1884,7 +1884,7 @@
    "cancelled_marker": null,
    "description": "Join us for Second Saturdays Story Time, where local librarians read stories in the galleries!",
    "end": "2026-10-10T11:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.358668+00:00",
+   "fetched_at": "2026-09-24T14:29:05.089020+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -1916,7 +1916,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/second-saturdays-story-time-20"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4113@harvard-mit-events": {
@@ -1931,7 +1931,7 @@
    "cancelled_marker": null,
    "description": "We’re keeping our doors open late for an evening of art, fun, food, and more!",
    "end": "2026-09-24T21:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.354947+00:00",
+   "fetched_at": "2026-09-24T14:29:05.083418+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -1984,7 +1984,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/harvard-art-museums-at-night-52"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4116@harvard-mit-events": {
@@ -2071,7 +2071,7 @@
    "cancelled_marker": null,
    "description": "Explore the world of pigments and paints, and learn how conservators tease out the life story of a painting through its colors.",
    "end": "2026-10-07T16:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.358067+00:00",
+   "fetched_at": "2026-09-24T14:29:05.088073+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Harvard Art Museums",
@@ -2128,7 +2128,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/materials-lab-workshop-color-alchemy-pigments-and-diy-paint"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4119@harvard-mit-events": {
@@ -2215,7 +2215,7 @@
    "cancelled_marker": null,
    "description": "Our Friends Circle members are invited to enjoy a special presentation about the exhibition _On Location: Drawing the Outdoors_.",
    "end": "2026-10-03T11:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.356992+00:00",
+   "fetched_at": "2026-09-24T14:29:05.086417+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2264,7 +2264,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/coffee-with-curators-for-friends-of-the-museums-3"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4130@harvard-mit-events": {
@@ -2407,7 +2407,7 @@
    "cancelled_marker": null,
    "description": "Join us for an in-depth tour of the special exhibition _On Location: Drawing the Outdoors_, led by exhibition curator Joachim Homann.",
    "end": "2026-09-26T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.355358+00:00",
+   "fetched_at": "2026-09-24T14:29:05.084041+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2456,7 +2456,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/exhibition-tour-on-location-drawing-the-outdoors"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4137@harvard-mit-events": {
@@ -2471,7 +2471,7 @@
    "cancelled_marker": null,
    "description": "Join us for an in-depth tour of the special exhibition _On Location: Drawing the Outdoors_, led by exhibition curator Joachim Homann.",
    "end": "2026-10-03T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.357309+00:00",
+   "fetched_at": "2026-09-24T14:29:05.086920+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2520,7 +2520,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/exhibition-tour-on-location-drawing-the-outdoors-2"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4141@harvard-mit-events": {
@@ -2535,7 +2535,7 @@
    "cancelled_marker": null,
    "description": "Calling all Harvard students! Explore with a museum staff member works of ancient art that shaped status, memory, and desire.",
    "end": "2026-10-02T15:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.356814+00:00",
+   "fetched_at": "2026-09-24T14:29:05.086169+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -2588,7 +2588,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/first-hand-fridays-power-and-desire-in-ancient-art"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4143@harvard-mit-events": {
@@ -2603,7 +2603,7 @@
    "cancelled_marker": null,
    "description": "Learn about the tools 19th-century European artists used to accurately depict the landscapes around them.",
    "end": "2026-10-08T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.358553+00:00",
+   "fetched_at": "2026-09-24T14:29:05.088835+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -2652,7 +2652,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/gallery-talk-on-location-drawing-the-outdoors"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4145@harvard-mit-events": {
@@ -2795,7 +2795,7 @@
    "cancelled_marker": null,
    "description": "Join us on a walking tour to connect the natural landscapes in _On Location: Drawing the Outdoors_ to Harvard Yard’s rich botanical history.",
    "end": "2026-09-26T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.355759+00:00",
+   "fetched_at": "2026-09-24T14:29:05.084626+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2852,7 +2852,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/walking-tour-constructing-nature-in-harvard-yard"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4150@harvard-mit-events": {
@@ -2867,7 +2867,7 @@
    "cancelled_marker": null,
    "description": "Join Madison Brown, co-curator of _The Way We Never Were_, for a discussion on proof prints and the craft of producing polished studio portraits.",
    "end": "2026-10-01T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.356518+00:00",
+   "fetched_at": "2026-09-24T14:29:05.085737+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -2916,7 +2916,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/gallery-talk-crafting-perfect-portraits-with-photographic-proof-prints"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4152@harvard-mit-events": {
@@ -2995,7 +2995,7 @@
    "cancelled_marker": null,
    "description": "Join us for an in-depth tour of _The Way We Never Were: The American Professional Photographers Collection_, on view through May 9, 2027.",
    "end": "2026-10-02T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.356651+00:00",
+   "fetched_at": "2026-09-24T14:29:05.085943+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -3044,7 +3044,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/exhibition-tour-the-way-we-never-were-the-american-professional-photographers-collection-2"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4158@harvard-mit-events": {
@@ -3203,7 +3203,7 @@
    "cancelled_marker": null,
    "description": "Luke Tan will explore human efforts to control and own aspects of the natural environment.",
    "end": "2026-10-03T14:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.357679+00:00",
+   "fetched_at": "2026-09-24T14:29:05.087458+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -3252,7 +3252,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-human-nature-with-luke-tan-28-2"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4164@harvard-mit-events": {
@@ -3395,7 +3395,7 @@
    "cancelled_marker": null,
    "description": "This film screening and discussion will explore how the American media managed public fear and promoted conformity during the atomic age.",
    "end": "2026-10-03T16:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.357513+00:00",
+   "fetched_at": "2026-09-24T14:29:05.087213+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -3448,7 +3448,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/film-screening-and-conversation-the-atomic-cafe"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4168@harvard-mit-events": {
@@ -3463,7 +3463,7 @@
    "cancelled_marker": null,
    "description": "Join us for a roundtable conversation reflecting on Barbara Norfleet’s enduring impact as artist, teacher, curator, and collector.",
    "end": "2026-09-30T19:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.356342+00:00",
+   "fetched_at": "2026-09-24T14:29:05.085457+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -3520,7 +3520,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/exhibition-opening-program-for-the-way-we-never-were-barbara-norfleet-and-photography-at-harvard"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4169@harvard-mit-events": {
@@ -3936,7 +3936,7 @@
    "cancelled_marker": null,
    "description": "Ricardo Fernandes Garcia will explore how representations of innocence have enabled painters to address conflict and war.",
    "end": "2026-09-26T14:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.355550+00:00",
+   "fetched_at": "2026-09-24T14:29:05.084315+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -3968,7 +3968,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-child-s-play-with-ricardo-fernandes-garcia-27-18"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4181@harvard-mit-events": {
@@ -3983,7 +3983,7 @@
    "cancelled_marker": null,
    "description": "Jide Anekwe will look at the significance of color in the ancient Mediterranean world and at modern perceptions of the past.",
    "end": "2026-09-27T11:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.355955+00:00",
+   "fetched_at": "2026-09-24T14:29:05.084904+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4015,7 +4015,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-coloring-the-past-with-jide-anekwe-28"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4182@harvard-mit-events": {
@@ -4030,7 +4030,7 @@
    "cancelled_marker": null,
    "description": "Jade Xiao will explore how art accommodates the fleeting nature of time.",
    "end": "2026-09-27T14:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.356128+00:00",
+   "fetched_at": "2026-09-24T14:29:05.085154+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4062,7 +4062,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-in-the-blink-of-an-eye-with-jade-xiao-27-6"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4183@harvard-mit-events": {
@@ -4077,7 +4077,7 @@
    "cancelled_marker": null,
    "description": "Curious about our historical spaces and hidden gems? Join us for a walking tour that includes three historical spaces at the museums.",
    "end": "2026-10-07T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.358226+00:00",
+   "fetched_at": "2026-09-24T14:29:05.088315+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4134,7 +4134,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/a-stroll-through-history-at-the-harvard-art-museums-3"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4185@harvard-mit-events": {
@@ -4149,7 +4149,7 @@
    "cancelled_marker": null,
    "description": "This year’s Coolidge Lecture celebrates the contributions of three womxn to the field of American art.",
    "end": "2026-10-07T19:15:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.358398+00:00",
+   "fetched_at": "2026-09-24T14:29:05.088593+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -4206,7 +4206,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/american-art-curators-in-conversation"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4186@harvard-mit-events": {
@@ -4221,7 +4221,7 @@
    "cancelled_marker": null,
    "description": "Berlin-based artist and filmmaker Pınar Öğrenci, whose work is featured in a current exhibition, will reflect on memory, labor, and belonging.",
    "end": "2026-10-13T19:15:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.359449+00:00",
+   "fetched_at": "2026-09-24T14:29:05.090142+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -4278,7 +4278,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/pinar-oegrenci-good-luck-in-germany"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4187@harvard-mit-events": {
@@ -4613,7 +4613,7 @@
    "cancelled_marker": null,
    "description": "Jane Lilly will discuss boundaries and in-betweenness, exploring how we see and move through works of art.",
    "end": "2026-10-03T11:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.357156+00:00",
+   "fetched_at": "2026-09-24T14:29:05.086686+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4662,7 +4662,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-thresholds-with-jane-lilly-27-3"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4209@harvard-mit-events": {
@@ -4677,7 +4677,7 @@
    "cancelled_marker": null,
    "description": "Jide Anekwe will look at the significance of color in the ancient Mediterranean world and at modern perceptions of the past.",
    "end": "2026-10-04T11:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.357858+00:00",
+   "fetched_at": "2026-09-24T14:29:05.087771+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4709,7 +4709,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-coloring-the-past-with-jide-anekwe-28-2"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4210@harvard-mit-events": {
@@ -4724,7 +4724,7 @@
    "cancelled_marker": null,
    "description": "Giselle Acosta will explore the lens through which artists depict their models, specifically the ones they elevate to the rank of muse.",
    "end": "2026-10-10T11:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.358858+00:00",
+   "fetched_at": "2026-09-24T14:29:05.089274+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4756,7 +4756,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-model-as-muse-with-giselle-acosta-27-13"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4211@harvard-mit-events": {
@@ -4771,7 +4771,7 @@
    "cancelled_marker": null,
    "description": "Jade Xiao will explore how art accommodates the fleeting nature of time.",
    "end": "2026-10-10T14:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.359035+00:00",
+   "fetched_at": "2026-09-24T14:29:05.089543+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4803,7 +4803,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-in-the-blink-of-an-eye-with-jade-xiao-27-7"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4212@harvard-mit-events": {
@@ -4818,7 +4818,7 @@
    "cancelled_marker": null,
    "description": "Jane Lilly will discuss boundaries and in-betweenness, exploring how we see and move through works of art.",
    "end": "2026-10-11T11:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.359200+00:00",
+   "fetched_at": "2026-09-24T14:29:05.089797+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4867,7 +4867,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-thresholds-with-jane-lilly-27-4"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4213@harvard-mit-events": {
@@ -4882,7 +4882,7 @@
    "cancelled_marker": null,
    "description": "Leandra Bautista will look closely at three works of art that evoke home as a space of either comfort or discomfort.",
    "end": "2026-09-26T11:50:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.355173+00:00",
+   "fetched_at": "2026-09-24T14:29:05.083778+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4931,7 +4931,7 @@
    ],
    "url": "https://harvardartmuseums.org/calendar/spotlight-tour-un-settled-with-leandra-bautista-28"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-6562@harvard-mit-events": {
@@ -4946,7 +4946,7 @@
    "cancelled_marker": null,
    "description": "Discover how an intimate and reflective relationship with nature can shape artistic vision.",
    "end": "2027-01-17T23:59:00-05:00",
-   "fetched_at": "2026-09-23T14:29:14.785988+00:00",
+   "fetched_at": "2026-09-24T14:29:05.503186+00:00",
    "is_virtual": false,
    "kind": "exhibition",
    "location": "Special Exhibitions Gallery, Harvard Art Museums",
@@ -4974,7 +4974,7 @@
    ],
    "url": "https://harvardartmuseums.org/exhibitions/6562/on-location-drawing-the-outdoors"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-6622@harvard-mit-events": {
@@ -4989,7 +4989,7 @@
    "cancelled_marker": null,
    "description": "How did photography construct cultural memories of postwar America?",
    "end": "2027-05-09T23:59:00-04:00",
-   "fetched_at": "2026-09-23T14:29:14.786820+00:00",
+   "fetched_at": "2026-09-24T14:29:05.504468+00:00",
    "is_virtual": false,
    "kind": "exhibition",
    "location": "University Research Gallery, Harvard Art Museums",
@@ -5017,7 +5017,7 @@
    ],
    "url": "https://harvardartmuseums.org/exhibitions/6622/the-way-we-never-were-the-american-professional-photographers-collection"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_art_museums-6763@harvard-mit-events": {
@@ -5032,7 +5032,7 @@
    "cancelled_marker": null,
    "description": "This installation that accompanies a Harvard course introduces students to how art making has developed across different geographical regions and across history, from the ancient to the modern.",
    "end": "2027-01-03T23:59:00-05:00",
-   "fetched_at": "2026-09-23T14:29:14.786562+00:00",
+   "fetched_at": "2026-09-24T14:29:05.504085+00:00",
    "is_virtual": false,
    "kind": "exhibition",
    "location": "University Teaching Gallery, Harvard Art Museums",
@@ -5060,7 +5060,7 @@
    ],
    "url": "https://harvardartmuseums.org/exhibitions/6763/introduction-to-the-history-of-art"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_gsd-2473177@harvard-mit-events": {
@@ -5075,7 +5075,7 @@
    "cancelled_marker": null,
    "description": "Event Description Hosted by the Frances Loeb Library at the Harvard Graduate School of Design, Faculty Author Talks provide a venue for GSD faculty members to launch newly published books, discuss recent or in-process publications or research in which they are currently engaged, or present their thoughts on pedagogy and innovative approaches to teaching. Upcoming [...]",
    "end": "2026-09-28T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:12.353045+00:00",
+   "fetched_at": "2026-09-24T14:29:01.985927+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Frances Loeb Library Lobby",
@@ -5126,7 +5126,7 @@
    ],
    "url": "https://www.gsd.harvard.edu/event/faculty-author-talks-series/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_gsd-2595643@harvard-mit-events": {
@@ -5213,7 +5213,7 @@
    "cancelled_marker": null,
    "description": "ON THIS PAGE ParkingScheduleSpeakersPlanning Your TripResourcesAlumni Award SpotlightWho’s Coming? The GSD Comeback: Alumni & Friends Celebration returns to campus on September 25–26, 2026. We invite you to enjoy a weekend of conversation and connection here in Cambridge. When this community comes together, the transformative impact of design is palpable and powerful. Online registration has officially [...]",
    "end": "2026-09-26T08:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:12.352818+00:00",
+   "fetched_at": "2026-09-24T14:29:01.985619+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": null,
@@ -5262,7 +5262,7 @@
    ],
    "url": "https://www.gsd.harvard.edu/event/comeback/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_gsd-2679570@harvard-mit-events": {
@@ -5647,7 +5647,7 @@
    "cancelled_marker": null,
    "description": "LIVESTREAM INFO A live stream for this event will be available on this page at the scheduled start time. Closed captioning is available by clicking the “CC” icon at the bottom of the player window. About This Lecture We project ourselves toward the future from a liminal space, where cultural boundaries are active sites of [...]",
    "end": "2026-09-24T20:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:12.352104+00:00",
+   "fetched_at": "2026-09-24T14:29:01.984609+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Piper Auditorium",
@@ -5714,7 +5714,7 @@
    ],
    "url": "https://www.gsd.harvard.edu/event/liminal-ground/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_gsd-2683458@harvard-mit-events": {
@@ -5729,7 +5729,7 @@
    "cancelled_marker": null,
    "description": "LIVESTREAM INFO A live stream for this event will be available on this page at the scheduled start time. Closed captioning is available by clicking the “CC” icon at the bottom of the player window. About this Event Since 1995, Dhaka-based architecture firm Kashef Chowdhury / URBANA has produced an astonishing collection of works of [...]",
    "end": "2026-09-28T20:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:12.351897+00:00",
+   "fetched_at": "2026-09-24T14:29:01.984270+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Piper Auditorium",
@@ -5793,7 +5793,7 @@
    ],
    "url": "https://www.gsd.harvard.edu/event/meditations-in-entropy/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_gsd-2684334@harvard-mit-events": {
@@ -5808,7 +5808,7 @@
    "cancelled_marker": null,
    "description": "About This Event Join us for an event celebrating the release of Kengo Kuma: New Works (Thames & Hudson), the second monograph on one of the world’s preeminent architects, showcasing projects completed around the world between 2012 and 2024—a long-awaited follow-up to the acclaimed Kengo Kuma: Complete Works. This event succeeds his delivery of the John Hejduk Soundings [...]",
    "end": "2026-10-01T13:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:12.350107+00:00",
+   "fetched_at": "2026-09-24T14:29:01.981689+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Gund Hall",
@@ -5874,7 +5874,7 @@
    ],
    "url": "https://www.gsd.harvard.edu/event/kengo-kuma-in-conversation-with-grace-la/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_gsd-2684355@harvard-mit-events": {
@@ -5955,7 +5955,7 @@
    "cancelled_marker": null,
    "description": "Campus tours for the general public are available on Thursdays at 10:00 AM, departing from the North Lobby of Baker Library (see map). The tour lasts approximately one hour and registration is required. To register and view current tour date availability, please visit the tour website. If you have any questions, please e-mail tours@hbs.edu.",
    "end": "2026-09-24T11:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.684844+00:00",
+   "fetched_at": "2026-09-24T14:29:09.219423+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Baker Library | Bloomberg Center, Room Building Lobby",
@@ -5995,7 +5995,7 @@
    "units": [],
    "url": "https://events.hbs.edu/event/harvard_business_school_campus_tours"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 3
  },
  "harvard_hbs-53972045316690@harvard-mit-events": {
@@ -6074,7 +6074,7 @@
    "cancelled_marker": null,
    "description": "Office hours with serial entrepreneur/angel investor/business builders from the i-lab and Harvard Grid - bring your venturing challenges, and we'll bring the pizza.",
    "end": "2026-10-01T14:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.027740+00:00",
+   "fetched_at": "2026-09-24T14:29:08.856467+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Science and Engineering Complex (SEC), Room The Node (SEC 2.203)",
@@ -6158,7 +6158,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-7065"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 5
  },
  "harvard_seas-53230904073533@harvard-mit-events": {
@@ -6173,7 +6173,7 @@
    "cancelled_marker": null,
    "description": "Curious about venturing? Drop in to Venturing@Harvard, a monthly meet-up where you can explore ideas, meet people building things across campus, and see what's happening in Harvard's startup community. No pitch, project, or startup required.",
    "end": "2026-09-30T18:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.027455+00:00",
+   "fetched_at": "2026-09-24T14:29:08.856055+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Science and Engineering Complex (SEC), Room West Atrium",
@@ -6252,7 +6252,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/venturingharvard-8915"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53248849864446@harvard-mit-events": {
@@ -6267,7 +6267,7 @@
    "cancelled_marker": null,
    "description": "Harvard PhD graduate students in CxO roles return to campus to share how they launched their VC funded startup based on their research out of Harvard labs. This isn't your typical tech talk - it's an intimate, informal conversation where you'll hear directly from PhD founders about their journey from the lab bench to launching a venture-backed startup. Two returning founders pull back the curtain on the full arc of building a deep tech company, from first investment to the decisions that defined what came next. Don’t miss this chance to connect, ask questions, and explore founder pathways to success. Grab a bite, join the discussion, meet people working on exciting projects, and leave with new insights. Open to the Harvard community.",
    "end": "2026-09-24T17:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026788+00:00",
+   "fetched_at": "2026-09-24T14:29:08.855041+00:00",
    "is_virtual": false,
    "kind": "career",
    "location": "Science and Engineering Complex (SEC), Room The Node (SEC 2.203)",
@@ -6351,7 +6351,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/lab-to-launch-lounge-5599"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53302072864604@harvard-mit-events": {
@@ -6654,7 +6654,7 @@
    "cancelled_marker": null,
    "description": "Rajan Chakrabarty - Washington University Light-absorbing carbonaceous aerosols (LACs)—encompassing both black and brown carbon—significantly influence atmospheric thermodynamics, surface temperatures, and cloud microphysics. The absence of consensus on the properties of LACs across their lifecycle, from emission to atmospheric processing to deposition, is one of the grand challenges in atmospheric aerosol science. Large discrepancies exist between directly measured LAC properties and their parameterizations in current models. To classify the complex optical properties of LACs, researchers increasingly rely on a brown-black continuum model. Along this spectrum, the imaginary part of the refractive index (k), which dictates light absorption, varies by orders of magnitude. At one extreme lies water-soluble brown carbon (BrC), which is weakly absorbing and highly susceptible to photobleaching. At the opposite end is black carbon (BC), defined by strong, wavelength-independent absorption across the visible and infrared spectra. Bridging this gap is dark BrC—highly refractory, water-insoluble particles with shortwave absorption efficiencies rivaling BC. In this seminar, I will explore the physicochemical dynamics of the LAC brown-black continuum, beginning with combustion-driven formation and the resulting particle characteristics. I will then pivot to contemporary measurement techniques for aerosol microphysics, highlighting advanced instrumental and computational methods for quantifying wavelength-dependent refractive indices and optical cross-sections. Finally, I will discuss recent advancements in applying these foundational insights to stratospheric solar radiation management. Dr. Rajan K. Chakrabarty is the Harold D. Jolley Professor of Engineering at Washington University in St. Louis, where he directs the Aerosol Interdisciplinary Research (AIR) Laboratory. Working at the nexus of fundamental physical sciences and translational engineering, his group advances re…",
    "end": "2026-10-02T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.028426+00:00",
+   "fetched_at": "2026-09-24T14:29:08.857417+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Pierce Hall, Room 100F",
@@ -6732,7 +6732,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/the-brown-black-continuum-of-light-absorbing-carbonaceous-aerosols"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_seas-53638070678673@harvard-mit-events": {
@@ -6981,7 +6981,7 @@
  },
  "harvard_seas-53683529361958@harvard-mit-events": {
   "calendar": "all",
-  "content_hash": "231756e3136edea2",
+  "content_hash": "a464d9fa63544eeb",
   "event": {
    "access": "check",
    "address": null,
@@ -6991,7 +6991,7 @@
    "cancelled_marker": null,
    "description": "Allstonway is a dynamic public space at the heart of the Enterprise Research Campus. It brings together innovators, creators, academics, local residents, entrepreneurs, and the community to form an innovation experience. Rooted in the creative culture of Allston, Allstonway offers engaging spaces where all come together, connect, and collaborate. Please visit their website to view upcoming events & learn more.",
    "end": null,
-   "fetched_at": "2026-09-23T14:29:19.025453+00:00",
+   "fetched_at": "2026-09-24T14:29:08.855421+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Room Allstonway",
@@ -7010,11 +7010,11 @@
    "registration_url": null,
    "score": 0.0,
    "score_detail": {},
-   "sequence": 9,
+   "sequence": 10,
    "series": null,
    "source": "harvard_seas",
    "speaker": null,
-   "start": "2026-09-23T00:00:00-04:00",
+   "start": "2026-09-25T00:00:00-04:00",
    "status": "CONFIRMED",
    "title": "Allstonway Event Series",
    "topics": [],
@@ -7022,8 +7022,8 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/allstonway-event-series"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
-  "sequence": 9
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 10
  },
  "harvard_seas-53744473228426@harvard-mit-events": {
   "calendar": "priority",
@@ -7338,7 +7338,7 @@
    "cancelled_marker": null,
    "description": "Title: What Does Safety Mean for Generalist Robots? Speaker: Andrea Bajcsy, Assistant Professor in the Robotics Institute at Carnegie Mellon University Abstract: Robot safety is a nuanced concept. We commonly equate safety with collision-avoidance. However, when considering the possibility of generalist robots -- one robot that can do \"anything\" -- we need to expand our notion of safety. For example, a manipulator should understand when it is not confident about a requested task, that objects should be gently manipulated to prevent breaking or spilling, and that overheating items can cause burning or melting. However, designing robots that have such a nuanced safety understanding (and that can reliably generate appropriate actions) is an outstanding challenge. In this talk, I will describe my group's work on systematically uniting modern machine learning models (such as large vision-language models and latent world models) with classical formulations of safety in the control literature to generalize safe robot decision-making to increasingly open world interactions. Throughout the talk, I will present experimental instantiations of these ideas in domains like vision-based robotic manipulation. The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm",
    "end": "2026-09-24T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026457+00:00",
+   "fetched_at": "2026-09-24T14:29:08.854567+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Science and Engineering Complex (SEC), Room LL2.224",
@@ -7426,7 +7426,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-andrea-bajscy-cmu-robotics-institute"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_seas-53798726682934@harvard-mit-events": {
@@ -7441,7 +7441,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Marzyeh Ghassemi, Associate Professor at MIT in Electrical Engineering and Computer Science (EECS) and Institute for Medical Engineering & Science (IMES), and a Vector Institute faculty member holding a Canadian CIFAR AI Chair and Canada Research Chair. Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
    "end": "2026-10-01T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.027988+00:00",
+   "fetched_at": "2026-09-24T14:29:08.856845+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Science and Engineering Complex (SEC), Room LL2.224",
@@ -7529,7 +7529,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-marzyeh-ghassemi-mit"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53798743876216@harvard-mit-events": {
@@ -7544,7 +7544,7 @@
    "cancelled_marker": null,
    "description": "Title: From (Mis)aligned Models to Aligned Systems Speaker: Aaron Roth, the Henry Salvatori Professor of Computer and Cognitive Science at the University of Pennsylvania Abstract: The world is being reshaped around AI as we watch. In the near future --- and already today --- many increasingly important tasks will be delegated to AI agents. The field of AI alignment studies how we can make AI models trustworthy --- faithful agents that advance the interests of their users. But alignment might be hard. In this talk we ask what we might be able to guarantee from systems --- either naturally emerging from markets, or intentionally desgined --- that consist of multiple AI models that are each individually mis-aligned. We will see that sometimes we can still guarantee good outcomes by leveraging a diversity of misalignment --- models that are misaligned with their user, but also with each other. This talk is based on a number of joint works with Natalie Collina, Surbhi Goel, Meena Jagadeesan, Michael Kearns, Sophia Pi, Emily Ryu, Sikata Sengupta, and Mirah Shi",
    "end": "2026-10-08T15:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.029274+00:00",
+   "fetched_at": "2026-09-24T14:29:08.858617+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Science and Engineering Complex (SEC), Room LL2.224",
@@ -7632,7 +7632,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-aaron-roth-upenn"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_seas-53808332737889@harvard-mit-events": {
@@ -7739,7 +7739,7 @@
    "cancelled_marker": null,
    "description": "The Harvard Technology, Science, & Data Fair will bring undergraduates, master’s, PhD students, postdocs, and recent alumni together with employers to discuss opportunities in software engineering, data science, machine learning, artificial intelligence, UX/UI design, physical and life sciences, and other STEM fields. This event is open to all Harvard University & MIT degree students and alumni. Students: Register Here",
    "end": "2026-10-02T16:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.028539+00:00",
+   "fetched_at": "2026-09-24T14:29:08.857614+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Harvard Student Organization Center at Hilles (SOCH)",
@@ -7770,7 +7770,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/harvard-technology-science-data-fair"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53868510551433@harvard-mit-events": {
@@ -7785,7 +7785,7 @@
    "cancelled_marker": null,
    "description": "Engineering materials are selected for fixed properties and then protected with safety factors, because repeated loading degrades them. Living structural materials do the opposite: bone senses mechanical loading and converts it into mineral deposition where stiffness is needed, while coral self-stiffens as waves cement its skeleton. This talk asks whether synthetic materials can likewise use mechanical loading itself as the signal that improves them and presents two complementary routes toward that goal. The first route grows material in response to load. Cyclic loading of piezoelectric scaffolds in an electrolyte generates surface charges that drive mineralization in proportion to stress. The resulting composites gain both stiffness and energy-dissipation capacity under the very cyclic loading that would normally fatigue them, and the growth is self-limiting, with a saturation thickness set by the applied force. Recent results show that force also controls the nucleation density, crystallization kinetics, and hardness of the mineral, pointing to mechanical energy as a general lever for directing crystallization. The second route architects the response to load. Lattices built from liquid crystal elastomers couple snap-through buckling of tilted beams with the rate-dependent soft elasticity of mesogen rotation. The result is a reusable energy-absorbing metamaterial whose dissipation rises with strain rate by a power law and reaches densities comparable to those of plastically deforming metals. Together, these results outline a path toward structural materials that adapt, reinforce, and protect autonomously, with implications ranging from orthopedic implants and marine structures to protective equipment and soft robotics. Biography Sung Hoon Kang is an Associate Professor in the Department of Materials Science and Engineering at the Korea Advanced Institute of Science and Technology (KAIST), where he directs the Bioinspired Extreme Materials Laboratory, the NRF-Kore…",
    "end": "2026-09-25T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.027349+00:00",
+   "fetched_at": "2026-09-24T14:29:08.855889+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Cruft, Room 309",
@@ -7875,7 +7875,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/sung-hoon-kang-materials-that-learn-from-load-growing-and-architecting-matter-that-improves-under-stress"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53869249319638@harvard-mit-events": {
@@ -8186,7 +8186,7 @@
    "cancelled_marker": null,
    "description": "A presentation from 2026–2027 Carl and Lily Pforzheimer Foundation Fellow Cindy Hsin-Liu Kao Cindy Hsin-Liu Kao is an associate professor at Cornell University and the founder and director of the Hybrid Body Lab, a transdisciplinary research group exploring cultural and social perspectives in the design of on-skin interfaces. At Radcliffe, she will develop a book on the social and cultural dimensions of these technologies, proposing design interventions that empower rather than constrain how close-body wearable devices are conceived and experienced.",
    "end": "2026-10-07T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.028960+00:00",
+   "fetched_at": "2026-09-24T14:29:08.858158+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": null,
@@ -8226,7 +8226,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/designing-hybrid-skins-exploring-the-social-and-cultural-dimensions-of-on-skin-interfaces-toward-different-possible-futures-for-next-generation-wearable-computers"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53877986104223@harvard-mit-events": {
@@ -8241,7 +8241,7 @@
    "cancelled_marker": null,
    "description": "Human space exploration requires more than rocket science. To extend human presence into deep space and onto other celestial bodies, spectacular feats of engineering and technology will be essential. But to survive and thrive in radically different environments, we must also carefully consider how to develop sustainable habitats, just institutions, and healthy communities beyond Earth. The 2026 Gellert Family Science Symposium at Harvard Radcliffe Institute will bring together leading experts to explore the contours of a human future in space. Program 1 PM Welcome Tomiko Brown-Nagin, dean, Harvard Radcliffe Institute; Daniel P.S. Paul Professor of Constitutional Law, Harvard Law School; professor of history, Harvard Faculty of Arts and Sciences 1:07 PM Session 1: Structures and Frameworks Ariel Ekblaw, founder and CEO, Aurelia Institute Michelle L.D. Hanlon, executive director, Center for Air and Space Law and assistant professor of practice, University of Mississippi School of Law; cofounder, president, and CEO, For All Moonkind Dava J. Newman, Apollo Program Professor of Astronautics and MacVicar Faculty Fellow, Massachusetts Institute of Technology; director, MIT Media Lab; former NASA deputy administrator Moderator: Nicole Mortillaro, senior science reporter, CBC News 2:15 PM Break 2:30 PM Session 2: Health and Self Afshin Beheshti, professor of surgery; professor of computational and systems biology; professor of bioengineering; director, Center for Space Biomedicine, Trivedi Institute for Space and Global Biomedicine; associate director, McGowan Institute for Regenerative Medicine, University of Pittsburgh Dorit Donoviel, executive director, Translational Research Institute for Space Health and associate professor, Department of Biochemistry and Molecular Pharmacology, Baylor College of Medicine Nick Kanas, professor of psychiatry, emeritus, University of California, San Francisco; professor of aerospace medicine, College of Medicine and Center for Aerospace…",
    "end": "2026-10-05T17:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.028825+00:00",
+   "fetched_at": "2026-09-24T14:29:08.857969+00:00",
    "is_virtual": true,
    "kind": "conference",
    "location": "Knafel Center",
@@ -8286,7 +8286,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/living-beyond-earth-our-next-giant-leap"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53887578466286@harvard-mit-events": {
@@ -8485,7 +8485,7 @@
    "cancelled_marker": null,
    "description": "What would we be able to do if we could build electronically integrated machines the at a scale of 100 microns? At this scale, semiconductor devices are small enough that we could put the computational power of the spaceship Voyager onto a machine that could be injected into the body. Such robots could have on board detectors, power sources, and processors that enable them to sense, interact, and control their local environment. In this talk I will describe several cutting edge technologies we are developing to achieve this vision. Bio: Professor Itai Cohen is a pioneer in the fields of microscopic robotics and origami inspired metamaterials. His work helped establish the field of origami metamaterials and its application in microscopic robotics where his group holds the Guinness World Record for the smallest walking robot. More broadly, his research is highly interdisciplinary and also includes investigations of viscosity metamaterials, mechanical phase transitions in biological fiber networks, and the neuromuscular instantiation of control in insect flight. Professor Cohen received his BS in Physics from the University of California at Los Angeles, and his PhD in Physics from the University of Chicago. Following his graduate studies, he was a Post-doctoral fellow in Physics and the Division of Engineering and Applied Science at Harvard University. In 2005 he joined Cornell and is currently a professor of Physics. Professor Cohen is an NSF Career grant recipient, he is a Fellow of the American Physical Society, and is the recipient of the Kappa Delta Ann Doner Vaughn Award for his work on cartilage mechanics. He has served as a Feinberg and Braginsky fellow (2012) and the Rosi and Max Varon Visiting Professor at the Weizmann Institute (2021) and the van der Waals Visiting Professor at the University of Amsterdam (2022). He has published over 140 research articles, given over 300 invited seminars, colloquia and conference presentations, and co-authored the book Fin…",
    "end": "2026-10-02T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.028187+00:00",
+   "fetched_at": "2026-09-24T14:29:08.857111+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Maxwell Dworkin, Room G115",
@@ -8575,7 +8575,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/itai-cohen-electronically-integrated-autonomous-microscopic-robots"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53930451712059@harvard-mit-events": {
@@ -8965,7 +8965,7 @@
    "cancelled_marker": null,
    "description": "Allstonway Food Truck Series: Join us every Thursday from 11:30 a.m. to 1:30 p.m. for a rotating selection of food trucks at Allstonway located on the new Enterprise Research Campus in Allston. Food trucks visiting will be: 9/17 - Work Hard Eat Good 9/24 - The Sausage Guy 10/1 - The Crepe Shop 10/8 - Work Hard Eat Good 10/15 - The Sausage Guy",
    "end": "2026-09-24T13:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026154+00:00",
+   "fetched_at": "2026-09-24T14:29:08.854094+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": null,
@@ -8996,7 +8996,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/allstonway-erc-food-truck-thursdays"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "harvard_seas-53982792982433@harvard-mit-events": {
@@ -9066,7 +9066,7 @@
    "cancelled_marker": null,
    "description": "Come to the SEC on Thursday, September 24, to connect with members of the Jane Street team. From 12-2:15 PM, Jane Street representatives will have a table set up in the SEC Su Family Gallery (on the SEC main level by the entrance at Stadium Road/Western Ave.) Stop by to learn more about opportunities at Jane Street.From 12-2 PM, Jane Street is bringing a Ben & Jerry's ice cream truck to the SEC! After chatting with representatives at their table, head outside to grab some ice cream, courtesy of Jane Street. Please note: The ice cream truck will be parked next to the SEC on Stadium Road.Advance registration not required – register here for email reminder and event updates. Jane Street Website",
    "end": "2026-09-24T14:15:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026296+00:00",
+   "fetched_at": "2026-09-24T14:29:08.854307+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "SEC Su Family Gallery",
@@ -9097,7 +9097,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/jane-street-tabling-ben-jerrys-ice-cream-truck-the-sec"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-53984649162853@harvard-mit-events": {
@@ -9112,7 +9112,7 @@
    "cancelled_marker": null,
    "description": "Come to the SEC Su Family Gallery (main level of SEC by Stadium Road/Western Ave. entrance) on Thursday, September 24, 12-2:15 PM to connect with members of the A State of Denmark team. Stop by between classes or during lunch to learn more about opportunities. Advance registration not required – register here for email reminder and event updates. A State of Denmark Website",
    "end": "2026-09-24T14:15:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026045+00:00",
+   "fetched_at": "2026-09-24T14:29:08.853908+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "SEC Su Family Gallery",
@@ -9143,7 +9143,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/a-state-of-denmark-tabling-the-sec"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-54011371154531@harvard-mit-events": {
@@ -9158,7 +9158,7 @@
    "cancelled_marker": null,
    "description": "Harvard John A. Paulson School of Engineering and Applied Sciences WIDELY APPLIED MATHEMATICS SEMINAR Thursday, September 243 - 4pm Maxwell Dworkin G115 \"From Regression to Algorithm Discovery: Perspectives on Scientific Machine Learning\" Speaker: Houman OwhadiIBM Professor of Applied and Computational Mathematics and Control and Dynamical Systems, California Institute of Technology Abstract: Much of scientific machine learning can be viewed as a progression of increasingly structured regression problems, naturally understood through the lens of optimal recovery. As AI climbs a ladder of computational complexity, a natural next step beyond learning solutions is to discover the procedures that produce them. For thousands of years, algorithms have encoded broadly applicable computational procedures; I will argue that an emerging form of AI is beginning to discover algorithms adapted to individual problem instances and to the state of the computation. Bio: Houman Owhadi is the IBM Professor of Applied and Computational Mathematics and Control and Dynamical Systems at the California Institute of Technology. His research interests include uncertainty quantification, numerical approximation, statistical inference and learning, data assimilation, stochastic and multiscale analysis, and scientific machine learning. He received the 2019 Germund Dahlquist Prize from SIAM. He is a SIAM Fellow (2022) and a Vannevar Bush Fellow (2024).",
    "end": "2026-09-24T16:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026630+00:00",
+   "fetched_at": "2026-09-24T14:29:08.854829+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Maxwell Dworkin, Room G115",
@@ -9276,7 +9276,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/from-regression-to-algorithm-discovery-perspectives-on-scientific-machine-learning"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-54018917032200@harvard-mit-events": {
@@ -9291,7 +9291,7 @@
    "cancelled_marker": null,
    "description": "AI and digital platforms promise a friction-free future, yet the systems taking shape around us depend on hidden human labor, powerful corporate interests, and business models that demand more and more of those they purport to serve. In Cory Doctorow’s formulation, the defining metaphor may not be the centaur—a human enhanced by a machine—but the “reverse centaur”: a person driven by the force of an an automated system. Join author and activist Cory Doctorow and Dr. Elizabeth Mynatt, Dean of Northeastern University’s Khoury College of Computer Sciences, for a conversation about the structural, economic, and human stakes of this reversal. Drawing on his work on platform “enshittification” fostered by corporate monopoly, Doctorow asks us to focus not only on what technology does, but whom it is done to, who benefits, and who bears its costs. Mynatt brings a human-centered computing perspective, considering how technologies can instead be designed around human needs, agency, and care. Together, they will explore a central challenge for AI development and governance: what legal, economic, and design choices can keep technology accountable to the people whose lives it shapes? What would it take to ensure that humans remain its beneficiaries, not its infrastructure? Copies of Enshittification: Why Everything Suddenly Got Worse and What To Do About It and The Reverse Centaur's Guide to Life After AI: How to Think About Artificial Intelligence—Before It's Too Late will be available for purchase.",
    "end": "2026-09-30T19:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.027643+00:00",
+   "fetched_at": "2026-09-24T14:29:08.856313+00:00",
    "is_virtual": true,
    "kind": "other",
    "location": "Lewis International Law Center, 5th Floor",
@@ -9335,7 +9335,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/running-harder-falling-faster-the-paradox-of-enshittification-and-reverse-centaurs"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-54035711033843@harvard-mit-events": {
@@ -9350,7 +9350,7 @@
    "cancelled_marker": null,
    "description": "AI systems are tested and evaluated more extensively than ever, but the effects of AI on humanity are still not fully understood, while narratives about our future vacillate between apocalypse and utopia. Researchers are beginning to measure AI’s effects on people, and labs are increasingly expected to report on the impact of their own products. What is missing is a common way to define, measure, and verify human impact so the findings can be trusted, whether produced in a lab, by a company, or by a public agency. This cross-sector conversation brings together Dr. Amit Goldenberg, Associate Professor at Harvard Business School, whose research examines how AI is shaping emotion and social connection; Dr. Avijit Ghosh, Lead Technical AI Policy Researcher at Hugging Face, who works on what current evaluation methods can and cannot capture; and Jeff Dunn, Chief Operating Officer of the Digital Trust Council, who handles the operational reality of being accountable for a product’s impact on millions of lives. Moderated by Alex Pascal, Executive Director of the Berkman Klein Center for Internet & Society, the panel will take up what it would mean to define human impact in terms that hold significance across contexts, what kind of collaboration across research, industry, and government that would require, and how such an approach might inform a standard that holds AI to human values. This panel is a public event within the AI Trust Summit, co-sponsored with the Digital Trust Council.",
    "end": "2026-09-24T17:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.026982+00:00",
+   "fetched_at": "2026-09-24T14:29:08.855302+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Lewis International Law Center, Room 5th Floor",
@@ -9390,7 +9390,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/measuring-what-matters-understanding-the-human-impact-of-ai"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-54037248545337@harvard-mit-events": {
@@ -9405,7 +9405,7 @@
    "cancelled_marker": null,
    "description": "Please register using the following link: https://docs.google.com/forms/d/e/1FAIpQLSfGOcUVzAJ2wVQZTHY83gmGgg0m5V9JE0GmHYtWc2E4eI_9FQ/viewform Title: The Bare Stage Before the Mind's Eye Speaker: Tomer Ullman, Morris Kahn Associate Professor of Psychology in the Department of Psychology at Harvard University Abstract: When we imagine things, many of us have the impression that we create full, rich, vivid scenes. But, we also have the impression of a full, rich world before us in perception, and decades of cognitive science have proven us wrong. I'll examine how recent work shows that when we imagine, we may only be creating partial scenes, leaving parts of the scene uncommitted, with much of the work of the imagination done by rough-and-ready representations. Speaker Bio: Tomer Ullman is a cognitive scientist interested in commonsense reasoning, and building computational models for explaining high-level cognitive processes and the acquisition of new knowledge by children and adults. In particular, he is focused on how children and adults come to form intuitive theories of agents and objects, and providing both a functional and algorithmic account of how these theories are learned. Such an account would go a long way towards explaining the basics cogs and springs of human intelligence, and support the building of more human-like artificial intelligence. Dr. Ullman received in B.Sc in Cognitive Science and Physics from Hebrew University in 2008, and his Ph.D. in Brain and Cognitive Sciences from MIT in 2015. From 2015-2018 he was a post-doctoral associate at the Center for Brains, Minds, and Machines. Lunch will be served at 11:45 am and the lecture will begin at 12:00 pm",
    "end": "2026-10-08T13:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.029131+00:00",
+   "fetched_at": "2026-09-24T14:29:08.858393+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Science and Engineering Complex (SEC), Room 3.301",
@@ -9486,7 +9486,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/the-bare-stage-before-the-minds-eye"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "harvard_seas-54038737553074@harvard-mit-events": {
@@ -9501,7 +9501,7 @@
    "cancelled_marker": null,
    "description": "A delicate balance of noncovalent interactions drives hydrated molecular amphiphile self-assembly into lyotropic liquid crystals (LLCs) of varied morphologies, with applications including nanoporous membranes, mesoporous material templates, and therapeutic delivery vehicles. Spherical micelles are intuitively anticipated to form high-symmetry close-packed and body-centered cubic (BCC) LLCs, by analogy to packings of “hard” (immutable) spheres. However, we have discovered that ionic surfactant micelles also form a variety of low-symmetry, tetrahedrally close-packed Frank–Kasper (FK) phases, each exhibiting discrete micelle size distributions. The spontaneous emergence of FK sigma, A15, C14, and C15 LLC phases arises from a frustrated noncovalent force balance that minimizes variations in amphiphile solvation, while maximizing electrostatic cohesion in the ionic micelle ensemble. We further describe how amphiphile structure and path-dependent processing of their aqueous dispersions drive LLC sphere packing symmetry selection, culminating in the discovery of aperiodically ordered lyotropic dodecagonal quasicrystals (DDQCs) in multiple amphiphile systems. Thus, these findings establish the ubiquity of complex (a)periodically ordered states in both hard and soft materials and suggest methods for producing them at larger length scales. Bio: Mahesh Mahanthappa received B.A. degrees in Chemistry & Mathematics at the University of Colorado–Boulder in 1997, and a Ph.D. in organometallic catalysis with Professor R. M. Waymouth as a Hertz Fellow at Stanford University in 2003. After postdoctoral studies with Professors F. S. Bates and M. A. Hillmyer at University of Minnesota (2003–2006), he joined the Chemistry faculty of the University of Wisconsin–Madison in 2006. In 2015, Mahesh moved to the Department of Chemical Engineering & Materials Science at the University of Minnesota, where he was promoted to full Professor in 2019. The Mahanthappa group leverages chemical synthes…",
    "end": "2026-10-09T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:19.029525+00:00",
+   "fetched_at": "2026-09-24T14:29:08.858947+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Maxwell Dworkin, Room G115",
@@ -9591,7 +9591,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/mahesh-k-mahanthappa-complexity-lurking-in-plain-sight-aperiodic-order-in-soft-micelle-packings"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53392564747834@harvard-mit-events": {
@@ -9719,7 +9719,7 @@
    "cancelled_marker": null,
    "description": "Explore career and internship opportunities in electronics, quantum, computing, materials, and other deep-tech industries. MIT students, postdocs, researchers, and alumni are invited to meet with representatives of the member companies of the MIT.nano Consortium, Microsystems Industrial Group, Quantum Science & Engineering Consortium, MIT AI Hardware Program, MIT Generative AI Impact Consortium, and MIT ISN Bridge Program. This focused career fair will provide networking and career opportunities with leading global companies seeking MIT talent for a variety of roles and industries. Meet potential employers and build relationships with companies in your areas of interest. There will be opportunities to learn more about specific openings with participating companies for permanent placements and internships.",
    "end": "2026-09-24T19:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.389914+00:00",
+   "fetched_at": "2026-09-24T14:29:07.846122+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building 32, Room Stata Center",
@@ -9849,7 +9849,7 @@
    ],
    "url": "https://calendar.mit.edu/event/2026-mit-deep-tech-career-fair"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53560157750988@harvard-mit-events": {
@@ -9864,7 +9864,7 @@
    "cancelled_marker": null,
    "description": "Our annual Open House returns! Whether you're brand new to MIT, just new to the League or one of our oldest friends, come and join us! This is a chance to connect with colleague, make new friends and discover our Fall programming, interest groups and events.",
    "end": "2026-09-29T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.390276+00:00",
+   "fetched_at": "2026-09-24T14:29:07.846662+00:00",
    "is_virtual": false,
    "kind": "exhibition",
    "location": "Bush Room, Room 10-105",
@@ -9964,7 +9964,7 @@
    ],
    "url": "https://calendar.mit.edu/event/copy-of-mit-womens-league-open-house-1839"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53628870610822@harvard-mit-events": {
@@ -10105,7 +10105,7 @@
    "cancelled_marker": null,
    "description": "The SHASS 75th Anniversary Symposium is a two-day celebration being held September 24-25, 2026 in the Edward and Joyce Linde Music Building’s Thomas Tull Concert Hall. The symposium will feature topical faculty panel discussions, student performances, and alumni talks. Between sessions, attendees will have opportunities for connecting and networking. Please register for each session you plan to attend. Thursday, September 24 Session 1: Democratic Participation and Processes (panel discussion) Session 2: Teaching and Learning Innovations (panel discussion) Session 3: Computing, Self, and Society (panel discussion)Session 4: MIT Music & Theater Arts Showcase ReceptionFriday, September 25 Session 5: Human and Environmental Health (paenl discussion) Session 6: SHASS Alumni Lightning Talks Session 7: Perception, Cognition, and Expression (panel discussion)The event will conclude with a closing reception and party at the MIT Museum the evening of September 25.",
    "end": null,
-   "fetched_at": "2026-09-23T14:29:17.389552+00:00",
+   "fetched_at": "2026-09-24T14:29:07.845593+00:00",
    "is_virtual": true,
    "kind": "workshop",
    "location": "Building W18, Room Thomas Tull Concert Hall",
@@ -10293,7 +10293,7 @@
    ],
    "url": "https://calendar.mit.edu/event/shass-75th-anniversary-symposium"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53815003485685@harvard-mit-events": {
@@ -10564,7 +10564,7 @@
    "cancelled_marker": null,
    "description": "Ready to tackle your next MIT research and writing project? This hands-on workshop series will guide you through every stage of the writing process from exploring and narrowing your topic to crafting a polished, meaningful draft. Across five sessions, you will learn how to engage in scholarly conversations, build compelling arguments, structure your ideas with clarity, navigate the ethical use of GenAI in your writing, and articulate why your work matters. Designed for anyone who wants to build or refresh their academic writing skills, these workshops offer a stress-free, non-competitive, and supportive environment where you can learn, practice, and grow as an academic writer. Whether you are just getting started or looking to sharpen your process, join us to move from your idea to a draft. Session 1. Mapping and Scoping Your Research Problem, Thur, Sep 24 Session 2. Situating Your Writing in the Scholarly Conversation, Tue, Sep 29 Session 3. Building and Structuring Your Work, Thur, Oct 1 Session 4. Ethical Use of GenAI in Your Writing Process, Tue, Oct 6 Session 5. Explaining Why Your Work Matters, Thur, Oct 8 For more information, visit the WCC website: https://cmsw.mit.edu/wcc-workshops/.",
    "end": "2026-09-24T17:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.389724+00:00",
+   "fetched_at": "2026-09-24T14:29:07.845890+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building E17, Room 136",
@@ -10639,7 +10639,7 @@
    ],
    "url": "https://calendar.mit.edu/event/copy-of-writewise-research-and-writing-strategies-workshop-series"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53815361254717@harvard-mit-events": {
@@ -11061,7 +11061,7 @@
    "cancelled_marker": null,
    "description": "Under current government and corporate AI leadership, many of us feel discouraged or powerless. But if we take strategic action together, we have the power to bring AI under public control and determine how it’s used, how it’s regulated, and who it benefits. Historically, action from just 3.5% of the population has tipped the scales and always led to serious political change (known as the 3.5% rule). This workshop series provides opportunities for participants to shape AI policy through collective civic action. During times of difficulty pushing for federal action, states serve as an important powerhouse for policy leadership, sandboxing, and resistance. In this workshop, we will engage in 3 Massachusetts campaigns taking action against unsafe, unregulated, and undemocratic AI: Policy leadership – Massachusetts is now pioneering legislation with the strongest AI regulation language in the country (Amendment 471). This campaign aims to pass the amendment. Resistance against undemocratic AI adoption – In February 2026, Gov. Maura Healey made Massachusetts the first state to roll out ChatGPT across the entire executive branch, with citizens getting no say. This campaign aims to demand transparency and citizen oversight. Resistance against pre-emption – Massachusetts Rep. Lori Trahan drafted a bill that would preempt state AI laws for three years. This campaign aims to get Trahan to drop the bill. Please join us to learn more and contribute your voice and action. RSVP for lunch",
    "end": "2026-09-25T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.390152+00:00",
+   "fetched_at": "2026-09-24T14:29:07.846458+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building W20: Stratton Student Center, Room 401 (Student Center Multipurpose Room)",
@@ -11156,7 +11156,7 @@
    ],
    "url": "https://calendar.mit.edu/event/taking-collective-action-to-shape-ai-policy-what-should-massachusetts-do-about-ai"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53878322958363@harvard-mit-events": {
@@ -11171,7 +11171,7 @@
    "cancelled_marker": null,
    "description": "Under current government and corporate AI leadership, many of us feel discouraged or powerless. But if we take strategic action together, we have the power to bring AI under public control and determine how it’s used, how it’s regulated, and who it benefits. Historically, action from just 3.5% of the population has tipped the scales and always led to serious political change (known as the 3.5% rule). This workshop series provides opportunities for participants to shape AI policy through collective civic action.’ Please mark your calendar; tiem and full event description soon to come. RSVP for Lunch",
    "end": null,
-   "fetched_at": "2026-09-23T14:29:17.390795+00:00",
+   "fetched_at": "2026-09-24T14:29:07.847364+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building 10, Room 105 (Bush Room)",
@@ -11279,7 +11279,118 @@
    ],
    "url": "https://calendar.mit.edu/event/radius-taking-collective-action-to-shape-ai-policy-ai-our-jobs-and-our-future"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 0
+ },
+ "mit_all-53878334809468@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "4e41dace31a74f34",
+  "event": {
+   "access": "restricted",
+   "address": "84 Massachusetts Avenue, Cambridge, MA, 02139",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_mit",
+   "cancelled_marker": null,
+   "description": "Whether you are Catholic and/or Christian, or you are simply curious about major voices in the conversation about AI, you may want to know what the spiritual head of over a billion people is teaching about new technologies. Come join us for dinner and discussion of Pope Leo XIV’s letter to the world, MAGNIFICENT HUMANITY. We’ll share the major themes and have plenty of room for discussion. Come learn, share your own thoughts, and make friends. All are welcome! Note: Reading the document beforehand is encouraged but not required. (At least, you might skim it. Let’s be honest, it’s long!) Co-sponsored by MIT Radius, the MIT Tech Catholic Community, the Octet Collaborative, and the InterVarsity Christian Fellowship",
+   "end": "2026-10-14T19:30:00-04:00",
+   "fetched_at": "2026-09-24T14:29:07.847602+00:00",
+   "is_virtual": false,
+   "kind": "workshop",
+   "location": "Building W20: Stratton Student Center, Room Wellbeing Lab (3rd Floor)",
+   "raw_facets": {
+    "all_facet_values": [
+     "MIT Community",
+     "Students",
+     "Alumni",
+     "Faculty",
+     "Staff",
+     "Religious/Spiritual",
+     "Climate & Sustainability",
+     "Conferences/Seminars/Lectures",
+     "Meetings/Gatherings",
+     "Workshops/Fairs"
+    ],
+    "departments": [
+     "Office of Religious, Spiritual, and Ethical Life"
+    ],
+    "experience": "inperson",
+    "filters": {
+     "event_audience": [
+      {
+       "id": 98748,
+       "name": "MIT Community"
+      },
+      {
+       "id": 98749,
+       "name": "Students"
+      },
+      {
+       "id": 98750,
+       "name": "Alumni"
+      },
+      {
+       "id": 98751,
+       "name": "Faculty"
+      },
+      {
+       "id": 98752,
+       "name": "Staff"
+      }
+     ],
+     "event_events_by_interest": [
+      {
+       "id": 102750,
+       "name": "Religious/Spiritual"
+      },
+      {
+       "id": 38872173453349,
+       "name": "Climate & Sustainability"
+      }
+     ],
+     "event_types": [
+      {
+       "id": 102764,
+       "name": "Conferences/Seminars/Lectures"
+      },
+      {
+       "id": 103221,
+       "name": "Meetings/Gatherings"
+      },
+      {
+       "id": 103222,
+       "name": "Workshops/Fairs"
+      }
+     ]
+    },
+    "free": false,
+    "has_register": false,
+    "keywords": [],
+    "private": false,
+    "recurring": false
+   },
+   "registration_deadline": null,
+   "registration_url": "https://docs.google.com/forms/d/e/1FAIpQLSdUBM2PQKDsS4GTvjsc_dRJnMwIateoOxnMWMzdxntyal13Yg/viewform?usp=sharing",
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "mit_all",
+   "speaker": null,
+   "start": "2026-10-14T18:00:00-04:00",
+   "status": "CONFIRMED",
+   "title": "Oh, the Humanity: What DOES it mean to be human in an age of AI?",
+   "topics": [
+    "Climate & Sustainability",
+    "Religious/Spiritual"
+   ],
+   "uid": "mit_all-53878334809468@harvard-mit-events",
+   "units": [
+    "Office of Religious, Spiritual, and Ethical Life"
+   ],
+   "url": "https://calendar.mit.edu/event/oh-the-humanity-what-do-you-and-the-pope-think-about-ai"
+  },
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53887559272931@harvard-mit-events": {
@@ -11408,7 +11519,7 @@
    "cancelled_marker": null,
    "description": "About the event The MIT School of Architecture and Planning has moved to the MET Warehouse. On Saturday, October 3, as part of MIT Future Fest, SA+P will open the MET to the MIT community and general public for the first time. From 10am–4pm, exhibitions, tours, talks, workshops, and hands-on experiences will showcase work from across SA+P and MIT. Programs throughout the day are organized around four themes: Future of Community | Future of Making + Design | Future of Creativity | Future of Learning. MET exhibitions With new galleries and public spaces, the MET creates new opportunities for the School of Architecture and Planning to share its work with the wider community. Its inaugural exhibitions bring together work from across SA+P and MIT. Occupancy Presented by the MET Commons, Occupancy is the inaugural all-school exhibition at the MET. Organized around five themes — Ongoing Relations | Footprints | Labor and Trades | Migratory Desires | Polymaths — it explores what it means to move in, take up space, and become neighbors. Curation: Caroline Jones, Mehves Lelic, the MET Commons Polymaths MAD’s contribution to Occupancy, Polymaths features original work from faculty and students across MIT, ranging from inflatable metal to 3D-printed furniture. During the Open House, visitors can meet featured designers and hear about their work and process. Curation: Mateo Fernandez, John Ochsendorf, Nia Rich, Roi Salgueiro Barrio, MIT MAD _______________________________________________ This event is free and open to all. MIT students, faculty, and staff can also attend MIT Future Fest for free! Register for your passes and see the full program online.",
    "end": "2026-10-03T16:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.390664+00:00",
+   "fetched_at": "2026-09-24T14:29:07.847203+00:00",
    "is_virtual": false,
    "kind": "exhibition",
    "location": "Building W41 (MET Warehouse)",
@@ -11557,7 +11668,7 @@
    ],
    "url": "https://calendar.mit.edu/event/met-warehouse-public-open-house"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "mit_all-53982830707300@harvard-mit-events": {
@@ -11572,7 +11683,7 @@
    "cancelled_marker": null,
    "description": "Technologies change. Tools change. Industries change. Careers change. The engineers who thrive are the ones who learn how to change with them. Software engineering has never stood still. From desktop applications to cloud computing, from mobile platforms to AI-assisted development, every generation of engineers has experienced technologies that transformed how software is built—and what it means to be a software engineer. Join a panel of early-, mid-, and late-career software engineers as they reflect on how the profession has evolved, the skills that have remained timeless, and what they believe comes next. Through a moderated discussion, interactive audience activities, and open Q&A, you’ll explore how careers adapt alongside changing technologies, what employers continue to value regardless of technical trends, and how to prepare for a future that is certain to look different than today. Together, we’ll examine not only how software engineering is changing, but how engineers can build resilient, fulfilling careers by embracing continuous learning, recognizing opportunity, and adapting when plans inevitably change.",
    "end": "2026-09-30T19:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.390457+00:00",
+   "fetched_at": "2026-09-24T14:29:07.846916+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building 32, Room 124",
@@ -11651,7 +11762,7 @@
    ],
    "url": "https://calendar.mit.edu/event/gradel-workshop-the-once-and-future-software-engineer"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_all-53984147670372@harvard-mit-events": {
@@ -11992,7 +12103,7 @@
    "cancelled_marker": null,
    "description": "Discover what matters, before it becomes obvious Join us September 29 through October 1 at the MIT Media Lab for EmTech Future 2026, MIT Technology Review’s flagship event at the frontiers of technology. Since 1999, EmTech MIT has gathered leaders, researchers, and builders on the MIT campus to understand the technologies shaping the years ahead. EmTech Future continues that mission for a moment defined by convergence. We are entering a new era in technology. Across artificial intelligence, quantum technologies, and energy systems, powerful new capabilities are emerging. But the most important breakthroughs are no longer happening within individual domains. They are happening at the intersections, where technologies begin to connect and powerful new possibilities emerge. Held on MIT’s campus and curated by the editors of MIT Technology Review, the program is shaped by journalists who report every day on the technologies changing business and society. Through conversations, demonstrations, and experiences across campus, attendees gain direct access to the work behind the breakthroughs. Learn more and register: emtech-future.com. Contact MIT Technology Review with any questions and discount opportunities. **Discounts are available to the MIT community. Register here with your MIT email address and save 40%.",
    "end": "2026-09-29T19:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:17.538393+00:00",
+   "fetched_at": "2026-09-24T14:29:08.068939+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Building E14: Media Lab",
@@ -12059,7 +12170,7 @@
    "units": [],
    "url": "https://calendar.mit.edu/event/emtech-future-2026"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_building_e14-53984523477529@harvard-mit-events": {
@@ -12229,7 +12340,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Prof. Sir Michael Brady (University of Oxford) Title: Applications of Image Analysis & AI in the Understanding of Cancer and Metabolic Syndrome Abstract: A review of systems developed in the studies of breast cancer, lung cancer, metabolic syndrome and liver cancer. Bio: Sir Michael Brady was a member of the AI Lab at MIT (1980-5) and is now an Emeritus Professor of Information Engineering at the University of Oxford, and an Honorary Professor at the Mohammed Bin Zayed University of Artificial Intelligence in Abu Dhabi. Brady was kni https://www.csail.mit.edu/event/sir-michael-brady-applications-image-analysis-ai-understanding-cancer-and-metabolic-syndrome",
    "end": "2026-10-13T17:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.712339+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487916+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_G449",
@@ -12258,7 +12369,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/sir-michael-brady-applications-image-analysis-ai-understanding-cancer-and-metabolic-syndrome"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_csail-14765@harvard-mit-events": {
@@ -12407,7 +12518,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Daniel Jackson (CSAIL MIT) https://www.csail.mit.edu/event/csail-forum-1",
    "end": "2026-10-06T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.712200+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487736+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "TBD",
@@ -12436,7 +12547,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/csail-forum-1"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_csail-14796@harvard-mit-events": {
@@ -12539,7 +12650,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Srini Devadas (MIT) Boston Chapter of the IEEE Computer Society and GBC/ACM7:00 PM, Thursday, 24 September 2026MIT Room 32-G449 (Kiva) and online via ZoomWhat Can Hardware Do for Computer Security?Srini Devadas, MITPlease register in advance for this seminar even if you plan to attend in person athttps://acm-org.zoom.us/webinar/register/2917867533665/WN_2nVQNyq4RQOq_V91f3TOkg (https://acm-org.zoom.us/webinar/register/2917867533665/WN_2nVQNyq4RQOq_V91f3TOkg)After registering, you will receive a confirmation email co https://www.csail.mit.edu/event/what-can-hardware-do-computer-security",
    "end": "2026-09-24T20:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.711737+00:00",
+   "fetched_at": "2026-09-24T14:29:06.486918+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "32_G449",
@@ -12568,7 +12679,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/what-can-hardware-do-computer-security"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_csail-14802@harvard-mit-events": {
@@ -13155,7 +13266,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Brian A. Smith (Columbia University) Abstract:Much of computing's progress has come from learning how to help with new kinds of problems. Computers can now help us draft essays, navigate unfamiliar places, and stay connected with friends and family. But our deeper goals often require more: becoming confident writers, truly knowing a place, or feeling closer to other people. We still lack a framework for making these deeper forms of help computational.In this talk, I will introduce computing for experience, a new approach inspired https://www.csail.mit.edu/event/hci-seminar-brian-smith-computers-partners-human-experience",
    "end": "2026-09-29T17:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.711835+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487033+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_D463",
@@ -13184,7 +13295,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/hci-seminar-brian-smith-computers-partners-human-experience"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_csail-14869@harvard-mit-events": {
@@ -13331,7 +13442,7 @@
    "cancelled_marker": null,
    "description": "When/Where: Thursday Sept 24th in the Star Seminar Room (32-D463) within STATA (32 Vassar Street) starting at 12pm.RSVP: https://www.gem.com/form?formID=f064f781-b192-4870-82ab-7cd5729b5ebc (https://www.gem.com/form?formID=f064f781-b192-4870-82ab-7cd5729b5ebc) Abstract: When an obvious trading signal enters the market, multiple participants attempt to trade on it, and reacting correctly becomes a competition for being faster. This talk will describe the research that allows Optiver to win this https://www.csail.mit.edu/event/optiver-recruiting-high-frequency-trading-tech-talk-1",
    "end": "2026-09-24T13:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.711650+00:00",
+   "fetched_at": "2026-09-24T14:29:06.486792+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_D463",
@@ -13360,7 +13471,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/optiver-recruiting-high-frequency-trading-tech-talk-1"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "mit_csail-14881@harvard-mit-events": {
@@ -13552,7 +13663,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Frederic Koehler (UChicago) Aaronson and Arkhipov conjectured anticoncentration for permanents of Gaussian random matrices as part of their study of the computational complexity of linear optics (boson sampling). We will discuss a proof which uses rotational invariance of the Gaussian distribution. No background in quantum is assumed; we will also mention a related motivation for this question via complex zeros. Based on joint works with Pui Kuen Leung. https://www.csail.mit.edu/event/anticoncentration-gaussian-permanents",
    "end": "2026-09-29T17:15:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.711951+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487175+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_G449",
@@ -13581,7 +13692,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/anticoncentration-gaussian-permanents"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 1
  },
  "mit_csail-14887@harvard-mit-events": {
@@ -13596,7 +13707,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Larry Guth (Mathematics) TBA https://www.csail.mit.edu/event/tba-1",
    "end": "2026-10-06T17:15:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.712234+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487783+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32-141",
@@ -13625,7 +13736,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/tba-1"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_csail-14889@harvard-mit-events": {
@@ -13640,7 +13751,7 @@
    "cancelled_marker": null,
    "description": "RSVP here: https://docs.google.com/forms/d/e/1FAIpQLSegk7mAeeQGdL5yNJ1DdSqXDtKW8XVu76fiLyhMUjsXdG827Q/viewform?usp=header (https://docs.google.com/forms/d/e/1FAIpQLSegk7mAeeQGdL5yNJ1DdSqXDtKW8XVu76fiLyhMUjsXdG827Q/viewform?usp=header) When: Wednesday, September 30th, 2026 from 12-1pmWhere: CSAIL STATA Center (32 Vassar St) in the Kiva Seminar Room (32-G449)Speaker: Denis Lapitski, Head of Strategy Research, Trexquant Investment LPDenis joined Trexquant in 2014 and has worked extensively on m https://www.csail.mit.edu/event/trexquant-tech-talk-applications-deep-learning-methods-quantitative-trading",
    "end": "2026-09-30T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.712052+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487301+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_G449",
@@ -13669,7 +13780,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/trexquant-tech-talk-applications-deep-learning-methods-quantitative-trading"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_csail-14891@harvard-mit-events": {
@@ -13816,7 +13927,7 @@
    "cancelled_marker": null,
    "description": "Building and scaling AI systems looks different once you leave the lab. Join us for a lunch with Dr. Patrick Butler from Nebius, to discuss the messy middle between “it works on my machine” and production-grade infrastructure at scale. We’ll dig into what actually breaks (and what actually works) when moving from research prototypes to production workloads — GPU provisioning, scaling headaches, cost tradeoffs, and the lessons learned the hard way. Expect candid stories from people build https://www.csail.mit.edu/event/research-production-observations-and-lessons-gpu-infrastructure-nebius-cloud",
    "end": "2026-09-30T13:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:15.712163+00:00",
+   "fetched_at": "2026-09-24T14:29:06.487433+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_D463",
@@ -13845,7 +13956,51 @@
    ],
    "url": "https://www.csail.mit.edu/event/research-production-observations-and-lessons-gpu-infrastructure-nebius-cloud"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 0
+ },
+ "mit_csail-14925@harvard-mit-events": {
+  "calendar": "all",
+  "content_hash": "60e6889b428d4998",
+  "event": {
+   "access": "check",
+   "address": "32 Vassar Street, Cambridge, MA 02139",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_mit",
+   "cancelled_marker": null,
+   "description": "Speaker: Alex Conway (Cornell) Affine modular linear hashing is one of the simplest classical hash families. For a prime p > u, the hash function is obtained by choosing s, t uniformly from Z_p and mapping each key x ∈ {0, ..., u - 1} to one of n bins byh_mod(s,t)(x) := ((sx + t) mod p) mod n.Despite its simplicity, the maximum load of linear hashing remains poorly understood. For n keys hashed into n bins, the best known upper bound is O((n log n)^(1/3)), whereas the best known lower bound is only Ω(log n / log log n). We https://www.csail.mit.edu/event/lower-bounds-linear-hashing-arithmetic-kakeya",
+   "end": "2026-09-30T17:00:00-04:00",
+   "fetched_at": "2026-09-24T14:29:06.487678+00:00",
+   "is_virtual": false,
+   "kind": "lecture",
+   "location": "32_D463",
+   "raw_facets": {
+    "categories": [],
+    "ics_uid": "14925@csail.mit.edu",
+    "ics_url": "",
+    "organizer": "",
+    "status": ""
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "mit_csail",
+   "speaker": "Alex Conway (Cornell) Affine modular linear hashing is one of the simplest classical hash families. For a prime p > u, t",
+   "start": "2026-09-30T16:00:00-04:00",
+   "status": "CONFIRMED",
+   "title": "Lower Bounds for Linear Hashing via Arithmetic Kakeya",
+   "topics": [],
+   "uid": "mit_csail-14925@harvard-mit-events",
+   "units": [
+    "MIT CSAIL"
+   ],
+   "url": "https://www.csail.mit.edu/event/lower-bounds-linear-hashing-arithmetic-kakeya"
+  },
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_media_lab-2026-mas-virtual-open-house@harvard-mit-events": {
@@ -13860,7 +14015,7 @@
    "cancelled_marker": null,
    "description": "The virtual MAS Open House is an opportunity to hear from MAS staff, faculty, and current students, as well as familiarize yourself with ou...",
    "end": "2026-10-09T16:30:00-04:00",
-   "fetched_at": "2026-09-23T14:29:16.138407+00:00",
+   "fetched_at": "2026-09-24T14:29:06.860647+00:00",
    "is_virtual": true,
    "kind": "social",
    "location": "MIT Media Lab (E14)",
@@ -13890,7 +14045,7 @@
    ],
    "url": "https://www.media.mit.edu/events/2026-mas-virtual-open-house/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_media_lab-aha-seminar-daniella-dipaola@harvard-mit-events": {
@@ -13950,7 +14105,7 @@
    "cancelled_marker": null,
    "description": "Join us for our online seminar series event hosted by MIT Media Lab's Advancing Humans with AI (AHA) research program! This event...",
    "end": "2026-10-01T17:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:16.137107+00:00",
+   "fetched_at": "2026-09-24T14:29:06.857953+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -13980,7 +14135,7 @@
    ],
    "url": "https://www.media.mit.edu/events/aha-seminar-diogo-de-lucena/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_media_lab-aha-seminar-rishi-balakrishnan@harvard-mit-events": {
@@ -14028,6 +14183,51 @@
   "last_seen": "2026-09-03T13:57:51+00:00",
   "sequence": 0
  },
+ "mit_media_lab-aha-seminar-sherry-turkle@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "e63664409124d494",
+  "event": {
+   "access": "check",
+   "address": "75 Amherst Street, Cambridge, MA 02139",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_mit",
+   "cancelled_marker": null,
+   "description": "We built machines that pretend to care and never tire of listening. Dr. Sherry Turkle thinks that's the problem (for us).For decades, Turkl...",
+   "end": "2026-10-08T18:00:00-04:00",
+   "fetched_at": "2026-09-24T14:29:06.859919+00:00",
+   "is_virtual": false,
+   "kind": "lecture",
+   "location": "MIT Media Lab (E14)",
+   "raw_facets": {
+    "end_date_text": "",
+    "end_time_text": "6:00pm ET",
+    "eyebrow": "Event",
+    "slug": "aha-seminar-sherry-turkle",
+    "start_date_text": "October 8, 2026",
+    "start_time_text": "5:00pm —"
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "mit_media_lab",
+   "speaker": null,
+   "start": "2026-10-08T17:00:00-04:00",
+   "status": "CONFIRMED",
+   "title": "Book Launch: \"Artificial Intimacy\" by Sherry Turkle",
+   "topics": [],
+   "uid": "mit_media_lab-aha-seminar-sherry-turkle@harvard-mit-events",
+   "units": [
+    "MIT Media Lab"
+   ],
+   "url": "https://www.media.mit.edu/events/aha-seminar-sherry-turkle/"
+  },
+  "last_seen": "2026-09-24T14:29:09+00:00",
+  "sequence": 0
+ },
  "mit_media_lab-alexandra-rieger-dissertation-defense@harvard-mit-events": {
   "calendar": "all",
   "content_hash": "eb077962565b7abd",
@@ -14040,7 +14240,7 @@
    "cancelled_marker": null,
    "description": "Omnisensory Medicine",
    "end": null,
-   "fetched_at": "2026-09-23T14:29:16.135213+00:00",
+   "fetched_at": "2026-09-24T14:29:06.855170+00:00",
    "is_virtual": false,
    "kind": "defense",
    "location": "MIT Media Lab (E14)",
@@ -14070,7 +14270,7 @@
    ],
    "url": "https://www.media.mit.edu/events/alexandra-rieger-dissertation-defense/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_media_lab-daniel-levine-dissertation-defense@harvard-mit-events": {
@@ -14085,7 +14285,7 @@
    "cancelled_marker": null,
    "description": "Predictive Prosthesis Control via Inferred Foot Placement: A Unified Design for Dynamic Locomotion",
    "end": null,
-   "fetched_at": "2026-09-23T14:29:16.136071+00:00",
+   "fetched_at": "2026-09-24T14:29:06.856416+00:00",
    "is_virtual": false,
    "kind": "defense",
    "location": "MIT Media Lab (E14)",
@@ -14115,7 +14315,7 @@
    ],
    "url": "https://www.media.mit.edu/events/daniel-levine-dissertation-defense/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_media_lab-jordan-jam_bot-oct3@harvard-mit-events": {
@@ -14130,7 +14330,7 @@
    "cancelled_marker": null,
    "description": "On Saturday, October 3, 2026, Jordan Rudess will perform two concerts at MIT’s Thomas Tull Concert Hall during the inaugural MIT Future Fes...",
    "end": "2026-10-03T21:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:16.137584+00:00",
+   "fetched_at": "2026-09-24T14:29:06.858698+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -14160,7 +14360,7 @@
    ],
    "url": "https://www.media.mit.edu/events/jordan-jam_bot-oct3/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 0
  },
  "mit_media_lab-the-post-american-internet-possibilities-for-a-new-internet-created-by-an-american-hermit-kingdom@harvard-mit-events": {
@@ -14170,12 +14370,14 @@
    "access": "check",
    "address": "75 Amherst Street, Cambridge, MA 02139",
    "all_day": false,
-   "alt_urls": [],
+   "alt_urls": [
+    "https://calendar.mit.edu/event/the-post-american-internet-possibilities-for-a-new-internet-created-by-an-american-hermit-kingdom"
+   ],
    "campus": "cambridge_mit",
    "cancelled_marker": null,
    "description": "Join us for a talk with Cory Doctorow about The Post-American Internet: Possibilities for a new internet created by an American H...",
    "end": "2026-09-30T14:00:00-04:00",
-   "fetched_at": "2026-09-23T14:29:16.136606+00:00",
+   "fetched_at": "2026-09-24T14:29:06.857200+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -14205,7 +14407,7 @@
    ],
    "url": "https://www.media.mit.edu/events/the-post-american-internet-possibilities-for-a-new-internet-created-by-an-american-hermit-kingdom/"
   },
-  "last_seen": "2026-09-23T14:29:19+00:00",
+  "last_seen": "2026-09-24T14:29:09+00:00",
   "sequence": 2
  }
 }
