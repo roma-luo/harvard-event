@@ -6,54 +6,11 @@ X-WR-CALNAME:Events - Priority
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[开放] The Once and Future Software Engineer
-DTSTART;TZID=America/New_York:20260930T170000
-DTEND;TZID=America/New_York:20260930T190000
-DTSTAMP:20260930T160801Z
-UID:mit_all-53982830707300@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
- ：GradEL Workshop\n\n摘要：Technologies change. Tools change. Industri
- es change. Careers change. The engineers who thrive are the ones who learn
-  how to change with them. Software engineering has never stood still. From
-  desktop applications to cloud computing\, from mobile platforms to AI-ass
- isted development\, every generation of engineers has experienced technolo
- gies that transformed how software is built—and what it means…\n\n地
- 点：Building 32\, Room 124\n活动页：https://calendar.mit.edu/event/g
- radel-workshop-the-once-and-future-software-engineer\n\n来源：mit_all
- ｜得分 30｜抓取于 2026-09-30 16:07
-LOCATION:32 Vassar Street\, Cambridge\, MA\, 02139
-STATUS:CONFIRMED
-URL:https://calendar.mit.edu/event/gradel-workshop-the-once-and-future-sof
- tware-engineer
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[开放] Barbara Norfleet and Photography at Harvard
-DTSTART;TZID=America/New_York:20260930T180000
-DTEND;TZID=America/New_York:20260930T193000
-DTSTAMP:20260930T160801Z
-UID:harvard_art_museums-4168@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
- Exhibition Opening Program for _The Way We Never Were_\n\n摘要：Join us
-  for a roundtable conversation reflecting on Barbara Norfleet’s enduring
-  impact as artist\, teacher\, curator\, and collector.\n\n地点：Harvard
-  Art Museums\n活动页：https://harvardartmuseums.org/calendar/exhibitio
- n-opening-program-for-the-way-we-never-were-barbara-norfleet-and-photograp
- hy-at-harvard\n\n来源：harvard_art_museums｜得分 15｜抓取于 2026
- -09-30 16:07
-LOCATION:32 Quincy Street\, Cambridge\, MA\, Enter at Broadway for evening
-  programs
-STATUS:CONFIRMED
-URL:https://harvardartmuseums.org/calendar/exhibition-opening-program-for-
- the-way-we-never-were-barbara-norfleet-and-photography-at-harvard
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[开放] Kengo Kuma: New Works Kengo Kuma in Conversation with Gra
  ce La
 DTSTART;TZID=America/New_York:20261001T120000
 DTEND;TZID=America/New_York:20261001T133000
-DTSTAMP:20260930T160801Z
+DTSTAMP:20261001T164436Z
 UID:harvard_gsd-2684334@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -66,7 +23,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  nd Hall\n活动页：https://www.gsd.harvard.edu/event/kengo-kuma-in-conve
  rsation-with-grace-la/\n报名：https://www.eventbrite.com/e/kengo-kuma-i
  n-conversation-with-grace-la-tickets-1998983986916?aff=oddtdtcreator\n\n
- 来源：harvard_gsd｜得分 41｜抓取于 2026-09-30 16:07
+ 来源：harvard_gsd｜得分 41｜抓取于 2026-10-01 16:44
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/kengo-kuma-in-conversation-with-grac
@@ -77,7 +34,7 @@ SUMMARY:[需确认] The Brown-Black Continuum of Light-Absorbing Carbonace
  ous Aerosols
 DTSTART;TZID=America/New_York:20261002T120000
 DTEND;TZID=America/New_York:20261002T130000
-DTSTAMP:20260930T160801Z
+DTSTAMP:20261001T164436Z
 UID:harvard_seas-53568250473448@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -89,8 +46,8 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  mospheric processing to deposition\, is one of the grand challenges in atm
  ospher…\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.
  seas.harvard.edu/event/the-brown-black-continuum-of-light-absorbing-carbon
- aceous-aerosols\n\n来源：harvard_seas｜得分 30｜抓取于 2026-09-3
- 0 16:08
+ aceous-aerosols\n\n来源：harvard_seas｜得分 30｜抓取于 2026-10-0
+ 1 16:44
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/the-brown-black-continuum-of-lig
@@ -100,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Harvard Technology\, Science & Data Fair
 DTSTART;TZID=America/New_York:20261002T130000
 DTEND;TZID=America/New_York:20261002T160000
-DTSTAMP:20260930T160801Z
+DTSTAMP:20261001T164436Z
 UID:harvard_seas-53861480089331@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：其他
@@ -112,7 +69,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：其他
  ll Harvard University & MIT degree students and alumni.…\n\n地点：Har
  vard Student Organization Center at Hilles (SOCH)\n活动页：https://eve
  nts.seas.harvard.edu/event/harvard-technology-science-data-fair\n\n来源
- ：harvard_seas｜得分 15｜抓取于 2026-09-30 16:08
+ ：harvard_seas｜得分 15｜抓取于 2026-10-01 16:44
 LOCATION:59 Shepard Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/harvard-technology-science-data-
@@ -122,7 +79,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] The Bare Stage Before the Mind's Eye
 DTSTART;TZID=America/New_York:20261008T114500
 DTEND;TZID=America/New_York:20261008T133000
-DTSTAMP:20260930T160801Z
+DTSTAMP:20261001T164436Z
 UID:harvard_seas-54037248545337@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
@@ -135,7 +92,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
   Complex (SEC)\, Room 3.301\n活动页：https://events.seas.harvard.edu/e
  vent/the-bare-stage-before-the-minds-eye\n报名：https://docs.google.com
  /forms/d/e/1FAIpQLSfGOcUVzAJ2wVQZTHY83gmGgg0m5V9JE0GmHYtWc2E4eI_9FQ/viewfo
- rm\n\n来源：harvard_seas｜得分 24｜抓取于 2026-09-30 16:08
+ rm\n\n来源：harvard_seas｜得分 24｜抓取于 2026-10-01 16:44
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/the-bare-stage-before-the-minds-
@@ -145,7 +102,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Crafting an Effective Statement of Purpose
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T173000
-DTSTAMP:20260930T160801Z
+DTSTAMP:20261001T164436Z
 UID:mit_all-54063526770420@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -157,18 +114,41 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  ill examine examples of successful state…\n\n地点：Building 4\, Room 
  149\n活动页：https://calendar.mit.edu/event/copy-of-crafting-an-effect
  ive-statement-of-purpose-1047\n报名：https://forms.gle/eigg3h2Jps1ozecq
- 5\n\n来源：mit_all｜得分 30｜抓取于 2026-09-30 16:07
+ 5\n\n来源：mit_all｜得分 30｜抓取于 2026-10-01 16:44
 LOCATION:182 Memorial Drive\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/copy-of-crafting-an-effective-statement
  -of-purpose-1047
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[需确认] Weaving Wonder: Human Flourishing in the Age of Artifi
+ cial Intelligence
+DTSTART;TZID=America/New_York:20261021T120000
+DTEND;TZID=America/New_York:20261021T130000
+DTSTAMP:20261001T164436Z
+UID:harvard_seas-53878040426767@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
+ \n\n摘要：A presentation from 2026–2027 Sally Starling Seaver Fellow 
+ Orit Shaer Orit Shaer is a professor of computer science at Wellesley Coll
+ ege and a leading scholar in human-computer interaction whose work advance
+ s human-centered approaches to artificial intelligence for creativity\, le
+ arning\, and collaboration. At Radcliffe\, she will write “Weaving Wonde
+ r: Human Flourishing in the Age of Artificial Int…\n\n活动页：https:
+ //events.seas.harvard.edu/event/weaving-wonder-human-flourishing-in-the-ag
+ e-of-artificial-intelligence\n报名：https://www.radcliffe.harvard.edu/e
+ vent/2026-orit-shaer-fellow-presentation-virtual\n\n来源：harvard_seas
+ ｜得分 15｜抓取于 2026-10-01 16:44
+STATUS:CONFIRMED
+URL:https://events.seas.harvard.edu/event/weaving-wonder-human-flourishing
+ -in-the-age-of-artificial-intelligence
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[开放] Maria Claudia Clemente and Francesco Isidori “The Archi
  tecture of Public Space”
 DTSTART;TZID=America/New_York:20261021T183000
 DTEND;TZID=America/New_York:20261021T200000
-DTSTAMP:20260930T160801Z
+DTSTAMP:20261001T164436Z
 UID:harvard_gsd-2680646@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -180,9 +160,30 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  at number [...]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.
  harvard.edu/event/labics/\n报名：https://www.eventbrite.com/e/labics-th
  e-architecture-of-public-space-tickets-1998433789260?aff=oddtdtcreator\n\n
- 来源：harvard_gsd｜得分 41｜抓取于 2026-09-30 16:07
+ 来源：harvard_gsd｜得分 41｜抓取于 2026-10-01 16:44
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/labics/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[开放] Caroline Shaw & Andrew Yee Music for Landscapes
+DTSTART;TZID=America/New_York:20261022T183000
+DTEND;TZID=America/New_York:20261022T200000
+DTSTAMP:20261001T164436Z
+UID:harvard_gsd-2683475@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
+ fall 2026\n\n摘要：About This Event The Harvard GSD hosts an evening wi
+ th Caroline Shaw and Andrew Yee\, Grammy Award–winning musicians\, who w
+ ill perform a selection of their music inspired by the restless matter tha
+ t shapes the arresting places and settings we imagine and inhabit. The eve
+ ning listens for consonances between the sun and soil of landscape and [..
+ .]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/e
+ vent/music-for-landscapes/\n报名：https://www.eventbrite.com/e/caroline
+ -shaw-andrew-yee-tbd-tickets-1998434081133?aff=oddtdtcreator\n\n来源：h
+ arvard_gsd｜得分 16｜抓取于 2026-10-01 16:44
+LOCATION:48 Quincy Street\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://www.gsd.harvard.edu/event/music-for-landscapes/
 END:VEVENT
 END:VCALENDAR
