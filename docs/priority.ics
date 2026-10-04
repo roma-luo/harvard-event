@@ -6,28 +6,11 @@ X-WR-CALNAME:Events - Priority
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[需确认] Jordan Rudess + jam_bot: A Human-AI Musical Dialogue
-DTSTART;TZID=America/New_York:20261003T170000
-DTEND;TZID=America/New_York:20261003T210000
-DTSTAMP:20261003T142706Z
-UID:mit_media_lab-jordan-jam_bot-oct3@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
- \n\n摘要：On Saturday\, October 3\, 2026\, Jordan Rudess will perform t
- wo concerts at MIT’s Thomas Tull Concert Hall during the inaugural MIT F
- uture Fes...\n\n地点：MIT Media Lab (E14)\n活动页：https://www.medi
- a.mit.edu/events/jordan-jam_bot-oct3/\n\n来源：mit_media_lab｜得分 1
- 4｜抓取于 2026-10-03 14:27
-LOCATION:75 Amherst Street\, Cambridge\, MA 02139
-STATUS:CONFIRMED
-URL:https://www.media.mit.edu/events/jordan-jam_bot-oct3/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[需确认] ML Tea: Reinforcement Learning Pretraining for Dextero
  us Robots / Incentives Shape How Humans Co-Create with Generative AI
 DTSTART;TZID=America/New_York:20261007T140000
 DTEND;TZID=America/New_York:20261007T150000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:mit_csail-14965@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -39,7 +22,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
   of dexterous control instead rely on sim-to-r…\n\n地点：32_G449\n活
  动页：https://www.csail.mit.edu/event/ml-tea-reinforcement-learning-pre
  training-dexterous-robots-incentives-shape-how-humans-co\n\n来源：mit_c
- sail｜得分 14｜抓取于 2026-10-03 14:27
+ sail｜得分 14｜抓取于 2026-10-04 15:01
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/ml-tea-reinforcement-learning-pretrain
@@ -49,7 +32,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] The Bare Stage Before the Mind's Eye
 DTSTART;TZID=America/New_York:20261008T114500
 DTEND;TZID=America/New_York:20261008T133000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:harvard_seas-54037248545337@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
@@ -62,17 +45,41 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
   Complex (SEC)\, Room 3.301\n活动页：https://events.seas.harvard.edu/e
  vent/the-bare-stage-before-the-minds-eye\n报名：https://docs.google.com
  /forms/d/e/1FAIpQLSfGOcUVzAJ2wVQZTHY83gmGgg0m5V9JE0GmHYtWc2E4eI_9FQ/viewfo
- rm\n\n来源：harvard_seas｜得分 24｜抓取于 2026-10-03 14:27
+ rm\n\n来源：harvard_seas｜得分 24｜抓取于 2026-10-04 15:01
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/the-bare-stage-before-the-minds-
  eye
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[需确认] Toward Consistent LLM Systems
+DTSTART;TZID=America/New_York:20261014T150000
+DTEND;TZID=America/New_York:20261014T160000
+DTSTAMP:20261004T150119Z
+UID:mit_csail-14961@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
+ ｜系列：[NLP Seminar] Reasoning over Sets\n\n主讲：Jay-Yoon Lee (Se
+ oul National University) Modern large language models (LLMs) increasingly 
+ operate not on single inputs\, \n\n摘要：Speaker: Jay-Yoon Lee (Seoul N
+ ational University) Modern large language models (LLMs) increasingly opera
+ te not on single inputs\, but over sets of information—collections of ge
+ nerated statements\, retrieved documents\, or intermediate reasoning steps
+ . However\, existing frameworks largely treat these elements independently
+ \, overlooking the fact that correctness and reliability often emerge at t
+ he set…\n\n地点：45-792\n活动页：https://www.csail.mit.edu/event/
+ nlp-seminar-reasoning-over-sets-toward-consistent-llm-systems\n\n来源：
+ mit_csail｜得分 14｜抓取于 2026-10-04 15:01
+LOCATION:32 Vassar Street\, Cambridge\, MA 02139
+STATUS:CONFIRMED
+URL:https://www.csail.mit.edu/event/nlp-seminar-reasoning-over-sets-toward
+ -consistent-llm-systems
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[开放] Crafting an Effective Statement of Purpose
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T173000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:mit_all-54063526770420@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -84,7 +91,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  ill examine examples of successful state…\n\n地点：Building 4\, Room 
  149\n活动页：https://calendar.mit.edu/event/copy-of-crafting-an-effect
  ive-statement-of-purpose-1047\n报名：https://forms.gle/eigg3h2Jps1ozecq
- 5\n\n来源：mit_all｜得分 30｜抓取于 2026-10-03 14:27
+ 5\n\n来源：mit_all｜得分 30｜抓取于 2026-10-04 15:01
 LOCATION:182 Memorial Drive\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/copy-of-crafting-an-effective-statement
@@ -95,7 +102,7 @@ SUMMARY:[需确认] Weaving Wonder: Human Flourishing in the Age of Artifi
  cial Intelligence
 DTSTART;TZID=America/New_York:20261021T120000
 DTEND;TZID=America/New_York:20261021T130000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:harvard_seas-53878040426767@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -108,7 +115,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  //events.seas.harvard.edu/event/weaving-wonder-human-flourishing-in-the-ag
  e-of-artificial-intelligence\n报名：https://www.radcliffe.harvard.edu/e
  vent/2026-orit-shaer-fellow-presentation-virtual\n\n来源：harvard_seas
- ｜得分 15｜抓取于 2026-10-03 14:27
+ ｜得分 15｜抓取于 2026-10-04 15:01
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/weaving-wonder-human-flourishing
  -in-the-age-of-artificial-intelligence
@@ -118,7 +125,7 @@ SUMMARY:[开放] Maria Claudia Clemente and Francesco Isidori “The Archi
  tecture of Public Space”
 DTSTART;TZID=America/New_York:20261021T183000
 DTEND;TZID=America/New_York:20261021T200000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:harvard_gsd-2680646@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -130,7 +137,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  at number [...]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.
  harvard.edu/event/labics/\n报名：https://www.eventbrite.com/e/labics-th
  e-architecture-of-public-space-tickets-1998433789260?aff=oddtdtcreator\n\n
- 来源：harvard_gsd｜得分 41｜抓取于 2026-10-03 14:26
+ 来源：harvard_gsd｜得分 41｜抓取于 2026-10-04 15:01
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/labics/
@@ -139,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Caroline Shaw & Andrew Yee Music for Landscapes
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T200000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:harvard_gsd-2683475@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -151,7 +158,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  .]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/e
  vent/music-for-landscapes/\n报名：https://www.eventbrite.com/e/caroline
  -shaw-andrew-yee-tbd-tickets-1998434081133?aff=oddtdtcreator\n\n来源：h
- arvard_gsd｜得分 16｜抓取于 2026-10-03 14:26
+ arvard_gsd｜得分 16｜抓取于 2026-10-04 15:01
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/music-for-landscapes/
@@ -160,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Scalable\, Robust and Safe Autonomy at Zoox
 DTSTART;TZID=America/New_York:20261023T150000
 DTEND;TZID=America/New_York:20261023T160000
-DTSTAMP:20261003T142706Z
+DTSTAMP:20261004T150119Z
 UID:harvard_seas-53948332918150@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -172,7 +179,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  lf-driving robotaxi system at scale\, some of the candidate solutions\, an
  d open…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
  harvard.edu/event/scalable-robust-and-safe-autonomy-at-zoox\n\n来源：ha
- rvard_seas｜得分 33｜抓取于 2026-10-03 14:27
+ rvard_seas｜得分 33｜抓取于 2026-10-04 15:01
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/scalable-robust-and-safe-autonom
