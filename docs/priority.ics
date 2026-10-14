@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Crafting an Effective Statement of Purpose
 DTSTART;TZID=America/New_York:20261014T160000
 DTEND;TZID=America/New_York:20261014T173000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:mit_all-54063526770420@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -21,7 +21,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  ill examine examples of successful state…\n\n地点：Building 4\, Room 
  149\n活动页：https://calendar.mit.edu/event/copy-of-crafting-an-effect
  ive-statement-of-purpose-1047\n报名：https://forms.gle/eigg3h2Jps1ozecq
- 5\n\n来源：mit_all｜得分 30｜抓取于 2026-10-13 17:11
+ 5\n\n来源：mit_all｜得分 30｜抓取于 2026-10-14 14:44
 LOCATION:182 Memorial Drive\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/copy-of-crafting-an-effective-statement
@@ -32,7 +32,7 @@ SUMMARY:[开放] "Lawless Progress on Wicked Problems”: Shifting the Rol
  es of Humans in Human-AI Systems
 DTSTART;TZID=America/New_York:20261016T140000
 DTEND;TZID=America/New_York:20261016T150000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:harvard_seas-54231376269745@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
@@ -45,7 +45,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
  ng Complex (SEC)\, Room 3.301\n活动页：https://events.seas.harvard.edu
  /event/lawless-progress-on-wicked-problems-shifting-the-roles-of-humans-in
  -human-ai-systems\n\n来源：harvard_seas｜得分 35｜抓取于 2026-10
- -13 17:11
+ -14 14:44
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/lawless-progress-on-wicked-probl
@@ -55,7 +55,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Science in Wartime Ukraine: Campus Engagement
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T183000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:mit_all-54231136812346@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -68,7 +68,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  ian W. Pye Room (E40-496)\n活动页：https://calendar.mit.edu/event/scie
  nce-in-wartime-ukraine-campus-engagement\n报名：https://docs.google.com
  /forms/d/e/1FAIpQLScqTwE7WmntKxQfzDQ_HADOSlksOEsXk3Byrkg3CBt0Z9Tnsg/viewfo
- rm?usp=header\n\n来源：mit_all｜得分 30｜抓取于 2026-10-13 17:11
+ rm?usp=header\n\n来源：mit_all｜得分 30｜抓取于 2026-10-14 14:44
 LOCATION:1 Amherst Street\, Cambridge\, MA\, 02142
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/science-in-wartime-ukraine-campus-engag
@@ -79,7 +79,7 @@ SUMMARY:[开放] Maria Claudia Clemente and Francesco Isidori “The Archi
  tecture of Public Space”
 DTSTART;TZID=America/New_York:20261021T183000
 DTEND;TZID=America/New_York:20261021T200000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:harvard_gsd-2680646@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -91,7 +91,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  at number [...]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.
  harvard.edu/event/labics/\n报名：https://www.eventbrite.com/e/labics-th
  e-architecture-of-public-space-tickets-1998433789260?aff=oddtdtcreator\n\n
- 来源：harvard_gsd｜得分 41｜抓取于 2026-10-13 17:11
+ 来源：harvard_gsd｜得分 41｜抓取于 2026-10-14 14:44
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/labics/
@@ -100,7 +100,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Caroline Shaw & Andrew Yee Music for Landscapes
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T200000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:harvard_gsd-2683475@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -112,7 +112,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  .]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/e
  vent/music-for-landscapes/\n报名：https://www.eventbrite.com/e/caroline
  -shaw-andrew-yee-tbd-tickets-1998434081133?aff=oddtdtcreator\n\n来源：h
- arvard_gsd｜得分 16｜抓取于 2026-10-13 17:11
+ arvard_gsd｜得分 16｜抓取于 2026-10-14 14:44
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/music-for-landscapes/
@@ -121,7 +121,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Scalable\, Robust and Safe Autonomy at Zoox
 DTSTART;TZID=America/New_York:20261023T150000
 DTEND;TZID=America/New_York:20261023T160000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:harvard_seas-53948332918150@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -133,7 +133,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  lf-driving robotaxi system at scale\, some of the candidate solutions\, an
  d open…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
  harvard.edu/event/scalable-robust-and-safe-autonomy-at-zoox\n\n来源：ha
- rvard_seas｜得分 33｜抓取于 2026-10-13 17:11
+ rvard_seas｜得分 33｜抓取于 2026-10-14 14:44
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/scalable-robust-and-safe-autonom
@@ -143,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Human-in-the-Loop robot learning
 DTSTART;TZID=America/New_York:20261030T150000
 DTEND;TZID=America/New_York:20261030T160000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:harvard_seas-54062181999093@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -155,7 +155,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  \, from sensing and modelling human movement and behaviour to learning con
  trollers…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.sea
  s.harvard.edu/event/human-in-the-loop-robot-learning\n\n来源：harvard_s
- eas｜得分 33｜抓取于 2026-10-13 17:11
+ eas｜得分 33｜抓取于 2026-10-14 14:44
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/human-in-the-loop-robot-learning
@@ -164,7 +164,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Pneuhaus “Building with Air”
 DTSTART;TZID=America/New_York:20261102T183000
 DTEND;TZID=America/New_York:20261102T200000
-DTSTAMP:20261013T171145Z
+DTSTAMP:20261014T144451Z
 UID:harvard_gsd-2683480@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -177,7 +177,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  \n活动页：https://www.gsd.harvard.edu/event/building-with-air/\n报名
  ：https://www.eventbrite.com/e/pneuhaus-building-with-air-tickets-1998434
  333889?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 16｜抓取于 2
- 026-10-13 17:11
+ 026-10-14 14:44
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/building-with-air/
