@@ -3,63 +3,63 @@
   "consecutive_failures": 0,
   "count": 12,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "harvard_art_museums": {
   "consecutive_failures": 0,
-  "count": 39,
+  "count": 38,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "harvard_gsd": {
   "consecutive_failures": 0,
   "count": 7,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "harvard_hbs": {
   "consecutive_failures": 0,
-  "count": 3,
+  "count": 2,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "harvard_seas": {
   "consecutive_failures": 0,
   "count": 23,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "mit_all": {
   "consecutive_failures": 0,
   "count": 10,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "mit_building_e14": {
   "consecutive_failures": 0,
   "count": 1,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "mit_csail": {
   "consecutive_failures": 0,
-  "count": 10,
+  "count": 12,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  },
  "mit_media_lab": {
   "consecutive_failures": 0,
   "count": 1,
   "error": null,
-  "last_run": "2026-10-17T13:19:03+00:00",
+  "last_run": "2026-10-18T13:38:44+00:00",
   "ok": true
  }
 }
