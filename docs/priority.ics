@@ -9,7 +9,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Science in Wartime Ukraine: Campus Engagement
 DTSTART;TZID=America/New_York:20261021T170000
 DTEND;TZID=America/New_York:20261021T183000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:mit_all-54231136812346@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -22,7 +22,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  ian W. Pye Room (E40-496)\n活动页：https://calendar.mit.edu/event/scie
  nce-in-wartime-ukraine-campus-engagement\n报名：https://docs.google.com
  /forms/d/e/1FAIpQLScqTwE7WmntKxQfzDQ_HADOSlksOEsXk3Byrkg3CBt0Z9Tnsg/viewfo
- rm?usp=header\n\n来源：mit_all｜得分 30｜抓取于 2026-10-18 13:38
+ rm?usp=header\n\n来源：mit_all｜得分 30｜抓取于 2026-10-19 16:40
 LOCATION:1 Amherst Street\, Cambridge\, MA\, 02142
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/science-in-wartime-ukraine-campus-engag
@@ -33,7 +33,7 @@ SUMMARY:[开放] Maria Claudia Clemente and Francesco Isidori “The Archi
  tecture of Public Space”
 DTSTART;TZID=America/New_York:20261021T183000
 DTEND;TZID=America/New_York:20261021T200000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:harvard_gsd-2680646@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -45,7 +45,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  at number [...]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.
  harvard.edu/event/labics/\n报名：https://www.eventbrite.com/e/labics-th
  e-architecture-of-public-space-tickets-1998433789260?aff=oddtdtcreator\n\n
- 来源：harvard_gsd｜得分 41｜抓取于 2026-10-18 13:38
+ 来源：harvard_gsd｜得分 41｜抓取于 2026-10-19 16:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/labics/
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Caroline Shaw & Andrew Yee Music for Landscapes
 DTSTART;TZID=America/New_York:20261022T183000
 DTEND;TZID=America/New_York:20261022T200000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:harvard_gsd-2683475@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -66,7 +66,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  .]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/e
  vent/music-for-landscapes/\n报名：https://www.eventbrite.com/e/caroline
  -shaw-andrew-yee-tbd-tickets-1998434081133?aff=oddtdtcreator\n\n来源：h
- arvard_gsd｜得分 16｜抓取于 2026-10-18 13:38
+ arvard_gsd｜得分 16｜抓取于 2026-10-19 16:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/music-for-landscapes/
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Scalable\, Robust and Safe Autonomy at Zoox
 DTSTART;TZID=America/New_York:20261023T150000
 DTEND;TZID=America/New_York:20261023T160000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:harvard_seas-53948332918150@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -87,7 +87,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  m at scale\, some of the candidate solutions\, and open questions for the 
  future…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
  harvard.edu/event/scalable-robust-and-safe-autonomy-at-zoox\n\n来源：ha
- rvard_seas｜得分 33｜抓取于 2026-10-18 13:38
+ rvard_seas｜得分 33｜抓取于 2026-10-19 16:40
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/scalable-robust-and-safe-autonom
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Human-in-the-Loop robot learning
 DTSTART;TZID=America/New_York:20261030T150000
 DTEND;TZID=America/New_York:20261030T160000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:harvard_seas-54062181999093@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -109,39 +109,17 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  \, from sensing and modelling human movement and behaviour to learning con
  trollers…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.sea
  s.harvard.edu/event/human-in-the-loop-robot-learning\n\n来源：harvard_s
- eas｜得分 33｜抓取于 2026-10-18 13:38
+ eas｜得分 33｜抓取于 2026-10-19 16:40
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/human-in-the-loop-robot-learning
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[开放] Pneuhaus “Building with Air”
-DTSTART;TZID=America/New_York:20261102T183000
-DTEND;TZID=America/New_York:20261102T200000
-DTSTAMP:20261018T133844Z
-UID:harvard_gsd-2683480@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
- rachel dorothy tanur memorial lecture\n\n主讲：August Lehrecke\n\n摘
- 要：LIVESTREAM INFO A live stream for this event will be available on th
- is page at the scheduled start time. Closed captioning is available by cli
- cking the “CC” icon at the bottom of the player window. About this Eve
- nt Pneuhaus began by blowing bubbles: a joint thesis project built around 
- a fascination with inflatables and what [...]\n\n地点：Piper Auditorium
- \n活动页：https://www.gsd.harvard.edu/event/building-with-air/\n报名
- ：https://www.eventbrite.com/e/pneuhaus-building-with-air-tickets-1998434
- 333889?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 16｜抓取于 2
- 026-10-18 13:38
-LOCATION:48 Quincy Street\, Cambridge\, MA 02138
-STATUS:CONFIRMED
-URL:https://www.gsd.harvard.edu/event/building-with-air/
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[需确认] Deducing stratospheric transport from trace gas measur
  ements: Are we there yet?
 DTSTART;TZID=America/New_York:20261106T120000
 DTEND;TZID=America/New_York:20261106T130000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:harvard_seas-53568260284408@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -154,7 +132,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  …\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.seas.h
  arvard.edu/event/deducing-stratospheric-transport-from-trace-gas-measureme
  nts-are-we-there-yet\n\n来源：harvard_seas｜得分 30｜抓取于 2026
- -10-18 13:38
+ -10-19 16:40
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/deducing-stratospheric-transport
@@ -165,7 +143,7 @@ SUMMARY:[需确认] Human-Machine Interfaces for Studying and Assisting Hu
  man Movement
 DTSTART;TZID=America/New_York:20261106T150000
 DTEND;TZID=America/New_York:20261106T160000
-DTSTAMP:20261018T133844Z
+DTSTAMP:20261019T164029Z
 UID:harvard_seas-53744560152616@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -177,11 +155,34 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  l control and biomechanics of human locomotion and other whole body moveme
  nts. T…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
  harvard.edu/event/human-machine-interfaces-for-studying-and-assisting-huma
- n-movement\n\n来源：harvard_seas｜得分 33｜抓取于 2026-10-18 13:
- 38
+ n-movement\n\n来源：harvard_seas｜得分 33｜抓取于 2026-10-19 16:
+ 40
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/human-machine-interfaces-for-stu
  dying-and-assisting-human-movement
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[开放] Dana Cuff “Coming Home: Crisis\, Fire\, and Recovery”
+DTSTART;TZID=America/New_York:20261109T183000
+DTEND;TZID=America/New_York:20261109T200000
+DTSTAMP:20261019T164029Z
+UID:harvard_gsd-2683510@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
+ jaqueline tyrwhitt urban design lecture\n\n主讲：Dana Cuff\n\n摘要：
+ LIVESTREAM INFO A live stream for this event will be available on this pag
+ e at the scheduled start time. Closed captioning is available by clicking 
+ the “CC” icon at the bottom of the player window. About This Lecture D
+ r. Dana Cuff\, an educator\, scholar\, designer\, and activist who explore
+ s how design can contribute to building [...]\n\n地点：Piper Auditorium
+ \n活动页：https://www.gsd.harvard.edu/event/coming-home-crisis-fire-an
+ d-recovery/\n报名：https://www.eventbrite.com/e/dana-cuff-tickets-19989
+ 14795964?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 23｜抓取于
+  2026-10-19 16:40
+LOCATION:48 Quincy Street\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://www.gsd.harvard.edu/event/coming-home-crisis-fire-and-recovery
+ /
 END:VEVENT
 END:VCALENDAR
