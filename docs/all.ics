@@ -6,81 +6,18 @@ X-WR-CALNAME:Events - All
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[需确认] MIT FutureTech Annual Conference Predicting AI's Futur
- e - Day 2
-DTSTART;TZID=America/New_York:20261023T083000
-DTEND;TZID=America/New_York:20261023T170000
-DTSTAMP:20261023T143005Z
-UID:mit_csail-14996@harvard-mit-events
-SEQUENCE:1
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：会议
- \n\n摘要：https://www.csail.mit.edu/event/mit-futuretech-annual-confere
- nce-predicting-ais-future-day-2\n\n地点：SCHWARZMAN COLLEGE OF COMPUTIN
- G\, 8TH FLOOR\n活动页：https://www.csail.mit.edu/event/mit-futuretech-
- annual-conference-predicting-ais-future-day-2\n\n来源：mit_csail｜得
- 分 5｜抓取于 2026-10-23 14:30
-LOCATION:32 Vassar Street\, Cambridge\, MA 02139
-STATUS:CONFIRMED
-URL:https://www.csail.mit.edu/event/mit-futuretech-annual-conference-predi
- cting-ais-future-day-2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[开放] Team Bacteria versus Team Phage
-DTSTART;TZID=America/New_York:20261023T120000
-DTEND;TZID=America/New_York:20261023T130000
-DTSTAMP:20261023T143005Z
-UID:harvard_seas-54036014062922@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
- Applied Physics and Applied Mechanics Colloquia\n\n摘要：Abstract: Bact
- eria and the viruses that infect them\, known as phages\, are locked in a 
- continual evolutionary competition. In this talk\, I will present three st
- ories illustrating the surprisingly sophisticated strategies used by both 
- sides. First\, we will see how bacteria can learn about danger from their 
- fallen comrades: when cells are killed and burst open\, they release a sma
- ll molecule that ser…\n\n地点：Maxwell Dworkin\, Room G115\n活动页
- ：https://events.seas.harvard.edu/event/alma-dal-co-memorial-lecture-team
- -bacteria-versus-team-phage\n\n来源：harvard_seas｜得分 7｜抓取
- 于 2026-10-23 14:30
-LOCATION:33 Oxford Street\, Cambridge\, MA\, 02138
-STATUS:CONFIRMED
-URL:https://events.seas.harvard.edu/event/alma-dal-co-memorial-lecture-tea
- m-bacteria-versus-team-phage
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[已取消] Make a Map Fridays
-DTSTART;TZID="UTC-04:00":20261023T140000
-DTEND;TZID="UTC-04:00":20261023T160000
-DTSTAMP:20261023T143005Z
-UID:gsd_loeb_library-LibCal-4722-17559221@harvard-mit-events
-SEQUENCE:1
-DESCRIPTION:准入：开放（无需报名）\n类型：其他\n\n摘要
- ：Explore how to find geospatial data\, examine best practices (or good e
- nough) for managing geospatial projects\, move geospatial data between dif
- ferent software applications\, create maps for print and digital platforms
- \, and combine curiosity and critique for rapid iteration. These sessions 
- will be both laissez-faire and deeply intentional. Expect to learn at leas
- t 3 new things every time you partic…\n\n地点：Digital Research Studi
- o Space\n活动页：https://libcal.gsd.harvard.edu/calendar/support/makea
- mapfridayfall2026\n\n来源：gsd_loeb_library｜得分 0｜抓取于 2026
- -10-04 15:01
-LOCATION:48 Quincy Street\, Cambridge\, MA 02138
-STATUS:CANCELLED
-URL:https://libcal.gsd.harvard.edu/calendar/support/makeamapfridayfall2026
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Contained\, with Priya Allen ’27
 DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T115000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4234@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Priya Allen will explore the design and politics of historical drinking
   vessels and containers.\n\n地点：Harvard Art Museums\n活动页：http
  s://harvardartmuseums.org/calendar/spotlight-tour-contained-with-priya-all
- en-27-14\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23
-  14:29
+ en-27-14\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24
+  13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-contained-with-p
@@ -91,7 +28,7 @@ SUMMARY:[需确认] Quantum meets K-12: Connecting students with 21st cent
  ury physics topics and applications
 DTSTART;TZID=America/New_York:20261024T110000
 DTEND;TZID=America/New_York:20261024T120000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54257658263695@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：其他
@@ -103,7 +40,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：其他
   also provide an overview of policies that s…\n\n活动页：https://eve
  nts.seas.harvard.edu/event/quantum-meets-k-12-connecting-students-with-21s
  t-century-physics-topics-and-applications\n\n来源：harvard_seas｜得
- 分 -4｜抓取于 2026-10-23 14:30
+ 分 -4｜抓取于 2026-10-24 13:41
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/quantum-meets-k-12-connecting-st
  udents-with-21st-century-physics-topics-and-applications
@@ -112,14 +49,14 @@ BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Disavowed\, with Julianne Wu ’28
 DTSTART;TZID=America/New_York:20261024T140000
 DTEND;TZID=America/New_York:20261024T145000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4235@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Julianne Wu will look at three works that illuminate\, disturb\, or cha
  llenge authority.\n\n地点：Harvard Art Museums\n活动页：https://har
  vardartmuseums.org/calendar/spotlight-tour-disavowed-with-julianne-wu-28\n
- \n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ \n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-disavowed-with-j
@@ -130,7 +67,7 @@ SUMMARY:[需确认] Harvard Football Fall Fest & Harvard–Princeton Footb
  all Game
 DTSTART;TZID=America/New_York:20261024T150000
 DTEND;TZID=America/New_York:20261024T220000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53673448581629@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：社交
@@ -142,7 +79,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：社交
   rate. Email events@seas.harvard.edu to request…\n\n地点：Harvard Sta
  dium\n活动页：https://events.seas.harvard.edu/event/harvard-football-f
  all-fest-harvardyale-rivalry-game\n\n来源：harvard_seas｜得分 0｜
- 抓取于 2026-10-23 14:30
+ 抓取于 2026-10-24 13:41
 LOCATION:79 North Harvard Street\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/harvard-football-fall-fest-harva
@@ -153,14 +90,14 @@ SUMMARY:[开放] Spotlight Tour: In the Blink of an Eye\, with Jade Xiao
  ’27
 DTSTART;TZID=America/New_York:20261025T110000
 DTEND;TZID=America/New_York:20261025T115000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4236@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Jade Xiao will explore how art accommodates the fleeting nature of time
  .\n\n地点：Harvard Art Museums\n活动页：https://harvardartmuseums.o
  rg/calendar/spotlight-tour-in-the-blink-of-an-eye-with-jade-xiao-27-8\n\n
- 来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ 来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-in-the-blink-of-
@@ -171,7 +108,7 @@ SUMMARY:[开放] Spotlight Tour: Child’s Play\, with Ricardo Fernandes G
  arcia ’27
 DTSTART;TZID=America/New_York:20261025T140000
 DTEND;TZID=America/New_York:20261025T145000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4237@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -179,7 +116,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  have enabled painters to address conflict and war.\n\n地点：Harvard Art
   Museums\n活动页：https://harvardartmuseums.org/calendar/spotlight-tou
  r-child-s-play-with-ricardo-fernandes-garcia-27-20\n\n来源：harvard_art
- _museums｜得分 2｜抓取于 2026-10-23 14:29
+ _museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-child-s-play-wit
@@ -189,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Allston Make and Mingle
 DTSTART;TZID=America/New_York:20261026T153000
 DTEND;TZID=America/New_York:20261026T170000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54284966821546@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
@@ -199,7 +136,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
  painting and tile painting. No experience necessary\; RSVP on Engage.\n\n
  地点：Science and Engineering Complex (SEC)\, Room 2.122\n活动页：h
  ttps://events.seas.harvard.edu/event/allstonmake-and-mingle\n\n来源：ha
- rvard_seas｜得分 2｜抓取于 2026-10-23 14:30
+ rvard_seas｜得分 2｜抓取于 2026-10-24 13:41
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/allstonmake-and-mingle
@@ -209,7 +146,7 @@ SUMMARY:[开放] Activation of Moholy-Nagy’s _Light Prop for an Electric
   Stage_
 DTSTART;TZID=America/New_York:20261027T003000
 DTEND;TZID=America/New_York:20261027T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4203@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -217,8 +154,8 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  rimental device from 1930 by Bauhaus pioneer László Moholy-Nagy.\n\n地
  点：Harvard Art Museums\n活动页：https://harvardartmuseums.org/calen
  dar/gallery-talk-activation-of-moholy-nagy-s-light-prop-for-an-electric-st
- age-45\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 1
- 4:29
+ age-45\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 1
+ 3:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/gallery-talk-activation-of-moho
@@ -228,7 +165,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] _positions: Juan Sala Douglas Harsevoort
 DTSTART;TZID=America/New_York:20261027T120000
 DTEND;TZID=America/New_York:20261027T133000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17824724@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：其他｜系列：
@@ -240,7 +177,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：其他｜系列：
  ations convened by the Department of Architecture at the Harvard Unive…
  \n\n地点：Loeb Library Lobby\, Upper Level\n活动页：https://libcal.
  gsd.harvard.edu/event/17824724\n\n来源：gsd_loeb_library｜得分 9｜
- 抓取于 2026-10-23 14:30
+ 抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17824724
@@ -249,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Training Language Models to Talk About Themselves
 DTSTART;TZID=America/New_York:20261027T120000
 DTEND;TZID=America/New_York:20261027T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_csail-14997@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -261,7 +198,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  e correctness of their own outputs\, or answer user questions about their 
  behavioral t…\n\n地点：ZOOM\n活动页：https://www.csail.mit.edu/ev
  ent/csail-forum-jacob-andreas-training-language-models-talk-about-themselv
- es\n\n来源：mit_csail｜得分 5｜抓取于 2026-10-23 14:30
+ es\n\n来源：mit_csail｜得分 5｜抓取于 2026-10-24 13:41
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/csail-forum-jacob-andreas-training-lan
@@ -271,7 +208,7 @@ BEGIN:VEVENT
 SUMMARY:[已取消] CSAIL Forum
 DTSTART;TZID="UTC-04:00":20261027T120000
 DTEND;TZID="UTC-04:00":20261027T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_csail-14785@harvard-mit-events
 SEQUENCE:2
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -288,7 +225,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Juan Sala + Douglas Harsevoort _POSITIONS XXVI
 DTSTART;TZID=America/New_York:20261027T123000
 DTEND;TZID=America/New_York:20261027T140000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_gsd-2595643@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -299,7 +236,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  e the foundation of their practice. About _positions Where do you stand in
   the field of architecture? “_positions” is [...]\n\n地点：Frances 
  Loeb Library Lobby\n活动页：https://www.gsd.harvard.edu/event/_positio
- ns/\n\n来源：harvard_gsd｜得分 11｜抓取于 2026-10-23 14:29
+ ns/\n\n来源：harvard_gsd｜得分 11｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/_positions/
@@ -309,7 +246,7 @@ SUMMARY:[开放] Conference Ready! Designing Compelling Abstracts and Slid
  es
 DTSTART;TZID=America/New_York:20261027T160000
 DTEND;TZID=America/New_York:20261027T173000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_all-54195671843366@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -321,7 +258,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  t. Light snacks will be served at each…\n\n地点：Building E17\, Room 
  136\n活动页：https://calendar.mit.edu/event/conference_abstracts_and_p
  resentations\n报名：https://forms.gle/cAwNpX5tG1FecQfV7\n\n来源：mit
- _all｜得分 0｜抓取于 2026-10-23 14:30
+ _all｜得分 0｜抓取于 2026-10-24 13:41
 LOCATION:40 Ames Street\, Cambridge\, MA\, 02142
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/conference_abstracts_and_presentations
@@ -330,7 +267,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Charles Spence - Gastronomy and Beyond
 DTSTART;TZID=America/New_York:20261028T120000
 DTEND;TZID=America/New_York:20261028T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_media_lab-charles-spence-gastronomy-and-beyond@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -338,7 +275,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
   experimental psychologist at the University of Oxford and Head of the Cro
  ssmo...\n\n地点：MIT Media Lab (E14)\n活动页：https://www.media.mit
  .edu/events/charles-spence-gastronomy-and-beyond/\n\n来源：mit_media_la
- b｜得分 8｜抓取于 2026-10-23 14:30
+ b｜得分 8｜抓取于 2026-10-24 13:41
 LOCATION:75 Amherst Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.media.mit.edu/events/charles-spence-gastronomy-and-beyond/
@@ -348,7 +285,7 @@ SUMMARY:[开放] Multi-Site Exhibition Tour: _Alfonso Ossorio: Line and Li
  neage_ and _Knowledge Is Myth: Chimeric Continuities_
 DTSTART;TZID=America/New_York:20261028T120000
 DTEND;TZID=America/New_York:20261028T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4198@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -357,7 +294,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  \n地点：Harvard Art Museums\n活动页：https://harvardartmuseums.org/
  calendar/multi-site-exhibition-tour-alfonso-ossorio-line-and-lineage-and-k
  nowledge-is-myth-chimeric-continuities-3\n\n来源：harvard_art_museums
- ｜得分 2｜抓取于 2026-10-23 14:29
+ ｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street & 24 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/multi-site-exhibition-tour-alfo
@@ -367,7 +304,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Grant Research and Writing Strategies
 DTSTART;TZID=America/New_York:20261028T120000
 DTEND;TZID=America/New_York:20261028T124500
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17347824@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：其他\n\n摘要
@@ -377,7 +314,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：其他\n\n摘要
  sinella (Writing and Communication Services Librarian) and Alix Reiskind (
  Research and Teaching Team Lead Librarian)\n\n地点：Gund 510\n活动页
  ：https://libcal.gsd.harvard.edu/calendar/support/grants1026\n\n来源：
- gsd_loeb_library｜得分 2｜抓取于 2026-10-23 14:30
+ gsd_loeb_library｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/calendar/support/grants1026
@@ -386,7 +323,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Write Now Wednesdays
 DTSTART;TZID=America/New_York:20261028T130000
 DTEND;TZID=America/New_York:20261028T150000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17707452@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -394,7 +331,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
  t of the time or the whole two hours of focused work in community. Library
   writing staff will be on hand if you have questions or want feedback.\n\n
  地点：Gund 516\n活动页：https://libcal.gsd.harvard.edu/event/177074
- 52\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-10-23 14:30
+ 52\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17707452
@@ -403,7 +340,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] 2026 Institute-wide UROP Mixer
 DTSTART;TZID=America/New_York:20261028T153000
 DTEND;TZID=America/New_York:20261028T170000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_all-53948895211727@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
@@ -415,7 +352,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊\n\n摘
  ortunities (across all MIT disciplines) fo…\n\n地点：Building W20: St
  ratton Student Center\, Room Second and Third Floor\n活动页：https://c
  alendar.mit.edu/event/2026-institute-wide-urop-mixer-7158\n\n来源：mit_
- all｜得分 5｜抓取于 2026-10-23 14:30
+ all｜得分 5｜抓取于 2026-10-24 13:41
 LOCATION:84 Massachusetts Avenue\, Cambridge\, MA\, 02139
 STATUS:CONFIRMED
 URL:https://calendar.mit.edu/event/2026-institute-wide-urop-mixer-7158
@@ -424,7 +361,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Maximum Cardinality Matching in n^2 Time
 DTSTART;TZID=America/New_York:20261028T160000
 DTEND;TZID=America/New_York:20261028T170000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_csail-15059@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -437,7 +374,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  hing problem. The second half of the talk sketches how we can generalize t
  he techniques from combinator…\n\n地点：32_G575\n活动页：https://
  www.csail.mit.edu/event/maximum-cardinality-matching-n2-time\n\n来源：m
- it_csail｜得分 8｜抓取于 2026-10-23 14:30
+ it_csail｜得分 8｜抓取于 2026-10-24 13:41
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/maximum-cardinality-matching-n2-time
@@ -446,7 +383,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] PhD Applications: Tip & Strategies (STEM)
 DTSTART;TZID=America/New_York:20261028T160000
 DTEND;TZID=America/New_York:20261028T170000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54106928755967@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：工作
@@ -457,7 +394,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：工作
  experience\, and more. Register here.\n\n地点：MCS (54 Dunster St\, Cam
  bridge)\n活动页：https://events.seas.harvard.edu/event/phd-application
  s-tip-strategies-stem\n\n来源：harvard_seas｜得分 6｜抓取于 2026
- -10-23 14:30
+ -10-24 13:41
 LOCATION:MCS (54 Dunster St\, Cambridge)
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/phd-applications-tip-strategies-
@@ -467,7 +404,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Venturing@Harvard
 DTSTART;TZID=America/New_York:20261028T163000
 DTEND;TZID=America/New_York:20261028T180000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53187016097095@harvard-mit-events
 SEQUENCE:2
 DESCRIPTION:准入：开放（无需报名）\n类型：职业发展｜系
@@ -477,7 +414,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：职业发展｜系
  up community. No pitch\, project\, or startup required.\n\n地点：Gordon
   Hall\n活动页：https://events.seas.harvard.edu/event/venturingharvard-
  5150\n同活动另见：https://events.seas.harvard.edu/event/venturinghar
- vard-8697\n\n来源：harvard_seas｜得分 0｜抓取于 2026-10-23 14:30
+ vard-8697\n\n来源：harvard_seas｜得分 0｜抓取于 2026-10-24 13:41
 LOCATION:25 Shattuck Street\, Boston\, MA\, 02115
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/venturingharvard-5150
@@ -486,7 +423,7 @@ BEGIN:VEVENT
 SUMMARY:[已取消] Venturing@Harvard
 DTSTART;TZID="UTC-04:00":20261028T163000
 DTEND;TZID="UTC-04:00":20261028T180000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53302090191734@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
@@ -506,7 +443,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] gsdLibrary in the Trays
 DTSTART;TZID=America/New_York:20261029T120000
 DTEND;TZID=America/New_York:20261029T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17334139@harvard-mit-events
 SEQUENCE:2
 DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
@@ -517,7 +454,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
   help for information and/or design! Curation theme: Gothic Design Drop by
   anytime for however long from 12-1PM!\n\n地点：Gund 2nd: Outer Tray Co
  llaboration Space\n活动页：https://libcal.gsd.harvard.edu/event/173341
- 39\n\n来源：gsd_loeb_library｜得分 0｜抓取于 2026-10-23 14:30
+ 39\n\n来源：gsd_loeb_library｜得分 0｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17334139
@@ -526,14 +463,14 @@ BEGIN:VEVENT
 SUMMARY:[开放] Midday Organ Recital: Luca Cantone
 DTSTART;TZID=America/New_York:20261029T121500
 DTEND;TZID=America/New_York:20261029T124500
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4232@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Recitals are performed on Harvard’s famous 1958 D. A. Flentrop organ
  \, at Adolphus Busch Hall.\n\n地点：Harvard Art Museums\n活动页：ht
  tps://harvardartmuseums.org/calendar/midday-organ-recital-luca-cantone\n\n
- 来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ 来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:29 Kirkland Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/midday-organ-recital-luca-canto
@@ -544,7 +481,7 @@ SUMMARY:[开放] Hauntology\, Death Discs\, and the Specter of Postwar Ame
  rica
 DTSTART;TZID=America/New_York:20261029T123000
 DTEND;TZID=America/New_York:20261029T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4149@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -553,7 +490,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  ogy.\n\n地点：Harvard Art Museums\n活动页：https://harvardartmuseum
  s.org/calendar/gallery-talk-hauntology-death-discs-and-the-specter-of-post
  war-america\n\n来源：harvard_art_museums｜得分 15｜抓取于 2026-1
- 0-23 14:29
+ 0-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/gallery-talk-hauntology-death-d
@@ -563,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:[已取消] Fill Your Cup at Happy Harvest
 DTSTART;TZID="UTC-04:00":20261029T130000
 DTEND;TZID="UTC-04:00":20261029T150000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54106872938007@harvard-mit-events
 SEQUENCE:3
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：社交
@@ -584,7 +521,7 @@ SUMMARY:[开放] Making Data Count: Measuring\, Stretching\, and Amortizin
  g Training Data
 DTSTART;TZID=America/New_York:20261029T143000
 DTEND;TZID=America/New_York:20261029T153000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53798806993281@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -597,7 +534,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  and al…\n\n地点：Science and Engineering Complex (SEC)\, Room LL2.224
  \n活动页：https://events.seas.harvard.edu/event/computer-science-collo
  quium-series-david-alvarez-melis-harvard-seas\n\n来源：harvard_seas｜
- 得分 5｜抓取于 2026-10-23 14:30
+ 得分 5｜抓取于 2026-10-24 13:41
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/computer-science-colloquium-seri
@@ -608,7 +545,7 @@ SUMMARY:[需确认] Changing the Rules: Designers Who Shape What Gets Buil
  t | Seattle\, WA
 DTSTART;TZID=America/New_York:20261029T213000
 DTEND;TZID=America/New_York:20261029T223000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_gsd-2685139@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：社交
@@ -621,7 +558,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：社交
  rd Avenue\, Suite 700\, Seattle\n活动页：https://www.gsd.harvard.edu/e
  vent/changing-the-rules-designers-who-shape-what-gets-built-seattle-wa/\n
  报名：https://hcseattle.clubs.harvard.edu/article.html?aid=795\n\n来
- 源：harvard_gsd｜得分 -2｜抓取于 2026-10-23 14:29
+ 源：harvard_gsd｜得分 -2｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/changing-the-rules-designers-who-sha
@@ -631,7 +568,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Structured Learning for Fast Physical Prediction
 DTSTART;TZID=America/New_York:20261030T110000
 DTEND;TZID=America/New_York:20261030T120000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_csail-15042@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -643,7 +580,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ure needed for reliable simulation.In this talk\, I will present three app
  roaches that combi…\n\n地点：32_D451\n活动页：https://www.csail.m
  it.edu/event/structured-learning-fast-physical-prediction\n\n来源：mit_
- csail｜得分 11｜抓取于 2026-10-23 14:30
+ csail｜得分 11｜抓取于 2026-10-24 13:41
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/structured-learning-fast-physical-pred
@@ -653,14 +590,14 @@ BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Disavowed\, with Julianne Wu ’28
 DTSTART;TZID=America/New_York:20261031T110000
 DTEND;TZID=America/New_York:20261031T115000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4238@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Julianne Wu will look at three works that illuminate\, disturb\, or cha
  llenge authority.\n\n地点：Harvard Art Museums\n活动页：https://har
  vardartmuseums.org/calendar/spotlight-tour-disavowed-with-julianne-wu-28-2
- \n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ \n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-disavowed-with-j
@@ -670,7 +607,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Model as Muse\, with Giselle Acosta ’27
 DTSTART;TZID=America/New_York:20261031T140000
 DTEND;TZID=America/New_York:20261031T145000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4239@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -678,7 +615,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
   models\, specifically the ones they elevate to the rank of muse.\n\n地
  点：Harvard Art Museums\n活动页：https://harvardartmuseums.org/calen
  dar/spotlight-tour-model-as-muse-with-giselle-acosta-27-14\n\n来源：har
- vard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ vard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-model-as-muse-wi
@@ -689,7 +626,7 @@ SUMMARY:[开放] Spotlight Tour: Coloring the Past\, with Jide Anekwe ’2
  8
 DTSTART;TZID=America/New_York:20261101T110000
 DTEND;TZID=America/New_York:20261101T115000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4240@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -697,7 +634,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  erranean world and at modern perceptions of the past.\n\n地点：Harvard 
  Art Museums\n活动页：https://harvardartmuseums.org/calendar/spotlight-
  tour-coloring-the-past-with-jide-anekwe-28-4\n\n来源：harvard_art_museu
- ms｜得分 2｜抓取于 2026-10-23 14:29
+ ms｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-coloring-the-pas
@@ -707,14 +644,14 @@ BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: (Dis)Illusions\, with Jade Xiao ’27
 DTSTART;TZID=America/New_York:20261101T140000
 DTEND;TZID=America/New_York:20261101T145000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4241@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Jade Xiao will explore three works of European art featuring illusions.
  \n\n地点：Harvard Art Museums\n活动页：https://harvardartmuseums.or
  g/calendar/spotlight-tour-dis-illusions-with-jade-xiao-27-2\n\n来源：ha
- rvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ rvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-dis-illusions-wi
@@ -724,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Monday Moments for Friends\, Fellows\, and Partners
 DTSTART;TZID=America/New_York:20261102T120000
 DTEND;TZID=America/New_York:20261102T140000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4161@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -732,7 +669,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ns in a quiet setting while the museums are closed.\n\n地点：Harvard Ar
  t Museums\n活动页：https://harvardartmuseums.org/calendar/monday-momen
  ts-for-friends-fellows-and-partners-5\n\n来源：harvard_art_museums｜
- 得分 2｜抓取于 2026-10-23 14:29
+ 得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/monday-moments-for-friends-fell
@@ -743,7 +680,7 @@ SUMMARY:[需确认] How to Tell an AI What to Do: Rules\, Cases\, and Inte
  rpretation
 DTSTART;TZID=America/New_York:20261103T122000
 DTEND;TZID=America/New_York:20261103T132000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54303975021189@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：其他
@@ -757,7 +694,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：其他
  ard.edu/event/how-to-tell-an-ai-what-to-do-rules-cases-and-interpretation
  \n报名：https://cyber.harvard.edu/events/how-tell-ai-what-do-rules-case
  s-and-interpretation\n\n来源：harvard_seas｜得分 8｜抓取于 2026-
- 10-23 14:30
+ 10-24 13:41
 LOCATION:1557 Massachusetts Avenue\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/how-to-tell-an-ai-what-to-do-rul
@@ -767,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Cross-layer Optimization for Scalable ML Networks
 DTSTART;TZID=America/New_York:20261104T120000
 DTEND;TZID=America/New_York:20261104T140000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_csail-15039@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -779,7 +716,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  the optical layer has profoundly shaped and differentiated compute infra
  …\n\n地点：32_G449\n活动页：https://www.csail.mit.edu/event/googl
  e-tech-talk-cross-layer-optimization-scalable-ml-networks\n\n来源：mit_
- csail｜得分 14｜抓取于 2026-10-23 14:30
+ csail｜得分 14｜抓取于 2026-10-24 13:41
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/google-tech-talk-cross-layer-optimizat
@@ -790,7 +727,7 @@ SUMMARY:[开放] Picturing Taste\, Style\, and Space in 1950s American Sub
  urbia
 DTSTART;TZID=America/New_York:20261104T123000
 DTEND;TZID=America/New_York:20261104T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4166@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -799,7 +736,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  Were .\n\n地点：Harvard Art Museums\n活动页：https://harvardartmuse
  ums.org/calendar/gallery-talk-picturing-taste-style-and-space-in-1950s-ame
  rican-suburbia\n\n来源：harvard_art_museums｜得分 15｜抓取于 202
- 6-10-23 14:29
+ 6-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/gallery-talk-picturing-taste-st
@@ -809,7 +746,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Write Now Wednesdays
 DTSTART;TZID=America/New_York:20261104T130000
 DTEND;TZID=America/New_York:20261104T150000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17707453@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -817,7 +754,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
  t of the time or the whole two hours of focused work in community. Library
   writing staff will be on hand if you have questions or want feedback.\n\n
  地点：Gund 516\n活动页：https://libcal.gsd.harvard.edu/event/177074
- 53\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-10-23 14:30
+ 53\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17707453
@@ -826,7 +763,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] gsdLibrary Book Swap
 DTSTART;TZID=America/New_York:20261104T150000
 DTEND;TZID=America/New_York:20261104T160000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17334246@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
@@ -837,7 +774,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交｜系列：
  SD Little Free Library event. Drop-in for however long between 3 - 4PM!\n
  \n地点：Gund 2nd: Outer Tray Collaboration Space\n活动页：https://l
  ibcal.gsd.harvard.edu/event/17334246\n\n来源：gsd_loeb_library｜得分
-  0｜抓取于 2026-10-23 14:30
+  0｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17334246
@@ -846,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Enzo Camacho and Ami Lien
 DTSTART;TZID=America/New_York:20261104T180000
 DTEND;TZID=America/New_York:20261104T200000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4171@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -854,7 +791,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  Ami Lien share insights and developments into their practice as artistic c
  ollaborators.\n\n地点：Harvard Art Museums\n活动页：https://harvard
  artmuseums.org/calendar/artist-talk-enzo-camacho-and-ami-lien\n\n来源：
- harvard_art_museums｜得分 10｜抓取于 2026-10-23 14:29
+ harvard_art_museums｜得分 10｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA\, Enter at Broadway for evening
   programs
 STATUS:CONFIRMED
@@ -866,7 +803,7 @@ SUMMARY:[开放] Miguel Lopez Melendez\, Architectural Autonomy and the Ur
  ban Condition
 DTSTART;TZID=America/New_York:20261105T120000
 DTEND;TZID=America/New_York:20261105T133000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17794953@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：其他｜系列：
@@ -874,7 +811,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：其他｜系列：
  Miguel Lopez Melendez (DDes '21) in conversation with Mohsen Mostafavi Hos
  ted by Charles Waldheim\n\n地点：Loeb Library Lobby\, Upper Level\n活
  动页：https://libcal.gsd.harvard.edu/event/17794953\n\n来源：gsd_loe
- b_library｜得分 9｜抓取于 2026-10-23 14:30
+ b_library｜得分 9｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17794953
@@ -885,7 +822,7 @@ SUMMARY:[开放] Multi-Site Exhibition Tour: Artists Enzo Camacho and Ami
  ts
 DTSTART;TZID=America/New_York:20261105T120000
 DTEND;TZID=America/New_York:20261105T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4199@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -894,7 +831,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  点：Harvard Art Museums\n活动页：https://harvardartmuseums.org/calen
  dar/multi-site-exhibition-tour-artists-enzo-camacho-and-ami-lien-at-the-ha
  rvard-art-museums-and-the-carpenter-center-for-the-visual-arts\n\n来源
- ：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ ：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street & 24 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/multi-site-exhibition-tour-arti
@@ -905,7 +842,7 @@ BEGIN:VEVENT
 SUMMARY:[已取消] Lab-2-Market Office Hours
 DTSTART;TZID="UTC-05:00":20261105T120000
 DTEND;TZID="UTC-05:00":20261105T140000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53186351368639@harvard-mit-events
 SEQUENCE:10
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -924,15 +861,15 @@ BEGIN:VEVENT
 SUMMARY:[开放] Midday Organ Recital: Angela Kraft Cross
 DTSTART;TZID=America/New_York:20261105T121500
 DTEND;TZID=America/New_York:20261105T124500
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4225@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Recitals are performed on Harvard’s famous 1958 D. A. Flentrop organ
  \, at Adolphus Busch Hall.\n\n地点：Harvard Art Museums\n活动页：ht
  tps://harvardartmuseums.org/calendar/midday-organ-recital-angela-kraft-cro
- ss-5\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:
- 29
+ ss-5\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:
+ 40
 LOCATION:29 Kirkland Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/midday-organ-recital-angela-kra
@@ -943,7 +880,7 @@ SUMMARY:[开放] Computer Science Colloquium Series - Nisarg Shah (U Toron
  to)
 DTSTART;TZID=America/New_York:20261105T143000
 DTEND;TZID=America/New_York:20261105T153000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53798817895388@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -954,7 +891,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  ore the talk at 2:00pm.\n\n地点：Science and Engineering Complex (SEC)
  \, Room LL2.224\n活动页：https://events.seas.harvard.edu/event/compute
  r-science-colloquium-series-nisarg-shah-u-toronto\n\n来源：harvard_seas
- ｜得分 5｜抓取于 2026-10-23 14:30
+ ｜得分 5｜抓取于 2026-10-24 13:41
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/computer-science-colloquium-seri
@@ -964,7 +901,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Ozgun Kilic Afsar Dissertation Defense
 DTSTART;TZID=America/New_York:20261106T110000
 DTEND;TZID=America/New_York:20261106T120000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:mit_media_lab-ozgun-kilic-afsar-dissertation-defense@harvard-mit-event
  s
 SEQUENCE:0
@@ -972,7 +909,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：答辩
  \n\n摘要：Millimeter-Scale Electrofluidic Actuators for Soft Mechatroni
  c Systems\n\n地点：MIT Media Lab (E14)\n活动页：https://www.media.m
  it.edu/events/ozgun-kilic-afsar-dissertation-defense/\n\n来源：mit_medi
- a_lab｜得分 -5｜抓取于 2026-10-23 14:30
+ a_lab｜得分 -5｜抓取于 2026-10-24 13:41
 LOCATION:75 Amherst Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.media.mit.edu/events/ozgun-kilic-afsar-dissertation-defens
@@ -983,7 +920,7 @@ SUMMARY:[开放] Pilar Cossio: Quantifying RNA Folding Ensembles from Uncl
  assified Cryo-EM Particle Images
 DTSTART;TZID=America/New_York:20261106T120000
 DTEND;TZID=America/New_York:20261106T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54188679473482@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -996,7 +933,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  present approach…\n\n地点：Maxwell Dworkin\, Room G115\n活动页：h
  ttps://events.seas.harvard.edu/event/pilar-cossio-quantifying-rna-folding-
  ensembles-from-unclassified-cryo-em-particle-images\n\n来源：harvard_se
- as｜得分 7｜抓取于 2026-10-23 14:30
+ as｜得分 7｜抓取于 2026-10-24 13:41
 LOCATION:33 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/pilar-cossio-quantifying-rna-fol
@@ -1006,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Making an Impression
 DTSTART;TZID=America/New_York:20261106T130000
 DTEND;TZID=America/New_York:20261106T163000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4117@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -1014,7 +951,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
  ing processes and learn how to “read” a print to identify different ty
  pes.\n\n地点：Harvard Art Museums\n活动页：https://harvardartmuseum
  s.org/calendar/materials-lab-workshop-making-an-impression\n\n来源：har
- vard_art_museums｜得分 8｜抓取于 2026-10-23 14:29
+ vard_art_museums｜得分 8｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/materials-lab-workshop-making-a
@@ -1025,7 +962,7 @@ SUMMARY:[开放] First/Hand Fridays: Suit Up! Textiles in 20th-Century Ame
  rican Memory
 DTSTART;TZID=America/New_York:20261106T140000
 DTEND;TZID=America/New_York:20261106T150000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4142@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
@@ -1033,48 +970,24 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
  extiles—as everyday objects\, works of art\, and carriers of memory.\n\n
  地点：Harvard Art Museums\n活动页：https://harvardartmuseums.org/ca
  lendar/first-hand-fridays-suit-up-textiles-in-20th-century-american-memory
- \n\n来源：harvard_art_museums｜得分 10｜抓取于 2026-10-23 14:29
+ \n\n来源：harvard_art_museums｜得分 10｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/first-hand-fridays-suit-up-text
  iles-in-20th-century-american-memory
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[开放] 200 Years of Experience: Rethinking Real Estate's Future 
- American Real Estate Society Panel Discussion
-DTSTART;TZID=America/New_York:20261106T170000
-DTEND;TZID=America/New_York:20261106T183000
-DTSTAMP:20261023T143005Z
-UID:harvard_gsd-2683497@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
- fall 2026\n\n摘要：LIVESTREAM INFO A live stream for this event will be
-  available on this page at the scheduled start time. Closed captioning is 
- available by clicking the “CC” icon at the bottom of the player window
- . About this Event Four preeminent scholars from the American Real Estate 
- Society’s Fall Meeting at Harvard will discuss the future [...]\n\n地
- 点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/event/200-
- years-of-experience-rethinking-real-estates-future/\n报名：https://www.
- eventbrite.com/e/200-years-of-experience-debating-the-future-of-real-estat
- e-tickets-1998434727065?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分
-  16｜抓取于 2026-10-23 14:29
-LOCATION:48 Quincy Street\, Cambridge\, MA 02138
-STATUS:CONFIRMED
-URL:https://www.gsd.harvard.edu/event/200-years-of-experience-rethinking-r
- eal-estates-future/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Disavowed\, with Julianne Wu ’28
 DTSTART;TZID=America/New_York:20261107T110000
 DTEND;TZID=America/New_York:20261107T115000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4242@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Julianne Wu will look at three works that illuminate\, disturb\, or cha
  llenge authority.\n\n地点：Harvard Art Museums\n活动页：https://har
  vardartmuseums.org/calendar/spotlight-tour-disavowed-with-julianne-wu-28-3
- \n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ \n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-disavowed-with-j
@@ -1085,7 +998,7 @@ SUMMARY:[开放] Whose Landscape: The Alps Between Nation and Planet (Off-
  Site)
 DTSTART;TZID=America/New_York:20261107T123000
 DTEND;TZID=America/New_York:20261107T160000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4249@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -1093,7 +1006,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ment\, and nationhood\, followed by a tour of On Location at the museums.
  \n\n地点：Harvard Art Museums\n活动页：https://harvardartmuseums.or
  g/calendar/whose-landscape-the-alps-between-nation-and-planet-off-site\n\n
- 来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ 来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:420 Broadway and 32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/whose-landscape-the-alps-betwee
@@ -1103,7 +1016,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Thresholds\, with Jane Lilly ’27
 DTSTART;TZID=America/New_York:20261107T140000
 DTEND;TZID=America/New_York:20261107T145000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4243@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -1111,7 +1024,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  e see and move through works of art.\n\n地点：Harvard Art Museums\n活
  动页：https://harvardartmuseums.org/calendar/spotlight-tour-thresholds-
  with-jane-lilly-27-7\n\n来源：harvard_art_museums｜得分 2｜抓取
- 于 2026-10-23 14:29
+ 于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-thresholds-with-
@@ -1121,7 +1034,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Powering a Resilient Future
 DTSTART;TZID=America/New_York:20261108T080000
 DTEND;TZID=America/New_York:20261108T170000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_hbs-54037225803218@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：会议｜系列：
@@ -1133,7 +1046,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：会议｜系列：
  ademia\, and venture capital to examine how innovation and action intersec
  t to b…\n\n地点：Harvard Business School\n活动页：https://events.
  hbs.edu/event/energy-and-climate-conference-2026-powering-a-resilient-futu
- re\n\n来源：harvard_hbs｜得分 -4｜抓取于 2026-10-23 14:30
+ re\n\n来源：harvard_hbs｜得分 -4｜抓取于 2026-10-24 13:41
 LOCATION:Harvard Business School
 STATUS:CONFIRMED
 URL:https://events.hbs.edu/event/energy-and-climate-conference-2026-poweri
@@ -1143,14 +1056,14 @@ BEGIN:VEVENT
 SUMMARY:[开放] Spotlight Tour: Human/Nature\, with Luke Tan ’28
 DTSTART;TZID=America/New_York:20261108T110000
 DTEND;TZID=America/New_York:20261108T115000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4244@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Luke Tan will explore human efforts to control and own aspects of the n
  atural environment.\n\n地点：Harvard Art Museums\n活动页：https://h
  arvardartmuseums.org/calendar/spotlight-tour-human-nature-with-luke-tan-28
- -3\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ -3\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/spotlight-tour-human-nature-wit
@@ -1161,7 +1074,7 @@ SUMMARY:[开放] ASL-Interpreted Spotlight Tour: Child’s Play\, with Ric
  ardo Fernandes Garcia ’27
 DTSTART;TZID=America/New_York:20261108T140000
 DTEND;TZID=America/New_York:20261108T145000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4245@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
@@ -1169,7 +1082,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  have enabled painters to address conflict and war.\n\n地点：Harvard Art
   Museums\n活动页：https://harvardartmuseums.org/calendar/asl-interpret
  ed-spotlight-tour-child-s-play-with-ricardo-fernandes-garcia-27\n\n来源
- ：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ ：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/asl-interpreted-spotlight-tour-
@@ -1180,7 +1093,7 @@ SUMMARY:[开放] MDes BookTalk: Architectural Design: The New Heliomorphis
  m
 DTSTART;TZID=America/New_York:20261109T120000
 DTEND;TZID=America/New_York:20261109T133000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17794983@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：其他｜系列：
@@ -1190,7 +1103,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：其他｜系列：
   May\, GSD Ashley Simone\, Architectural Design A_D Min Yeo\, GSD\n\n地
  点：Loeb Library Lobby\, Upper Level\n活动页：https://libcal.gsd.har
  vard.edu/event/17794983\n\n来源：gsd_loeb_library｜得分 9｜抓取
- 于 2026-10-23 14:30
+ 于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17794983
@@ -1199,7 +1112,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Searching the Genetic Bases of Human Brain Evolution
 DTSTART;TZID=America/New_York:20261110T120000
 DTEND;TZID=America/New_York:20261110T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53878054980520@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -1212,7 +1125,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  //events.seas.harvard.edu/event/searching-the-genetic-bases-of-human-brain
  -evolution\n报名：https://www.radcliffe.harvard.edu/event/2026-lucia-f-
  franchini-fellow-presentation-virtual\n\n来源：harvard_seas｜得分 2
- ｜抓取于 2026-10-23 14:30
+ ｜抓取于 2026-10-24 13:41
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/searching-the-genetic-bases-of-h
  uman-brain-evolution
@@ -1221,7 +1134,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Write Now Wednesdays
 DTSTART;TZID=America/New_York:20261111T130000
 DTEND;TZID=America/New_York:20261111T150000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17707454@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -1229,7 +1142,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
  t of the time or the whole two hours of focused work in community. Library
   writing staff will be on hand if you have questions or want feedback.\n\n
  地点：Gund 516\n活动页：https://libcal.gsd.harvard.edu/event/177074
- 54\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-10-23 14:30
+ 54\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17707454
@@ -1238,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Research to Writing Open Workshop
 DTSTART;TZID=America/New_York:20261111T173000
 DTEND;TZID=America/New_York:20261111T181500
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17343358@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
@@ -1249,7 +1162,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：工作坊｜系列
  \, or for the whole session! We will meet in Gropius Room\, L08.\n\n地点
  ：Gropius Room\, Loeb LIbrary\n活动页：https://libcal.gsd.harvard.edu
  /event/17343358\n\n来源：gsd_loeb_library｜得分 6｜抓取于 2026-1
- 0-23 14:30
+ 0-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17343358
@@ -1259,7 +1172,7 @@ SUMMARY:[开放] Ana María Leon in Conversation with Fernando Luis Martí
  nez Nespral
 DTSTART;TZID=America/New_York:20261112T120000
 DTEND;TZID=America/New_York:20261112T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:gsd_loeb_library-LibCal-4722-17442852@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -1271,7 +1184,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  n architect (Universidad de Buenos Aires) with a PhD in History fr…\n\n
  地点：Loeb Library Lobby\, Upper Level\n活动页：https://libcal.gsd.
  harvard.edu/event/17442852\n\n来源：gsd_loeb_library｜得分 15｜抓
- 取于 2026-10-23 14:30
+ 取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://libcal.gsd.harvard.edu/event/17442852
@@ -1280,14 +1193,14 @@ BEGIN:VEVENT
 SUMMARY:[开放] Midday Organ Recital: Aidan Yau
 DTSTART;TZID=America/New_York:20261112T121500
 DTEND;TZID=America/New_York:20261112T124500
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4226@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
  ：Recitals are performed on Harvard’s famous 1958 D. A. Flentrop organ
  \, at Adolphus Busch Hall.\n\n地点：Harvard Art Museums\n活动页：ht
  tps://harvardartmuseums.org/calendar/midday-organ-recital-aidan-yau\n\n来
- 源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:29
+ 源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
 LOCATION:29 Kirkland Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/midday-organ-recital-aidan-yau
@@ -1297,7 +1210,7 @@ SUMMARY:[开放] Cedar: A Language for Expressive\, Fast\, Safe\, and Anal
  yzable Authorization
 DTSTART;TZID=America/New_York:20261112T143000
 DTEND;TZID=America/New_York:20261112T153000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53798832320616@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -1310,7 +1223,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  an…\n\n地点：Science and Engineering Complex (SEC)\, Room LL2.224\n
  活动页：https://events.seas.harvard.edu/event/computer-science-colloqu
  ium-series-michael-hicks-upenn\n\n来源：harvard_seas｜得分 5｜抓
- 取于 2026-10-23 14:30
+ 取于 2026-10-24 13:41
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/computer-science-colloquium-seri
@@ -1321,7 +1234,7 @@ SUMMARY:[开放] Infrastructure in a Time of Flux: Methods\, Conditions\,
  and Situations Symposium
 DTSTART;TZID=America/New_York:20261112T183000
 DTEND;TZID=America/New_York:20261113T090000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_gsd-2683556@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：会议｜系列：
@@ -1334,7 +1247,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：会议｜系列：
  flux-methods-conditions-and-situations/\n报名：https://www.eventbrite.c
  om/e/infrastructure-in-a-time-of-flux-methods-conditions-situations-ticket
  s-1998442846350?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 15｜
- 抓取于 2026-10-23 14:29
+ 抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/infrastructure-in-a-time-of-flux-met
@@ -1344,7 +1257,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] A Pre-Raphaelite Preview
 DTSTART;TZID=America/New_York:20261113T110000
 DTEND;TZID=America/New_York:20261113T120000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_art_museums-4250@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -1352,11 +1265,51 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  ok at a selection of works that will be featured in a 2027 exhibition on P
  re-Raphaelite art.\n\n地点：Harvard Art Museums\n活动页：https://ha
  rvardartmuseums.org/calendar/art-study-center-seminar-a-pre-raphaelite-pre
- view\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-23 14:
- 29
+ view\n\n来源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:
+ 40
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/calendar/art-study-center-seminar-a-pre-
  raphaelite-preview
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[开放] Glen Wilk: The Hunt for High-k Gate Dielectrics: A Materi
+ als Perspective
+DTSTART;TZID=America/New_York:20261113T120000
+DTEND;TZID=America/New_York:20261113T130000
+DTSTAMP:20261024T134107Z
+UID:harvard_seas-54232385076893@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
+ Applied Physics and Applied Mechanics Colloquia\n\n摘要：As the semicon
+ ductor industry is now entering the Angstrom era\, novel materials are the
+  key to enabling continued scaling toward future device nodes. This presen
+ tation will give a historical perspective on the crucial role that materia
+ ls discovery and development played in finding a high-k replacement for si
+ licon dioxide as the gate dielectric in CMOS. Current and future challenge
+ s\, as well as op…\n\n地点：Maxwell Dworkin\, Room G115\n活动页：
+ https://events.seas.harvard.edu/event/glen-wilk-the-hunt-for-high-k-gate-d
+ ielectrics-a-materials-perspective\n\n来源：harvard_seas｜得分 7｜
+ 抓取于 2026-10-24 13:41
+LOCATION:33 Oxford Street\, Cambridge\, MA\, 02138
+STATUS:CONFIRMED
+URL:https://events.seas.harvard.edu/event/glen-wilk-the-hunt-for-high-k-ga
+ te-dielectrics-a-materials-perspective
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[开放] Second Saturdays Story Time
+DTSTART;TZID=America/New_York:20261114T110000
+DTEND;TZID=America/New_York:20261114T113000
+DTSTAMP:20261024T134107Z
+UID:harvard_art_museums-3980@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：开放（无需报名）\n类型：社交\n\n摘要
+ ：Join us for Second Saturdays Story Time\, where local librarians read s
+ tories in the galleries!\n\n地点：Harvard Art Museums\n活动页：http
+ s://harvardartmuseums.org/calendar/second-saturdays-story-time-21\n\n来
+ 源：harvard_art_museums｜得分 2｜抓取于 2026-10-24 13:40
+LOCATION:32 Quincy Street\, Cambridge\, MA
+STATUS:CONFIRMED
+URL:https://harvardartmuseums.org/calendar/second-saturdays-story-time-21
 END:VEVENT
 END:VCALENDAR

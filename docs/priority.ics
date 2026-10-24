@@ -6,55 +6,10 @@ X-WR-CALNAME:Events - Priority
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[需确认] A Foundation Model for Power System Operations
-DTSTART;TZID=America/New_York:20261023T093000
-DTEND;TZID=America/New_York:20261023T103000
-DTSTAMP:20261023T143005Z
-UID:harvard_seas-54285345483732@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
- ｜系列：Power and AI Initiative\n\n摘要：Abstract: Electric grids a
- re becoming more dynamic and uncertain as we integrate renewable resources
-  and increasingly large loads. Modern AI and machine learning tools have t
- he potential to overcome the computational bottlenecks and maintain effici
- ency and reliability of the grid. However\, such algorithms typically do n
- ot provide guarantees about stability or safety\, making them difficult to
-  impl…\n\n地点：Science and Engineering Complex (SEC)\, Room 3.314\n
- 活动页：https://events.seas.harvard.edu/event/pai-seminar-a-foundation
- -model-for-power-system-operations\n\n来源：harvard_seas｜得分 25｜
- 抓取于 2026-10-23 14:30
-LOCATION:150 Western Avenue\, Boston\, MA\, 02134
-STATUS:CONFIRMED
-URL:https://events.seas.harvard.edu/event/pai-seminar-a-foundation-model-f
- or-power-system-operations
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[需确认] Scalable\, Robust and Safe Autonomy at Zoox
-DTSTART;TZID=America/New_York:20261023T150000
-DTEND;TZID=America/New_York:20261023T160000
-DTSTAMP:20261023T143005Z
-UID:harvard_seas-53948332918150@harvard-mit-events
-SEQUENCE:1
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
- ｜系列：Robotics Seminar Series\n\n摘要：Nicholas Roy (Zoox and MIT
- ) How we design and deploy autonomous robots such as self-driving cars is 
- evolving rapidly. Many technical challenges arise as the size of the fleet
-  scales up\, and especially ensuring robustness and safety. I will describ
- e some of the design decisions in developing a self-driving robotaxi syste
- m at scale\, some of the candidate solutions\, and open questions for the 
- future…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
- harvard.edu/event/scalable-robust-and-safe-autonomy-at-zoox\n\n来源：ha
- rvard_seas｜得分 33｜抓取于 2026-10-23 14:30
-LOCATION:150 Western Avenue\, Boston\, MA\, 02134
-STATUS:CONFIRMED
-URL:https://events.seas.harvard.edu/event/scalable-robust-and-safe-autonom
- y-at-zoox
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[需确认] Human-in-the-Loop robot learning
 DTSTART;TZID=America/New_York:20261030T150000
 DTEND;TZID=America/New_York:20261030T160000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-54062181999093@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -66,7 +21,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  \, from sensing and modelling human movement and behaviour to learning con
  trollers…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.sea
  s.harvard.edu/event/human-in-the-loop-robot-learning\n\n来源：harvard_s
- eas｜得分 33｜抓取于 2026-10-23 14:30
+ eas｜得分 33｜抓取于 2026-10-24 13:41
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/human-in-the-loop-robot-learning
@@ -75,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Pneuhaus “Building with Air”
 DTSTART;TZID=America/New_York:20261102T183000
 DTEND;TZID=America/New_York:20261102T200000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_gsd-2683480@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -88,7 +43,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  \n活动页：https://www.gsd.harvard.edu/event/building-with-air/\n报名
  ：https://www.eventbrite.com/e/pneuhaus-building-with-air-tickets-1998434
  333889?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 16｜抓取于 2
- 026-10-23 14:29
+ 026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/building-with-air/
@@ -97,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Adrien Verschuere “Recent Work”
 DTSTART;TZID=America/New_York:20261105T183000
 DTEND;TZID=America/New_York:20261105T200000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_gsd-2683491@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -109,7 +64,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  e will [...]\n\n地点：Piper Auditorium\n活动页：https://www.gsd.har
  vard.edu/event/recent-work/\n报名：https://www.eventbrite.com/e/adrien-
  verscheure-recent-work-tickets-1998434454249?aff=oddtdtcreator\n\n来源
- ：harvard_gsd｜得分 16｜抓取于 2026-10-23 14:29
+ ：harvard_gsd｜得分 16｜抓取于 2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/recent-work/
@@ -119,7 +74,7 @@ SUMMARY:[需确认] Deducing stratospheric transport from trace gas measur
  ements: Are we there yet?
 DTSTART;TZID=America/New_York:20261106T120000
 DTEND;TZID=America/New_York:20261106T130000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53568260284408@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -132,7 +87,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  …\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.seas.h
  arvard.edu/event/deducing-stratospheric-transport-from-trace-gas-measureme
  nts-are-we-there-yet\n\n来源：harvard_seas｜得分 30｜抓取于 2026
- -10-23 14:30
+ -10-24 13:41
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/deducing-stratospheric-transport
@@ -143,7 +98,7 @@ SUMMARY:[需确认] Human-Machine Interfaces for Studying and Assisting Hu
  man Movement
 DTSTART;TZID=America/New_York:20261106T150000
 DTEND;TZID=America/New_York:20261106T160000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_seas-53744560152616@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -155,18 +110,42 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  l control and biomechanics of human locomotion and other whole body moveme
  nts. T…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
  harvard.edu/event/human-machine-interfaces-for-studying-and-assisting-huma
- n-movement\n\n来源：harvard_seas｜得分 33｜抓取于 2026-10-23 14:
- 30
+ n-movement\n\n来源：harvard_seas｜得分 33｜抓取于 2026-10-24 13:
+ 41
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/human-machine-interfaces-for-stu
  dying-and-assisting-human-movement
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[开放] 200 Years of Experience: Rethinking Real Estate's Future 
+ American Real Estate Society Panel Discussion
+DTSTART;TZID=America/New_York:20261106T170000
+DTEND;TZID=America/New_York:20261106T183000
+DTSTAMP:20261024T134107Z
+UID:harvard_gsd-2683497@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
+ fall 2026\n\n摘要：LIVESTREAM INFO A live stream for this event will be
+  available on this page at the scheduled start time. Closed captioning is 
+ available by clicking the “CC” icon at the bottom of the player window
+ . About this Event Four preeminent scholars from the American Real Estate 
+ Society’s Fall Meeting at Harvard will discuss the future [...]\n\n地
+ 点：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/event/200-
+ years-of-experience-rethinking-real-estates-future/\n报名：https://www.
+ eventbrite.com/e/200-years-of-experience-debating-the-future-of-real-estat
+ e-tickets-1998434727065?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分
+  16｜抓取于 2026-10-24 13:40
+LOCATION:48 Quincy Street\, Cambridge\, MA 02138
+STATUS:CONFIRMED
+URL:https://www.gsd.harvard.edu/event/200-years-of-experience-rethinking-r
+ eal-estates-future/
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[开放] Dana Cuff “Coming Home: Crisis\, Fire\, and Recovery”
 DTSTART;TZID=America/New_York:20261109T183000
 DTEND;TZID=America/New_York:20261109T200000
-DTSTAMP:20261023T143005Z
+DTSTAMP:20261024T134107Z
 UID:harvard_gsd-2683510@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -179,10 +158,35 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  \n活动页：https://www.gsd.harvard.edu/event/coming-home-crisis-fire-an
  d-recovery/\n报名：https://www.eventbrite.com/e/dana-cuff-tickets-19989
  14795964?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 23｜抓取于
-  2026-10-23 14:29
+  2026-10-24 13:40
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/coming-home-crisis-fire-and-recovery
  /
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[需确认] Leveraging Unexpected Data Streams and Multiple Stable
+  Isotope Approaches to Understand the Changing Global Sulfur Cycle
+DTSTART;TZID=America/New_York:20261113T120000
+DTEND;TZID=America/New_York:20261113T130000
+DTSTAMP:20261024T134107Z
+UID:harvard_seas-53568272386396@harvard-mit-events
+SEQUENCE:0
+DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
+ ｜系列：ESE Seminar Series\n\n摘要：Eve-Lyn Hinckley - University o
+ f Colorado\, Boulder Sulfur is an element critical to growth of all living
+  organisms\, as well as a useful ‘tool’ employed throughout human hist
+ ory\, as a pesticide\, preservative\, and component of fossil fuel sources
+  and fertilizer production. In this talk\, I will present the results of s
+ everal new efforts by my research group that provide new knowledge about t
+ he chang…\n\n地点：Pierce Hall\, Room 100F\n活动页：https://event
+ s.seas.harvard.edu/event/leveraging-unexpected-data-streams-and-multiple-s
+ table-isotope-approaches-to-understand-the-changing-global-sulfur-cycle\n
+ \n来源：harvard_seas｜得分 30｜抓取于 2026-10-24 13:41
+LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
+STATUS:CONFIRMED
+URL:https://events.seas.harvard.edu/event/leveraging-unexpected-data-strea
+ ms-and-multiple-stable-isotope-approaches-to-understand-the-changing-globa
+ l-sulfur-cycle
 END:VEVENT
 END:VCALENDAR
