@@ -10,7 +10,7 @@ SUMMARY:[需确认] Deducing stratospheric transport from trace gas measur
  ements: Are we there yet?
 DTSTART;TZID=America/New_York:20261106T120000
 DTEND;TZID=America/New_York:20261106T130000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_seas-53568260284408@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -23,7 +23,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  …\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.seas.h
  arvard.edu/event/deducing-stratospheric-transport-from-trace-gas-measureme
  nts-are-we-there-yet\n\n来源：harvard_seas｜得分 30｜抓取于 2026
- -11-02 19:51
+ -11-03 17:24
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/deducing-stratospheric-transport
@@ -34,7 +34,7 @@ SUMMARY:[需确认] Human-Machine Interfaces for Studying and Assisting Hu
  man Movement
 DTSTART;TZID=America/New_York:20261106T150000
 DTEND;TZID=America/New_York:20261106T160000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_seas-53744560152616@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -46,8 +46,8 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  l control and biomechanics of human locomotion and other whole body moveme
  nts. T…\n\n地点：SEC\, Room LL2.221\n活动页：https://events.seas.
  harvard.edu/event/human-machine-interfaces-for-studying-and-assisting-huma
- n-movement\n\n来源：harvard_seas｜得分 33｜抓取于 2026-11-02 19:
- 51
+ n-movement\n\n来源：harvard_seas｜得分 33｜抓取于 2026-11-03 17:
+ 24
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/human-machine-interfaces-for-stu
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Dana Cuff “Coming Home: Crisis\, Fire\, and Recovery”
 DTSTART;TZID=America/New_York:20261109T183000
 DTEND;TZID=America/New_York:20261109T200000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_gsd-2683510@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -70,7 +70,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  \n活动页：https://www.gsd.harvard.edu/event/coming-home-crisis-fire-an
  d-recovery/\n报名：https://www.eventbrite.com/e/dana-cuff-tickets-19989
  14795964?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 23｜抓取于
-  2026-11-02 19:51
+  2026-11-03 17:23
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/coming-home-crisis-fire-and-recovery
@@ -82,7 +82,7 @@ SUMMARY:[开放] Ana María Leon in Conversation with Fernando Luis Martí
  ure”
 DTSTART;TZID=America/New_York:20261112T120000
 DTEND;TZID=America/New_York:20261112T130000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_gsd-2473177@harvard-mit-events
 SEQUENCE:2
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -94,7 +94,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  gy and innovative approaches to teaching. Upcoming [...]\n\n地点：Franc
  es Loeb Library Lobby\n活动页：https://www.gsd.harvard.edu/event/facul
  ty-author-talks-series/\n\n来源：harvard_gsd｜得分 23｜抓取于 20
- 26-11-02 19:51
+ 26-11-03 17:23
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/faculty-author-talks-series/
@@ -104,7 +104,7 @@ SUMMARY:[需确认] Leveraging Unexpected Data Streams and Multiple Stable
   Isotope Approaches to Understand the Changing Global Sulfur Cycle
 DTSTART;TZID=America/New_York:20261113T120000
 DTEND;TZID=America/New_York:20261113T130000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_seas-53568272386396@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -117,7 +117,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  he chang…\n\n地点：Pierce Hall\, Room 100F\n活动页：https://event
  s.seas.harvard.edu/event/leveraging-unexpected-data-streams-and-multiple-s
  table-isotope-approaches-to-understand-the-changing-global-sulfur-cycle\n
- \n来源：harvard_seas｜得分 30｜抓取于 2026-11-02 19:51
+ \n来源：harvard_seas｜得分 30｜抓取于 2026-11-03 17:24
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/leveraging-unexpected-data-strea
@@ -128,14 +128,14 @@ BEGIN:VEVENT
 SUMMARY:[需确认] David Krabbenhoft - United States Geological Survey
 DTSTART;TZID=America/New_York:20261120T120000
 DTEND;TZID=America/New_York:20261120T130000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_seas-53568282850892@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ｜系列：ESE Seminar Series\n\n地点：Pierce Hall\, Room 100F\n活动
  页：https://events.seas.harvard.edu/event/david-krabbenhoft-united-state
  s-geological-survey\n\n来源：harvard_seas｜得分 30｜抓取于 2026-
- 11-02 19:51
+ 11-03 17:24
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/david-krabbenhoft-united-states-
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Entrepreneurship Conference 2026
 DTSTART;TZID=America/New_York:20261122T080000
 DTEND;TZID=America/New_York:20261122T190000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_seas-54168826465626@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：会议
@@ -158,7 +158,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：会议
  Boston community. Further in…\n\n地点：Harvard Business School (Klarm
  an Hall)\n活动页：https://events.seas.harvard.edu/event/entrepreneursh
  ip-conference-2026\n\n来源：harvard_seas｜得分 24｜抓取于 2026-1
- 1-02 19:51
+ 1-03 17:24
 LOCATION:Boston\, MA\, 02163
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/entrepreneurship-conference-2026
@@ -167,7 +167,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] Sylvia Lavin “Architecture After Fire”
 DTSTART;TZID=America/New_York:20261123T183000
 DTEND;TZID=America/New_York:20261123T200000
-DTSTAMP:20261102T195123Z
+DTSTAMP:20261103T172403Z
 UID:harvard_gsd-2683529@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -180,7 +180,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  ：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/event/archite
  cture-after-fire/\n报名：https://www.eventbrite.com/e/sylvia-lavin-arch
  itecture-after-fire-tickets-1998435432174?aff=oddtdtcreator\n\n来源：ha
- rvard_gsd｜得分 23｜抓取于 2026-11-02 19:51
+ rvard_gsd｜得分 23｜抓取于 2026-11-03 17:23
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/architecture-after-fire/
