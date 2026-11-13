@@ -6,34 +6,11 @@ X-WR-CALNAME:Events - Priority
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[开放] Ana María Leon in Conversation with Fernando Luis Martí
- nez Nespral “A History of the Arab Component in Ibero-American Architect
- ure”
-DTSTART;TZID=America/New_York:20261112T120000
-DTEND;TZID=America/New_York:20261112T130000
-DTSTAMP:20261112T174642Z
-UID:harvard_gsd-2473177@harvard-mit-events
-SEQUENCE:2
-DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
- frances loeb library faculty colloquium\n\n摘要：Event Description Host
- ed by the Frances Loeb Library at the Harvard Graduate School of Design\, 
- Faculty Author Talks provide a venue for GSD faculty members to launch new
- ly published books\, discuss recent or in-process publications or research
-  in which they are currently engaged\, or present their thoughts on pedago
- gy and innovative approaches to teaching. Upcoming [...]\n\n地点：Franc
- es Loeb Library Lobby\n活动页：https://www.gsd.harvard.edu/event/facul
- ty-author-talks-series/\n\n来源：harvard_gsd｜得分 23｜抓取于 20
- 26-11-12 17:46
-LOCATION:48 Quincy Street\, Cambridge\, MA 02138
-STATUS:CONFIRMED
-URL:https://www.gsd.harvard.edu/event/faculty-author-talks-series/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[开放] Infrastructure in a Time of Flux: Methods\, Conditions\, 
  and Situations Symposium
 DTSTART;TZID=America/New_York:20261112T183000
 DTEND;TZID=America/New_York:20261113T090000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_gsd-2683556@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：会议｜系列：
@@ -46,7 +23,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：会议｜系列：
  e-of-flux-methods-conditions-and-situations/\n报名：https://www.eventbr
  ite.com/e/infrastructure-in-a-time-of-flux-methods-conditions-situations-t
  ickets-1998442846350?aff=oddtdtcreator\n\n来源：harvard_gsd｜得分 22
- ｜抓取于 2026-11-12 17:46
+ ｜抓取于 2026-11-13 17:24
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/infrastructure-in-a-time-of-flux-met
@@ -57,7 +34,7 @@ SUMMARY:[需确认] A Conversation with Tye Brady\, Chief Technologist at
  Amazon Robotics
 DTSTART;TZID=America/New_York:20261113T110000
 DTEND;TZID=America/New_York:20261113T120000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_seas-54470376611307@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -70,7 +47,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  roboti…\n\n地点：SEC\, Room Winokur Lecture Hall\n活动页：https:/
  /events.seas.harvard.edu/event/a-conversation-with-tye-brady-chief-technol
  ogist-at-amazon-robotics\n\n来源：harvard_seas｜得分 25｜抓取于 
- 2026-11-12 17:46
+ 2026-11-13 17:24
 LOCATION:150 Western Avenue\, Boston\, MA\, 02134
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/a-conversation-with-tye-brady-ch
@@ -81,7 +58,7 @@ SUMMARY:[需确认] Leveraging Unexpected Data Streams and Multiple Stable
   Isotope Approaches to Understand the Changing Global Sulfur Cycle
 DTSTART;TZID=America/New_York:20261113T120000
 DTEND;TZID=America/New_York:20261113T130000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_seas-53568272386396@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -94,7 +71,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  he chang…\n\n地点：Pierce Hall\, Room 100F\n活动页：https://event
  s.seas.harvard.edu/event/leveraging-unexpected-data-streams-and-multiple-s
  table-isotope-approaches-to-understand-the-changing-global-sulfur-cycle\n
- \n来源：harvard_seas｜得分 30｜抓取于 2026-11-12 17:46
+ \n来源：harvard_seas｜得分 30｜抓取于 2026-11-13 17:24
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/leveraging-unexpected-data-strea
@@ -106,7 +83,7 @@ SUMMARY:[需确认] The Utility of the Future: Electrification\, Innovatio
  n and the Energy Transition
 DTSTART;TZID=America/New_York:20261118T103000
 DTEND;TZID=America/New_York:20261118T113000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_seas-54426209837379@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -119,7 +96,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  Gas and Electri…\n\n地点：Pierce Hall\, Room Room 301\n活动页：ht
  tps://events.seas.harvard.edu/event/the-utility-of-the-future-electrificat
  ion-innovation-and-the-energy-transition\n\n来源：harvard_seas｜得分
-  25｜抓取于 2026-11-12 17:46
+  25｜抓取于 2026-11-13 17:24
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/the-utility-of-the-future-electr
@@ -131,7 +108,7 @@ SUMMARY:[需确认] Mercurial Science: Forty Years of Searching for Consis
  onment
 DTSTART;TZID=America/New_York:20261120T120000
 DTEND;TZID=America/New_York:20261120T130000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_seas-53568282850892@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -144,7 +121,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  …\n\n地点：Pierce Hall\, Room 100F\n活动页：https://events.seas.h
  arvard.edu/event/mercurial-science-forty-years-of-searching-for-consistent
  -paradigms-and-conceptual-models-of-mercury-contamination-of-the-environme
- nt\n\n来源：harvard_seas｜得分 30｜抓取于 2026-11-12 17:46
+ nt\n\n来源：harvard_seas｜得分 30｜抓取于 2026-11-13 17:24
 LOCATION:29 Oxford Street\, Cambridge\, MA\, 02138
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/mercurial-science-forty-years-of
@@ -155,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] Entrepreneurship Conference 2026
 DTSTART;TZID=America/New_York:20261122T080000
 DTEND;TZID=America/New_York:20261122T190000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_seas-54168826465626@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：会议
@@ -168,16 +145,33 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：会议
  Boston community. Further in…\n\n地点：Harvard Business School (Klarm
  an Hall)\n活动页：https://events.seas.harvard.edu/event/entrepreneursh
  ip-conference-2026\n\n来源：harvard_seas｜得分 24｜抓取于 2026-1
- 1-12 17:46
+ 1-13 17:24
 LOCATION:Boston\, MA\, 02163
 STATUS:CONFIRMED
 URL:https://events.seas.harvard.edu/event/entrepreneurship-conference-2026
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[开放] New on View: Community and Self-Representation in the Dav
+ id and Jane Shapiro Collection
+DTSTART;TZID=America/New_York:20261122T123000
+DTEND;TZID=America/New_York:20261122T130000
+DTSTAMP:20261113T172445Z
+UID:harvard_art_museums-4217@harvard-mit-events
+SEQUENCE:1
+DESCRIPTION:准入：开放（无需报名）\n类型：讲座\n\n摘要
+ ：Join Leah Yeshitila for a discussion of her installation featuring reno
+ wned Black artists of the later 20th century.\n\n地点：Harvard Art Muse
+ ums\n活动页：https://harvardartmuseums.org/event/4217\n\n来源：harv
+ ard_art_museums｜得分 15｜抓取于 2026-11-13 17:24
+LOCATION:32 Quincy Street\, Cambridge\, MA
+STATUS:CONFIRMED
+URL:https://harvardartmuseums.org/event/4217
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[开放] Sylvia Lavin “Architecture After Fire”
 DTSTART;TZID=America/New_York:20261123T183000
 DTEND;TZID=America/New_York:20261123T200000
-DTSTAMP:20261112T174642Z
+DTSTAMP:20261113T172445Z
 UID:harvard_gsd-2683529@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -190,7 +184,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  ：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/event/archite
  cture-after-fire/\n报名：https://www.eventbrite.com/e/sylvia-lavin-arch
  itecture-after-fire-tickets-1998435432174?aff=oddtdtcreator\n\n来源：ha
- rvard_gsd｜得分 23｜抓取于 2026-11-12 17:46
+ rvard_gsd｜得分 23｜抓取于 2026-11-13 17:24
 LOCATION:48 Quincy Street\, Cambridge\, MA 02138
 STATUS:CONFIRMED
 URL:https://www.gsd.harvard.edu/event/architecture-after-fire/
