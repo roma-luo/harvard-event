@@ -31,6 +31,7 @@ HEALTH_FILE = STATE_DIR / "health.json"
 
 PRIORITY_ICS = DOCS_DIR / "priority.ics"
 ALL_ICS = DOCS_DIR / "all.ics"
+HBS_ICS = DOCS_DIR / "hbs.ics"
 
 
 def ensure_dirs() -> None:

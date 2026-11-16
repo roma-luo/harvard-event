@@ -1,14 +1,15 @@
 # harvard-events
 
-每天自动抓取 Harvard 和 MIT 多个来源的活动，分类打分，生成两个 iCalendar 订阅文件，每周日发一封邮件摘要。订阅一次日历链接之后零日常操作。
+每天自动抓取 Harvard 和 MIT 多个来源的活动，分类打分，生成三个 iCalendar 订阅文件，每周日发一封邮件摘要。订阅一次日历链接之后零日常操作。
 
 ## 输出
 
 - `docs/priority.ics` — 日历 A「Events - Priority」，最多 8 条高分活动
 - `docs/all.ics` — 日历 B「Events - All」，其余全部
-- 周报邮件 — 周日晚发，含必看、报名截止、在展展览、来源健康状态
+- `docs/hbs.ics` — 日历 C「Events - HBS」，HBS 和 Harvard Innovation Labs 的活动单独成层，在 Outlook 里勾选/取消即可整体显示/隐藏；这些活动不再进 A 和 B
+- 周报邮件 — 周日晚发，含必看、HBS 本周（★ 为订阅主题命中）、报名截止、在展展览、来源健康状态
 
-在 Outlook 里用「从 Web 订阅」添加这两个 URL（GitHub Pages 地址）；不要「导入」，导入不会自动刷新。展览不进 ICS（跨月展览会毁掉周视图），只在周报里出现。
+在 Outlook 里用「从 Web 订阅」添加这三个 URL（GitHub Pages 地址）；不要「导入」，导入不会自动刷新。展览不进 ICS（跨月展览会毁掉周视图），只在周报里出现。
 
 ## 常用命令
 
@@ -25,7 +26,7 @@ uv run harvard-events busy-json        # 把 busy.yml 转成 JSON，用于 BUSY_
 
 ## 配置（都在 `config/`）
 
-- `sources.yml` — 唯一的来源清单；加一个 Localist 日历 = 复制一段配置改域名
+- `sources.yml` — 唯一的来源清单；加一个 Localist 日历 = 复制一段配置改域名；加 `calendar: hbs` 的来源进 HBS 日历
 - `subscriptions.yml` — 直接订阅的 Series / 院系名，精度最高的一层，**主要维护这个文件**
 - `keywords.yml` — 关键词打分（词边界、缩写区分大小写、同义词组），只用于主题细分
 - `taxonomy/<source>.yml` — 每个来源的原始分类到统一字段的映射

@@ -12,7 +12,9 @@ facets:
 
 kind:
   "Conference": conference
-  "Tour": social
+  # Tours and admissions sessions are for MBA applicants, not current students.
+  "Tour": admin
+  "MBA Admissions": admin
   # documented on the HBS filter panel
   "Lecture": lecture
   "Seminar": lecture

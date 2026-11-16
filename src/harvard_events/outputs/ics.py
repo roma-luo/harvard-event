@@ -1,6 +1,8 @@
-"""ICS generation — the two subscribable calendars.
+"""ICS generation — the subscribable calendars.
 
-Both files are served from GitHub Pages and subscribed by URL in Outlook
+Priority and All split the general pool; HBS is a separate layer holding
+every source marked ``calendar: hbs``, so it can be toggled on its own.
+All files are served from GitHub Pages and subscribed by URL in Outlook
 ("subscribe from web", never "import": an import never refreshes).
 
 * exhibitions are never written here — a month-long show would render as a
@@ -24,10 +26,11 @@ from icalendar.prop import vDuration
 
 from ..core.text import truncate
 from ..models import Event
-from ..paths import ALL_ICS, PRIORITY_ICS
+from ..paths import ALL_ICS, HBS_ICS, PRIORITY_ICS
 
 PRIORITY_CALNAME = "Events - Priority"
 ALL_CALNAME = "Events - All"
+HBS_CALNAME = "Events - HBS"
 
 ACCESS_PREFIX = {"open": "[开放] ", "check": "[需确认] ", "restricted": "[受限] "}
 ACCESS_LABEL = {
@@ -126,10 +129,13 @@ def build_calendar(events: list[Event], calname: str) -> bytes:
 def write_calendars(
     priority: list[Event],
     others: list[Event],
+    hbs: list[Event] | None = None,
     priority_path: Path = PRIORITY_ICS,
     all_path: Path = ALL_ICS,
-) -> tuple[Path, Path]:
+    hbs_path: Path = HBS_ICS,
+) -> tuple[Path, Path, Path]:
     priority_path.parent.mkdir(parents=True, exist_ok=True)
     priority_path.write_bytes(build_calendar(priority, PRIORITY_CALNAME))
     all_path.write_bytes(build_calendar(others, ALL_CALNAME))
-    return priority_path, all_path
+    hbs_path.write_bytes(build_calendar(hbs or [], HBS_CALNAME))
+    return priority_path, all_path, hbs_path

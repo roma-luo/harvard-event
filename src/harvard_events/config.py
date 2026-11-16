@@ -40,6 +40,8 @@ class SourceConfig:
     taxonomy: str | None = None
     campus: str = "other"
     priority: int = 0
+    #: separate calendar id (e.g. ``hbs``). None means Priority / All.
+    calendar: str | None = None
     filters: dict[str, Any] = field(default_factory=dict)
     options: dict[str, Any] = field(default_factory=dict)
 
@@ -70,6 +72,10 @@ class Settings:
 
     def enabled_sources(self) -> list[SourceConfig]:
         return [s for s in self.sources if s.enabled]
+
+    def calendar_of(self, source_id: str) -> str | None:
+        src = self.source(source_id)
+        return src.calendar if src else None
 
     def source_priority(self, source_id: str) -> int:
         src = self.source(source_id)

@@ -1,0 +1,27 @@
+# Harvard Innovation Labs — innovationlabs.harvard.edu/events/upcoming
+#
+# The list page carries title, date, time and location but no type or
+# audience, so kind comes from the title. First matching rule wins.
+# Access defaults to `check`: almost every i-lab event needs an Eventbrite RSVP.
+
+facets: {}
+kind: {}
+access: {}
+
+kind_from_title:
+  - pattern: "deadline"
+    kind: admin
+  - pattern: 'information session|info session|tips \+ tricks|office hours|orientation'
+    kind: career
+  - pattern: "hackathon|-a-thon|sprint|workshop|clinic|bootcamp|fundamentals"
+    kind: workshop
+  - pattern: "pitch|demo day|showcase"
+    kind: showcase
+  - pattern: "panel|fireside|speaker|talk|lecture|pathways|conversation|summit"
+    kind: lecture
+  - pattern: "coffee|connections|networking|mixer|joiners|celebration|anniversary|social"
+    kind: social
+
+campus: {}
+ignore: []
+overrides: []

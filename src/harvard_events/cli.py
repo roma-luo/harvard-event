@@ -35,6 +35,7 @@ def _cmd_run(args: argparse.Namespace) -> int:
     print(
         f"fetched {len(result.events)} events: "
         f"{len(result.priority)} priority, {len(result.others)} all, "
+        f"{len(result.hbs)} hbs, "
         f"{len(result.exhibitions)} exhibitions, "
         f"{len(result.cancelled)} cancelled, {len(result.dropped)} dropped"
     )

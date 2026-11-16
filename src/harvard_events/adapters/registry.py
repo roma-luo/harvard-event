@@ -9,6 +9,7 @@ from .artmuseums import ArtMuseumsAdapter
 from .base import Adapter
 from .gsd import GsdAdapter
 from .ics import IcsAdapter
+from .ilab import IlabAdapter
 from .localist import LocalistAdapter
 from .medialab import MediaLabAdapter
 
@@ -20,6 +21,7 @@ ADAPTERS: dict[str, type[Adapter]] = {
         GsdAdapter,
         ArtMuseumsAdapter,
         MediaLabAdapter,
+        IlabAdapter,
     )
 }
 

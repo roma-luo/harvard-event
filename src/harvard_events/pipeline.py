@@ -31,6 +31,7 @@ class RunResult:
     events: list[Event] = field(default_factory=list)  # active, scored
     priority: list[Event] = field(default_factory=list)
     others: list[Event] = field(default_factory=list)
+    hbs: list[Event] = field(default_factory=list)  # separate HBS calendar
     exhibitions: list[Event] = field(default_factory=list)
     cancelled: list[Event] = field(default_factory=list)
     dropped: list[Event] = field(default_factory=list)
@@ -66,10 +67,12 @@ def fetch_all(
 
 
 def select(result: RunResult, settings: Settings) -> None:
-    """Split scored events into priority / all / exhibitions / dropped.
+    """Split scored events into priority / all / hbs / exhibitions / dropped.
 
     8 is a ceiling, not a target: a slot stays empty rather than take an
     event below ``priority_min_score``. Exhibitions never enter an ICS.
+    Sources marked ``calendar: hbs`` skip Priority / All and go to their own
+    calendar, best score first, with the same drop floor as All.
     Cancelled events keep the calendar they were last published in.
     """
     scoring = settings.scoring or {}
@@ -83,11 +86,14 @@ def select(result: RunResult, settings: Settings) -> None:
     exhibitions = [e for e in active if e.kind == "exhibition"]
     regular = [e for e in active if e.kind != "exhibition"]
     regular.sort(key=lambda e: e.score, reverse=True)
+    hbs_pool = [e for e in regular if settings.calendar_of(e.source) == "hbs"]
+    regular = [e for e in regular if settings.calendar_of(e.source) != "hbs"]
 
     result.priority = [e for e in regular if e.score >= priority_min][:size]
     rest = regular[len(result.priority):]
     result.others = [e for e in rest if e.score >= all_min]
-    result.dropped = [e for e in rest if e.score < all_min]
+    result.hbs = [e for e in hbs_pool if e.score >= all_min]
+    result.dropped = [e for e in rest + hbs_pool if e.score < all_min]
     result.exhibitions = exhibitions
     result.cancelled = cancelled_now  # ghosts are appended by run()
 
@@ -95,6 +101,8 @@ def select(result: RunResult, settings: Settings) -> None:
         result.decisions[e.uid] = "priority"
     for e in result.others:
         result.decisions[e.uid] = "all"
+    for e in result.hbs:
+        result.decisions[e.uid] = "hbs"
     for e in result.dropped:
         result.decisions[e.uid] = "dropped"
     for e in exhibitions:
@@ -143,6 +151,9 @@ def build_digest(result: RunResult, settings: Settings, streaks: dict[str, int])
 
     in_week = [e for e in result.priority if e.start <= week_end]
     others_week = [e for e in result.others if e.start <= week_end]
+    hbs_week = [
+        e for e in result.hbs if e.start <= week_end and e.status != "CANCELLED"
+    ]
     deadlines = [
         e
         for e in result.events
@@ -157,6 +168,7 @@ def build_digest(result: RunResult, settings: Settings, streaks: dict[str, int])
     return Digest(
         priority=in_week,
         others=others_week,
+        hbs=hbs_week,
         deadline_events=sorted(deadlines, key=lambda e: e.registration_deadline),
         exhibitions=exhibitions,
         cancelled=result.cancelled,
@@ -208,26 +220,25 @@ def run(
     # Cancelled entries (marker-cancelled now, or ghosts from earlier runs)
     # go back to the calendar they were last published in, so Outlook removes
     # them from the right place.
-    priority_uids = {e.uid for e in result.priority}
+    targets = {"priority": result.priority, "all": result.others, "hbs": result.hbs}
+    published = {e.uid for e in result.priority + result.others + result.hbs}
     for event, calendar in ghosts:
         event.score_detail = event.score_detail or {}
-        (result.priority if calendar == "priority" else result.others).append(event)
+        targets.get(calendar, result.others).append(event)
         result.decisions[event.uid] = "cancelled"
     for event in result.cancelled:
+        if event.uid in published:
+            continue
         entry = state.entries.get(event.uid) or {}
-        if entry.get("calendar") == "priority" and event.uid not in priority_uids:
-            result.priority.append(event)
-        elif event.uid not in priority_uids:
-            result.others.append(event)
+        targets.get(entry.get("calendar") or "all", result.others).append(event)
     result.cancelled += [e for e, _ in ghosts]
 
-    for event in result.priority:
-        state.set_calendar(event.uid, "priority")
-    for event in result.others:
-        state.set_calendar(event.uid, "all")
+    for name, routed in targets.items():
+        for event in routed:
+            state.set_calendar(event.uid, name)
 
     if write:
-        write_calendars(result.priority, result.others)
+        write_calendars(result.priority, result.others, result.hbs)
         append_scoring_log(result.events, result.decisions)
         recorder.flush()
         state.purge()

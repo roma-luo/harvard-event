@@ -11,6 +11,8 @@
 #   priority  cross-source dedup: the higher number wins and keeps its URL
 #   campus    default campus, used for the commute penalty
 #   taxonomy  which config/taxonomy/<name>.yml to use (defaults to `id`)
+#   calendar  optional separate calendar id (only `hbs` today); omitted means
+#             the source competes for Priority / All as usual
 
 sources:
   # ---- Harvard GSD: the user's own school, highest priority ----------------
@@ -108,14 +110,29 @@ sources:
     taxonomy: harvard_seas
     domain: events.seas.harvard.edu
 
+  # ---- HBS focus: everything below goes to its own calendar, docs/hbs.ics --
+  # `calendar: hbs` routes a source out of Priority/All into "Events - HBS",
+  # so the whole group can be ticked on or off in Outlook as one layer.
   - id: harvard_hbs
     type: localist
     enabled: true
-    weight: 1
+    weight: 10
     priority: 20
     campus: allston
     taxonomy: harvard_hbs
     domain: events.hbs.edu
+    calendar: hbs
+
+  # Harvard Innovation Labs (Allston, next to HBS). No API or feed: the
+  # /events/upcoming list page is parsed directly (adapters/ilab.py).
+  - id: harvard_ilab
+    type: ilab
+    enabled: true
+    weight: 8
+    priority: 25
+    campus: allston
+    taxonomy: harvard_ilab
+    calendar: hbs
 
   # ---- Off by default. Flip `enabled` after previewing. --------------------
   - id: harvard_hks

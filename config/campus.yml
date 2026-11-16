@@ -4,7 +4,7 @@
 penalties:
   cambridge_harvard: 0    # Gund Hall and everything walkable from it
   cambridge_mit: -2       # one red line stop / 25 min walk
-  allston: -8             # HBS, across the river
+  allston: 0              # HBS / i-lab — penalty removed: HBS is a focus now
   longwood: -15           # medical campus, a real trip
   online: -3              # counted here as well as virtual_adjustment
   other: -4

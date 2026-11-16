@@ -1,6 +1,6 @@
 """The weekly digest email.
 
-Sent Sunday evening, covering the coming 7 days. Five fixed sections; an empty
+Sent Sunday evening, covering the coming 7 days. Six fixed sections; an empty
 section keeps its heading and says 无 — a silently-shrinking email is how a
 dead scraper goes unnoticed, so the health section is mandatory and the email
 goes out even when zero events were found.
@@ -34,6 +34,7 @@ class Digest:
 
     priority: list[Event] = field(default_factory=list)
     others: list[Event] = field(default_factory=list)
+    hbs: list[Event] = field(default_factory=list)
     deadline_events: list[Event] = field(default_factory=list)
     exhibitions: list[Event] = field(default_factory=list)
     cancelled: list[Event] = field(default_factory=list)
@@ -84,6 +85,14 @@ def render_body(digest: Digest) -> str:
         [_event_line(e, verbose=False) for e in digest.others],
     )
     parts += _section(
+        "HBS 本周（独立日历 Events - HBS，按得分排序，★ = 订阅主题命中）",
+        [
+            ("* ★ " if e.score_detail.get("subscription_match") else "* ")
+            + _event_line(e, verbose=True)[2:]
+            for e in sorted(digest.hbs, key=lambda e: e.score, reverse=True)
+        ],
+    )
+    parts += _section(
         "报名截止在本周",
         [
             f"* 截止 {e.registration_deadline.isoformat()}｜"
@@ -131,7 +140,10 @@ def render_body(digest: Digest) -> str:
 
 def render_subject(digest: Digest) -> str:
     week = digest.week_start or datetime.now()
-    return f"活动周报 {week.strftime('%Y-%m-%d')}（必看 {len(digest.priority)} 条）"
+    return (
+        f"活动周报 {week.strftime('%Y-%m-%d')}"
+        f"（必看 {len(digest.priority)} 条，HBS {len(digest.hbs)} 条）"
+    )
 
 
 def send_email(subject: str, body: str) -> bool:

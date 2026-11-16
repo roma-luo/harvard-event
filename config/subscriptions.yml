@@ -82,6 +82,14 @@ harvard_hbs:
   series: []
   academic_areas: []
   units: []
+  # The only topics HBS exposes without a login (discover, 2026-11-16).
+  topics:
+    - "Entrepreneurship/Innovation"
+
+harvard_ilab:
+  series: []
+  academic_areas: []
+  units: []
 
 gsd_loeb_library:
   series: []

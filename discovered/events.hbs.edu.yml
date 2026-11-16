@@ -1,17 +1,20 @@
 domain: events.hbs.edu
 path: null
-events_scanned: 15
+events_scanned: 7
 facets:
   event_audience:
   - General Public
   event_topics:
+  - Admissions Information Session
   - Entrepreneurship/Innovation
   event_types:
   - Conference
+  - MBA Admissions
   - Tour
 departments: []
 venues:
   Baker Library | Bloomberg Center: '39749756378741'
+  Harvard Business School: '52250561145930'
 keywords:
 - Entrepreneurship
 - innovation

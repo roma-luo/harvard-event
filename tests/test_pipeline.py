@@ -51,3 +51,26 @@ def test_cancelled_events_rerouted_not_selected(event_factory):
     assert result.priority == [] and result.others == []
     assert result.cancelled == [cancelled]
     assert result.decisions["c-1@x"] == "cancelled"
+
+
+def test_hbs_sources_go_to_their_own_calendar(event_factory):
+    from harvard_events.config import SourceConfig
+
+    s = settings()
+    s.sources = [
+        SourceConfig(id="harvard_hbs", type="localist", calendar="hbs"),
+        SourceConfig(id="harvard_gsd", type="gsd"),
+    ]
+    events = [
+        event_factory(uid="h-1@x", source="harvard_hbs", score=80),
+        event_factory(uid="h-2@x", source="harvard_hbs", score=1),
+        event_factory(uid="h-3@x", source="harvard_hbs", score=-20),
+        event_factory(uid="g-1@x", source="harvard_gsd", score=30),
+    ]
+    result = RunResult(events=events)
+    select(result, s)
+    # Even the best-scoring HBS event never takes a Priority slot.
+    assert [e.uid for e in result.priority] == ["g-1@x"]
+    assert [e.uid for e in result.hbs] == ["h-1@x", "h-2@x"]
+    assert [e.uid for e in result.dropped] == ["h-3@x"]
+    assert result.decisions["h-1@x"] == "hbs"
