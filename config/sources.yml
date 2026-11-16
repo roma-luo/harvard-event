@@ -125,9 +125,10 @@ sources:
 
   # Harvard Innovation Labs (Allston, next to HBS). No API or feed: the
   # /events/upcoming list page is parsed directly (adapters/ilab.py).
+  # Disabled: Cloudflare returns 403 to GitHub Actions runners (works locally).
   - id: harvard_ilab
     type: ilab
-    enabled: true
+    enabled: false
     weight: 8
     priority: 25
     campus: allston

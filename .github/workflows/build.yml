@@ -36,7 +36,10 @@ jobs:
           BUSY_SCHEDULE_JSON: ${{ secrets.BUSY_SCHEDULE_JSON }}
         run: uv run harvard-events run
 
+      # A failing source makes the pipeline exit 1 (so the run shows red), but
+      # the calendars for every other source were still written: commit them.
       - name: Commit calendars and state
+        if: always()
         run: |
           git config user.name "harvard-events-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
