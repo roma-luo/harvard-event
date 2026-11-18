@@ -1,52 +1,4 @@
 {
- "gsd_loeb_library-LibCal-4722-17333915@harvard-mit-events": {
-  "calendar": null,
-  "content_hash": "84655c593e52cc32",
-  "event": {
-   "access": "open",
-   "address": "48 Quincy Street, Cambridge, MA 02138",
-   "all_day": false,
-   "alt_urls": [],
-   "campus": "cambridge_harvard",
-   "cancelled_marker": null,
-   "description": "Our weekly librarian office hours! Come for a chat, browse a curated selection of library holdings, and ask your librarians any and all questions.",
-   "end": "2026-10-19T15:30:00-04:00",
-   "fetched_at": "2026-10-20T14:32:40.892429+00:00",
-   "is_virtual": false,
-   "kind": "admin",
-   "location": "Collaboration Space 2",
-   "raw_facets": {
-    "categories": [
-     "Drop-in Hours"
-    ],
-    "ics_uid": "LibCal-4722-17333915",
-    "ics_url": "https://libcal.gsd.harvard.edu/event/17333915",
-    "organizer": "MAILTO:kai_mcginn@gsd.harvard.edu",
-    "status": ""
-   },
-   "registration_deadline": null,
-   "registration_url": null,
-   "score": 0.0,
-   "score_detail": {},
-   "sequence": 0,
-   "series": "Drop-in Hours",
-   "source": "gsd_loeb_library",
-   "speaker": null,
-   "start": "2026-10-19T14:00:00-04:00",
-   "status": "CONFIRMED",
-   "title": "Librarian Office Hours",
-   "topics": [
-    "Drop-in Hours"
-   ],
-   "uid": "gsd_loeb_library-LibCal-4722-17333915@harvard-mit-events",
-   "units": [
-    "Frances Loeb Library"
-   ],
-   "url": "https://libcal.gsd.harvard.edu/event/17333915"
-  },
-  "last_seen": "2026-10-20T14:32:44+00:00",
-  "sequence": 0
- },
  "gsd_loeb_library-LibCal-4722-17333916@harvard-mit-events": {
   "calendar": null,
   "content_hash": "e26209d4732d2c3f",
@@ -239,54 +191,6 @@
   "last_seen": "2026-11-17T18:49:23+00:00",
   "sequence": 0
  },
- "gsd_loeb_library-LibCal-4722-17334115@harvard-mit-events": {
-  "calendar": "all",
-  "content_hash": "2156000f08b361d6",
-  "event": {
-   "access": "open",
-   "address": "48 Quincy Street, Cambridge, MA 02138",
-   "all_day": false,
-   "alt_urls": [],
-   "campus": "cambridge_harvard",
-   "cancelled_marker": null,
-   "description": "A book swap! Between you and the library! Happening in the trays! Come to the second floor outer-tray space to browse a selection of unique design books looking for a new home. And if you have any books looking for a new home, we will happily take them for the next GSD Little Free Library event. Drop-in for however long between 12 - 1PM!",
-   "end": "2026-10-19T13:00:00-04:00",
-   "fetched_at": "2026-10-20T14:32:40.892388+00:00",
-   "is_virtual": false,
-   "kind": "social",
-   "location": "Gund 2nd: Outer Tray Collaboration Space",
-   "raw_facets": {
-    "categories": [
-     "Community Event"
-    ],
-    "ics_uid": "LibCal-4722-17334115",
-    "ics_url": "https://libcal.gsd.harvard.edu/event/17334115",
-    "organizer": "MAILTO:kai_mcginn@gsd.harvard.edu",
-    "status": ""
-   },
-   "registration_deadline": null,
-   "registration_url": null,
-   "score": 0.0,
-   "score_detail": {},
-   "sequence": 1,
-   "series": "Community Event",
-   "source": "gsd_loeb_library",
-   "speaker": null,
-   "start": "2026-10-19T12:00:00-04:00",
-   "status": "CONFIRMED",
-   "title": "gsdLibrary Book Swap",
-   "topics": [
-    "Community Event"
-   ],
-   "uid": "gsd_loeb_library-LibCal-4722-17334115@harvard-mit-events",
-   "units": [
-    "Frances Loeb Library"
-   ],
-   "url": "https://libcal.gsd.harvard.edu/event/17334115"
-  },
-  "last_seen": "2026-10-20T14:32:44+00:00",
-  "sequence": 1
- },
  "gsd_loeb_library-LibCal-4722-17334139@harvard-mit-events": {
   "calendar": "all",
   "content_hash": "03994847a37f0764",
@@ -395,7 +299,7 @@
    "cancelled_marker": null,
    "description": "Don't have time to come browse for books in the library? Want to do a quick drop-off on the way to Chauhaus? Need last-minute research support? No worries because the library's coming to you. Come visit the second floor outer-tray space if you want some inspiration or help for information and/or design! Drop by anytime for however long from 12-1PM!",
    "end": "2026-11-18T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.737888+00:00",
+   "fetched_at": "2026-11-18T18:28:33.233968+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Gund 2nd: Outer Tray Collaboration Space",
@@ -428,7 +332,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17334259"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17343358@harvard-mit-events": {
@@ -829,7 +733,7 @@
    "cancelled_marker": null,
    "description": "Drop in with your writing projects for part of the time or the whole two hours of focused work in community. Library writing staff will be on hand if you have questions or want feedback.",
    "end": "2026-11-18T15:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.737919+00:00",
+   "fetched_at": "2026-11-18T18:28:33.233997+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Gund 516",
@@ -862,7 +766,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/17707455"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "gsd_loeb_library-LibCal-4722-17794953@harvard-mit-events": {
@@ -1263,7 +1167,7 @@
    "cancelled_marker": null,
    "description": "Hoping to make your ETD submission as easy as possible? Curious about copyright, publishing, and what it means to share your dissertation openly? Join Frances Loeb Librarians and special guest Colin Lukens, Senior Repository Manager, Harvard Library Open Scholarship and Research Data Services (OSRDS), for a session where you will: Explore your options when navigating the ETD submission process in ProQuest Understand embargo policies and procedures Discover the benefits of sharing your work in DASH, the University’s open access repository Learn what to consider as you approach your ETD submission deadline and get your questions answered. We’re here to help you confidently complete the last steps of your dissertation process! We encourage registration but please feel free to drop-in as well! Zoom link here: https://harvard.zoom.us/j/95201046847",
    "end": "2026-11-23T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.738025+00:00",
+   "fetched_at": "2026-11-18T18:28:33.234105+00:00",
    "is_virtual": true,
    "kind": "workshop",
    "location": null,
@@ -1296,7 +1200,7 @@
    ],
    "url": "https://libcal.gsd.harvard.edu/event/18006929"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-3980@harvard-mit-events": {
@@ -1358,7 +1262,7 @@
    "cancelled_marker": null,
    "description": "Happy Holidays! We’re keeping our doors open late for an evening of art, fun, food, and more!",
    "end": "2026-12-03T21:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.109652+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452560+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -1411,7 +1315,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4111"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4112@harvard-mit-events": {
@@ -1566,7 +1470,7 @@
    "cancelled_marker": null,
    "description": "Explore the intimate connections between models, molds, and casts in this hands-on workshop led by research curator Francesca Bewer.",
    "end": "2026-11-20T16:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107516+00:00",
+   "fetched_at": "2026-11-18T18:28:32.450370+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Harvard Art Museums",
@@ -1623,7 +1527,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4120"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-4122@harvard-mit-events": {
@@ -1685,7 +1589,7 @@
    "cancelled_marker": null,
    "description": "The Harvard Art Museums will be closed for Thanksgiving.",
    "end": "2026-11-26T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107880+00:00",
+   "fetched_at": "2026-11-18T18:28:32.450757+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -1717,7 +1621,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4123"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4134@harvard-mit-events": {
@@ -1860,7 +1764,7 @@
    "cancelled_marker": null,
    "description": "Calling all Harvard students! Check out landscape drawings with staff and consider how they can articulate environments and states of being.",
    "end": "2026-12-04T15:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.110054+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452956+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -1913,7 +1817,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4140"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4142@harvard-mit-events": {
@@ -1996,7 +1900,7 @@
    "cancelled_marker": null,
    "description": "Discover the materials 19th-century European artists used—both in the studio and outdoors—to record and represent the landscapes around them.",
    "end": "2026-11-19T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107311+00:00",
+   "fetched_at": "2026-11-18T18:28:32.450167+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -2045,7 +1949,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4144"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-4148@harvard-mit-events": {
@@ -2196,7 +2100,7 @@
    "cancelled_marker": null,
    "description": "Join us for an in-depth tour of The Way We Never Were: The American Professional Photographers Collection , on view through May 9, 2027.",
    "end": "2026-12-04T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.109913+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452820+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2245,7 +2149,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4154"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4161@harvard-mit-events": {
@@ -2392,7 +2296,7 @@
    "cancelled_marker": null,
    "description": "Join author Susan Owens and curator Joachim Homann for a conversation about the drawings and paintings of John Constable.",
    "end": "2026-12-02T19:15:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.109297+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452205+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -2449,7 +2353,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4170"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4171@harvard-mit-events": {
@@ -2524,6 +2428,78 @@
   "last_seen": "2026-11-04T17:37:58+00:00",
   "sequence": 1
  },
+ "harvard_art_museums-4172@harvard-mit-events": {
+  "calendar": "all",
+  "content_hash": "ac9ff9d60b464fcc",
+  "event": {
+   "access": "open",
+   "address": "32 Quincy Street, Cambridge, MA, Enter at Broadway for evening programs",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "Learn about the tools used in Islamic calligraphy, from reed pens and penknives to cutting boards and scissors.",
+   "end": "2026-12-09T19:15:00-05:00",
+   "fetched_at": "2026-11-18T18:28:32.453601+00:00",
+   "is_virtual": false,
+   "kind": "lecture",
+   "location": "Harvard Art Museums",
+   "raw_facets": {
+    "event_type": "Lecture",
+    "exhibition_id": null,
+    "info": [
+     {
+      "label": "How to join",
+      "value": "<a href=\"https://secure.touchnet.net/C20832_ustores/web/store_cat.jsp?STOREID=99&CATID=276&SINGLESTORE=true\">Register here</a>."
+     },
+     {
+      "label": "Fee",
+      "value": "This is a free event."
+     },
+     {
+      "label": "Parking",
+      "value": "Limited free parking available at <a href=\"https://www.google.com/maps/place/Broadway+Garage,+7+Felton+St,+Cambridge,+MA+02138/@42.3745741,-71.112553,578m/data=!3m2!1e3!4b1!4m6!3m5!1s0x89e3774448931639:0x814509f1d44a50fb!8m2!3d42.3745741!4d-71.112553!16s%2Fg%2F1tjkgt6b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D\">Broadway Garage</a>, 7 Felton Street."
+     },
+     {
+      "label": "Where to go",
+      "value": "Enter on Broadway side of the building and head to Menschel Hall."
+     },
+     {
+      "label": "Accessibility accommodations",
+      "value": "If you would like to request accommodations for your visit, please contact Visitor Services at <a href=\"mailto:am_register@harvard.edu\">am_register@harvard.edu</a> or 617-495-9400. For more details about accommodations at the museums, please see the <a href=\"https://harvardartmuseums.org/visit/accessibility/museum-access\">Accessibility</a> page.\n"
+     },
+     {
+      "label": "General info",
+      "value": "The <a href=\"/visit\">museum visit page</a> has general guidelines for your visit."
+     }
+    ],
+    "participation": 3,
+    "start_time": "6:00 PM",
+    "type": 4
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "harvard_art_museums",
+   "speaker": null,
+   "start": "2026-12-09T18:00:00-05:00",
+   "status": "CONFIRMED",
+   "title": "The Material Culture of Islamic Calligraphy",
+   "topics": [
+    "Lecture"
+   ],
+   "uid": "harvard_art_museums-4172@harvard-mit-events",
+   "units": [
+    "Harvard Art Museums"
+   ],
+   "url": "https://harvardartmuseums.org/event/4172"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
  "harvard_art_museums-4184@harvard-mit-events": {
   "calendar": null,
   "content_hash": "666220803dd24979",
@@ -2596,6 +2572,70 @@
   "last_seen": "2026-10-29T16:28:57+00:00",
   "sequence": 0
  },
+ "harvard_art_museums-4190@harvard-mit-events": {
+  "calendar": "all",
+  "content_hash": "1f69cc355d5d2190",
+  "event": {
+   "access": "open",
+   "address": "32 Quincy Street, Cambridge, MA",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "Join photographs conservator Tatiana Cole for a talk about the most popular photographic process of the 20th century: the gelatin silver print.",
+   "end": "2026-12-10T13:00:00-05:00",
+   "fetched_at": "2026-11-18T18:28:32.453865+00:00",
+   "is_virtual": false,
+   "kind": "lecture",
+   "location": "Harvard Art Museums",
+   "raw_facets": {
+    "event_type": "Gallery Talk",
+    "exhibition_id": 6622,
+    "info": [
+     {
+      "label": "How to join",
+      "value": "Check in at the Visitor Services desk; space is limited."
+     },
+     {
+      "label": "Fee",
+      "value": "This is a free event."
+     },
+     {
+      "label": "Accessibility accommodations",
+      "value": "If you would like to request accommodations for your visit, please contact Visitor Services at <a href=\"mailto:am_register@harvard.edu\">am_register@harvard.edu</a> or 617-495-9400. For more details about accommodations at the museums, please see the <a href=\"https://harvardartmuseums.org/visit/accessibility/museum-access\">Accessibility</a> page.\n"
+     },
+     {
+      "label": "General info",
+      "value": "The <a href=\"/visit\">museum visit page</a> has general guidelines for your visit."
+     }
+    ],
+    "participation": 3,
+    "start_time": "12:30 PM",
+    "type": 3
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": "Gallery Talk",
+   "source": "harvard_art_museums",
+   "speaker": null,
+   "start": "2026-12-10T12:30:00-05:00",
+   "status": "CONFIRMED",
+   "title": "The Gelatin Silver Print",
+   "topics": [
+    "Gallery Talk"
+   ],
+   "uid": "harvard_art_museums-4190@harvard-mit-events",
+   "units": [
+    "Harvard Art Museums"
+   ],
+   "url": "https://harvardartmuseums.org/event/4190"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
  "harvard_art_museums-4196@harvard-mit-events": {
   "calendar": "all",
   "content_hash": "c59b65f20ebea92b",
@@ -2608,7 +2648,7 @@
    "cancelled_marker": null,
    "description": "Join curators for a tour of two connected exhibitions, beginning at the Harvard Art Museums and ending at the Carpenter Center for Visual Arts.",
    "end": "2026-12-09T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.110507+00:00",
+   "fetched_at": "2026-11-18T18:28:32.453418+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2657,7 +2697,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4196"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4197@harvard-mit-events": {
@@ -2672,7 +2712,7 @@
    "cancelled_marker": null,
    "description": "Join curators for a tour of two connected exhibitions, beginning at the Harvard Art Museums and ending at the Carpenter Center for Visual Arts",
    "end": "2026-11-18T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107019+00:00",
+   "fetched_at": "2026-11-18T18:28:32.449804+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -2721,7 +2761,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4197"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-4198@harvard-mit-events": {
@@ -2928,7 +2968,7 @@
    "cancelled_marker": null,
    "description": "Join staff as they discuss and activate this experimental device from 1930 by Bauhaus pioneer László Moholy-Nagy.",
    "end": "2026-12-01T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108840+00:00",
+   "fetched_at": "2026-11-18T18:28:32.451714+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -2977,7 +3017,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4204"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4215@harvard-mit-events": {
@@ -3120,7 +3160,7 @@
    "cancelled_marker": null,
    "description": "Join Leah Yeshitila for a discussion of her installation featuring renowned Black artists of the later 20th century.",
    "end": "2026-11-22T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107651+00:00",
+   "fetched_at": "2026-11-18T18:28:32.450511+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -3169,7 +3209,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4217"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-4225@harvard-mit-events": {
@@ -3312,7 +3352,7 @@
    "cancelled_marker": null,
    "description": "Recitals are performed on Harvard’s famous 1958 D. A. Flentrop organ, at Adolphus Busch Hall.",
    "end": "2026-11-19T12:45:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107150+00:00",
+   "fetched_at": "2026-11-18T18:28:32.449971+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -3361,7 +3401,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4229"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-4231@harvard-mit-events": {
@@ -4170,7 +4210,7 @@
    "cancelled_marker": null,
    "description": "Join Alison Cariens for an exploration of the history of the pigments in our famed Forbes Pigment Collection.",
    "end": "2026-12-04T12:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.109794+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452703+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -4235,7 +4275,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4246"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4249@harvard-mit-events": {
@@ -4394,7 +4434,7 @@
    "cancelled_marker": null,
    "description": "Curatorial fellow Alec Aldrich will discuss an 1827 drawing made with the camera lucida by inventor Sir John Frederick William Herschel.",
    "end": "2026-11-24T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.107801+00:00",
+   "fetched_at": "2026-11-18T18:28:32.450672+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -4443,11 +4483,11 @@
    ],
    "url": "https://harvardartmuseums.org/event/4251"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_art_museums-4252@harvard-mit-events": {
-  "calendar": "all",
+  "calendar": "priority",
   "content_hash": "1f34db510093b824",
   "event": {
    "access": "open",
@@ -4458,7 +4498,7 @@
    "cancelled_marker": null,
    "description": "Curatorial fellow Alec Aldrich will discuss an 1827 drawing made with the camera lucida by inventor Sir John Frederick William Herschel.",
    "end": "2026-12-02T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.109136+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452021+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Harvard Art Museums",
@@ -4507,7 +4547,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4252"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4253@harvard-mit-events": {
@@ -4586,7 +4626,7 @@
    "cancelled_marker": null,
    "description": "This year’s Annual Henri Zerner Lecture will be held at the Department of History of Art and Architecture, across the street from the museums.",
    "end": "2026-12-01T19:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108996+00:00",
+   "fetched_at": "2026-11-18T18:28:32.451874+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4635,7 +4675,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4254"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4255@harvard-mit-events": {
@@ -4650,7 +4690,7 @@
    "cancelled_marker": null,
    "description": "Harvard students are invited to study for finals in a quiet space at the museums.",
    "end": "2026-12-08T16:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.110323+00:00",
+   "fetched_at": "2026-11-18T18:28:32.453247+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4707,7 +4747,79 @@
    ],
    "url": "https://harvardartmuseums.org/event/4255"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
+ "harvard_art_museums-4256@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "0ba0be0a304e5d9c",
+  "event": {
+   "access": "open",
+   "address": "32 Quincy Street, Cambridge, MA",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "Harvard students are invited to study for finals in a quiet space at the museums.",
+   "end": "2026-12-10T16:00:00-05:00",
+   "fetched_at": "2026-11-18T18:28:32.453726+00:00",
+   "is_virtual": false,
+   "kind": "social",
+   "location": "Harvard Art Museums",
+   "raw_facets": {
+    "event_type": "Special Event",
+    "exhibition_id": null,
+    "info": [
+     {
+      "label": "How to join",
+      "value": "Drop in anytime between 10am and 4pm"
+     },
+     {
+      "label": "Fee",
+      "value": "Free to Harvard undergraduate and graduate students"
+     },
+     {
+      "label": "What to bring",
+      "value": "Student HUID for check-in"
+     },
+     {
+      "label": "Where to go",
+      "value": "Head up to Level 2 and look for signs directing you to the Naumburg Room."
+     },
+     {
+      "label": "Accessibility accommodations",
+      "value": "If you would like to request accommodations for your visit, please contact Visitor Services at <a href=\"mailto:am_register@harvard.edu\">am_register@harvard.edu</a> or 617-495-9400. For more details about accommodations at the museums, please see the <a href=\"https://harvardartmuseums.org/visit/accessibility/museum-access\">Accessibility</a> page."
+     },
+     {
+      "label": "General info",
+      "value": "The <a href=\"/visit\">museum visit page</a> has general guidelines for your visit."
+     }
+    ],
+    "participation": 3,
+    "start_time": "10:00 AM",
+    "type": 7
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "harvard_art_museums",
+   "speaker": null,
+   "start": "2026-12-10T10:00:00-05:00",
+   "status": "CONFIRMED",
+   "title": "Harvard Reading Period Study Session",
+   "topics": [
+    "Special Event"
+   ],
+   "uid": "harvard_art_museums-4256@harvard-mit-events",
+   "units": [
+    "Harvard Art Museums"
+   ],
+   "url": "https://harvardartmuseums.org/event/4256"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4258@harvard-mit-events": {
@@ -4722,7 +4834,7 @@
    "cancelled_marker": null,
    "description": "Our Friends Circle members are invited to enjoy a presentation about The Way We Never Were: The American Professional Photographers Collection .",
    "end": "2026-12-05T11:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.110202+00:00",
+   "fetched_at": "2026-11-18T18:28:32.453116+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4771,7 +4883,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4258"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4259@harvard-mit-events": {
@@ -4786,7 +4898,7 @@
    "cancelled_marker": null,
    "description": "Supporter Appreciation Week celebrates the Friends, Fellows, Partners, and Free Members whose generosity helps sustain the Harvard Art Museums.",
    "end": "2026-12-05T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108191+00:00",
+   "fetched_at": "2026-11-18T18:28:32.451081+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -4839,7 +4951,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4259"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4260@harvard-mit-events": {
@@ -5059,7 +5171,7 @@
    "cancelled_marker": null,
    "description": "Julianne Wu will look at three works that illuminate, disturb, or challenge authority.",
    "end": "2026-11-28T14:50:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108046+00:00",
+   "fetched_at": "2026-11-18T18:28:32.450922+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -5108,7 +5220,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4264"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4265@harvard-mit-events": {
@@ -5123,7 +5235,7 @@
    "cancelled_marker": null,
    "description": "Leandra Bautista will look closely at three works of art that evoke home as a space of either comfort or discomfort.",
    "end": "2026-11-29T11:50:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108355+00:00",
+   "fetched_at": "2026-11-18T18:28:32.451247+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -5172,7 +5284,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4265"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4266@harvard-mit-events": {
@@ -5187,7 +5299,7 @@
    "cancelled_marker": null,
    "description": "Ricardo Fernandes Garcia will explore how representations of innocence have enabled painters to address conflict and war.",
    "end": "2026-11-29T14:50:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108539+00:00",
+   "fetched_at": "2026-11-18T18:28:32.451414+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -5219,7 +5331,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4266"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4273@harvard-mit-events": {
@@ -5234,7 +5346,7 @@
    "cancelled_marker": null,
    "description": "To commemorate International Day of Persons with Disabilities, witness a movement installation performed by students and community members.",
    "end": "2026-12-03T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.109489+00:00",
+   "fetched_at": "2026-11-18T18:28:32.452394+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -5283,7 +5395,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4273"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-4275@harvard-mit-events": {
@@ -5298,7 +5410,7 @@
    "cancelled_marker": null,
    "description": "During Visual AIDS Day With(out) Art, we invite you to view four newly commissioned videos online responding to the ongoing HIV/AIDS epidemic.",
    "end": "2026-12-01T23:59:00-05:00",
-   "fetched_at": "2026-11-17T18:49:18.108718+00:00",
+   "fetched_at": "2026-11-18T18:28:32.451599+00:00",
    "is_virtual": true,
    "kind": "social",
    "location": "Harvard Art Museums",
@@ -5339,7 +5451,7 @@
    ],
    "url": "https://harvardartmuseums.org/event/4275"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_art_museums-6696@harvard-mit-events": {
@@ -5354,7 +5466,7 @@
    "cancelled_marker": null,
    "description": "Trace the artistic lineage of Alfonso Ossorio through a body of works that resonates across generations.",
    "end": "2027-04-11T23:59:00-04:00",
-   "fetched_at": "2026-11-17T18:49:18.370021+00:00",
+   "fetched_at": "2026-11-18T18:28:32.759240+00:00",
    "is_virtual": false,
    "kind": "exhibition",
    "location": "Modern and Contemporary Art, Harvard Art Museums",
@@ -5382,7 +5494,7 @@
    ],
    "url": "https://harvardartmuseums.org/exhibitions/6696/alfonso-ossorio-line-and-lineage"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_gsd-2473177@harvard-mit-events": {
@@ -6024,7 +6136,7 @@
    "cancelled_marker": null,
    "description": "LIVESTREAM INFO A live stream for this event will be available on this page at the scheduled start time. Closed captioning is available by clicking the “CC” icon at the bottom of the player window. About this Event This lecture, “Architecture After Fire,” argues that the rise of American architectural modernism was inseparable from the [...]",
    "end": "2026-11-23T20:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:15.834696+00:00",
+   "fetched_at": "2026-11-18T18:28:28.456522+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Piper Auditorium",
@@ -6088,7 +6200,7 @@
    ],
    "url": "https://www.gsd.harvard.edu/event/architecture-after-fire/"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_gsd-2683556@harvard-mit-events": {
@@ -6438,7 +6550,7 @@
    "cancelled_marker": null,
    "description": "Campus tours for the general public are available on Thursdays at 10:00 AM, departing from the North Lobby of Baker Library (see map). The tour lasts approximately one hour and registration is required. To register and view current tour date availability, please visit the tour website. If you have any questions, please e-mail tours@hbs.edu.",
    "end": "2026-11-19T11:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:23.137405+00:00",
+   "fetched_at": "2026-11-18T18:28:38.058391+00:00",
    "is_virtual": false,
    "kind": "admin",
    "location": "Baker Library | Bloomberg Center, Room Building Lobby",
@@ -6478,7 +6590,7 @@
    "units": [],
    "url": "https://events.hbs.edu/event/harvard_business_school_campus_tours"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 12
  },
  "harvard_hbs-53814912860837@harvard-mit-events": {
@@ -6493,7 +6605,7 @@
    "cancelled_marker": null,
    "description": "Overview Join us at the HBS Entrepreneurship Conference for inspiring talks, networking, and startup vibes in person! Get Ready for the HBS Entrepreneurship Conference! Join us in person to dive into the world of startups, innovation, and networking. Whether you're a budding entrepreneur or just love cool ideas, this is your spot to connect, learn, and get inspired by some of the brightest minds in the game. Don’t miss out on an energizing day packed with talks, workshops, and plenty of chances to meet fellow dreamers and doers!",
    "end": "2026-11-22T19:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:23.137582+00:00",
+   "fetched_at": "2026-11-18T18:28:38.058544+00:00",
    "is_virtual": false,
    "kind": "conference",
    "location": "Room Klarman Hall, Harvard Business School",
@@ -6554,7 +6666,7 @@
    "units": [],
    "url": "https://events.hbs.edu/event/entrepreneurship-conference-2026-at-harvard-business-school"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_hbs-54037225803218@harvard-mit-events": {
@@ -6640,7 +6752,7 @@
    "cancelled_marker": null,
    "description": "Join the MBA Admissions team for an engaging campus tour and comprehensive MBA Program information session. We are excited about the opportunity to meet you and assist you in exploring our campus. We hope to see you there!",
    "end": "2026-12-04T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:23.137699+00:00",
+   "fetched_at": "2026-11-18T18:28:38.058644+00:00",
    "is_virtual": false,
    "kind": "admin",
    "location": "Harvard Business School, Room Hawes Hall, 1st Floor",
@@ -6696,7 +6808,7 @@
    "units": [],
    "url": "https://events.hbs.edu/event/mba-program-open-house-9008"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 5
  },
  "harvard_seas-52826001647004@harvard-mit-events": {
@@ -6788,7 +6900,7 @@
    "cancelled_marker": null,
    "description": "Office hours with serial entrepreneur/angel investor/business builders from the i-lab and Harvard Grid - bring your venturing challenges, and we'll bring the pizza.",
    "end": "2026-12-03T14:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811344+00:00",
+   "fetched_at": "2026-11-18T18:28:37.206772+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Science and Engineering Complex (SEC), Room The Node (SEC 2.203)",
@@ -6872,7 +6984,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-7065"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 13
  },
  "harvard_seas-53187016097095@harvard-mit-events": {
@@ -7184,7 +7296,7 @@
    "cancelled_marker": null,
    "description": "Have ideas for use-inspired applications of your research? Wondering what is the first step or how to test your ideas? No translation or venturing experience or knowledge required. Just bring your curiosity and questions for a no-risk discussion with the Grid's Executive Director Paul Hayre. Feel free to join in for any duration. Pizza lunch and good conversation provided. Open to the Harvard community. FIRST COME, FIRST SERVE Seating at all events is on a first come, first serve basis. RSVPs are encouraged so we have an accurate headcount for classroom size and catering purposes.",
    "end": "2026-12-04T14:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811562+00:00",
+   "fetched_at": "2026-11-18T18:28:37.206968+00:00",
    "is_virtual": false,
    "kind": "career",
    "location": "Science and Engineering Complex (SEC), Room The Node (SEC 2.203)",
@@ -7268,7 +7380,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/lab-2-market-office-hours-9492"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-53568260284408@harvard-mit-events": {
@@ -7469,7 +7581,7 @@
    "cancelled_marker": null,
    "description": "David Krabbenhoft - Senior Research Scientist (emeritus) with the U.S. Geological Survey Starting in the mid-to-late 1980’s, researchers from a limited number of locations in the US and northern Europe observed what seemed to be inconceivably elevated levels of mercury in fish tissues from remote locations with no known proximal sources. Contemporaneous with these fish-contamination observations was the development of new sampling and analytical methods that allowed for the inclusion of water and air in environmental mercury studies. Soon after the first complete conceptual models for mercury cycling in the environment were advanced, which included a mixture of anthropogenic and natural mercury releases to the atmosphere, global-scale transport, subsequent deposition to land and water, and finally uptake and accumulation in food webs – including humans! Since those early days, prolific growth of the number of mercury researchers led to substantial improvements to our scientific understanding of mercury-contamination levels across the globe. While a more complete global understanding was indeed a monumental achievement of the scientific community, the overall essence of the environmental mercury cycling model remained largely static until the mid 2010’s when two new methodologies, mercury isotope measurements and metagenomics, arrived on the scene. With these new tools, questions that could never be asked (let alone answered) previously quickly brought into question the accuracy of the well accepted dogmas in the mercury research community, and as a result there has probably been more advancement in our understanding of mercury in the environment in the last ten years than the previous three decades. This presentation will highlight those changes in understanding, how they affect our perceptions, and a reminder to all researchers that science is never static, our previous work was never (or rarely) perfect, and the ever-present realization that we should always view…",
    "end": "2026-11-20T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811025+00:00",
+   "fetched_at": "2026-11-18T18:28:37.206479+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Pierce Hall, Room 100F",
@@ -7547,7 +7659,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/mercurial-science-forty-years-of-searching-for-consistent-paradigms-and-conceptual-models-of-mercury-contamination-of-the-environment"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_seas-53673448581629@harvard-mit-events": {
@@ -8091,7 +8203,7 @@
    "cancelled_marker": null,
    "description": "PLEASE NOTE THE ROOM CHANGE TO SEC 1.413 FOR THIS TALK Title: Learning Structured Models of a Dynamic World from Video Speaker: Qianqian Wang, Assistant Professor of Computer Science at Harvard SEAS Abstract: To act in the physical world, an AI system first has to perceive it: to recover from video where things are, how they move, and what may happen next. All of this must be inferred from incomplete evidence, as viewpoints change and objects move in and out of view. In this talk, I will present our work on learning structured models of a dynamic world. A central question is how to represent both what persists and what changes, building models that connect observations over time and support reasoning about what is hidden. I will first show how a stream of partial observations can be integrated into a persistent state, reconstructing a scene online and inferring geometry that has not yet been seen. I will then turn to motion: how to track points densely through occlusion, and how to recover dense 3D motion from a single camera by estimating rotations and translations at each point. I will close with a brief look at where this leads, from estimating motion to generating it, across scenes, people, and robots. Together, these works explore how structured representations of geometry and motion can help AI systems perceive, anticipate, and eventually act in a changing physical world. The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:15pm.",
    "end": "2026-11-19T15:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.809578+00:00",
+   "fetched_at": "2026-11-18T18:28:37.205349+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Science and Engineering Complex (SEC), Room 1.413",
@@ -8179,7 +8291,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-qianqian-wang-harvard-seas"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_seas-53798856771528@harvard-mit-events": {
@@ -8194,7 +8306,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Heng Ji, Professor of Computer Science at Siebel School of Computing and Data Science of University of Illinois Urbana-Champaign Talk info TBA The Computer Science Colloquium Series will be held weekly on Thursdays at 2:30pm in SEC LL2.224. There will be refreshments before the talk at 2:00pm.",
    "end": "2026-12-03T15:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811451+00:00",
+   "fetched_at": "2026-11-18T18:28:37.206866+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Science and Engineering Complex (SEC), Room LL2.224",
@@ -8282,7 +8394,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/computer-science-colloquium-series-heng-ji-illinois-urbana-champaign"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-53878040426767@harvard-mit-events": {
@@ -8453,7 +8565,7 @@
    "cancelled_marker": null,
    "description": "The Harvard Climate and Sustainability Expo will bring undergraduates, master’s, and PhD students and recent alumni together with employers to discuss opportunities in climate, sustainability, energy, environmental protection, resilience, and related fields. This event is open to all Harvard University and MIT students and alumni. Students: Register Here",
    "end": "2026-11-20T16:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811139+00:00",
+   "fetched_at": "2026-11-18T18:28:37.206587+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "David Rubenstein Treehouse",
@@ -8484,7 +8596,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/harvard-climate-and-sustainability-career-expo"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-53948332918150@harvard-mit-events": {
@@ -8550,8 +8662,8 @@
   "sequence": 1
  },
  "harvard_seas-53973941907153@harvard-mit-events": {
-  "calendar": null,
-  "content_hash": "47bf1268d59509e1",
+  "calendar": "all",
+  "content_hash": "4af11260c7dbbdd2",
   "event": {
    "access": "check",
    "address": "150 Western Avenue, Boston, MA, 02134",
@@ -8622,12 +8734,12 @@
    "registration_url": null,
    "score": 0.0,
    "score_detail": {},
-   "sequence": 0,
+   "sequence": 1,
    "series": "Topics in Bioengineering",
    "source": "harvard_seas",
    "speaker": null,
    "start": "2026-11-19T16:30:00-05:00",
-   "status": "CONFIRMED",
+   "status": "CANCELLED",
    "title": "Learning from glycobiology to engineer immunity",
    "topics": [
     "Bioengineering"
@@ -8639,8 +8751,9 @@
    ],
    "url": "https://events.seas.harvard.edu/event/learning-from-glycobiology-to-engineer-immunity"
   },
+  "ghost": true,
   "last_seen": "2026-11-17T18:49:23+00:00",
-  "sequence": 0
+  "sequence": 1
  },
  "harvard_seas-54036014062922@harvard-mit-events": {
   "calendar": "all",
@@ -8947,7 +9060,7 @@
    "cancelled_marker": null,
    "description": "Microbes in nature inhabit complex, crowded environments—soils, sediments, and biological gels—yet lab studies typically examine cells in bulk liquid. How do environmental complexities shape microbial behavior, from single cells to large collectives? In this talk, I will describe my group's work addressing this question using tools from soft matter and biological physics that enable us to visualize microbes across scales and 3D-print microbial collectives in habitats mimicking natural ones. We have found that environmental factors reshape microbial life in unexpected ways: for example, as they proliferate, nonmotile bacteria assemble into elongated strings through interactions with surrounding macromolecules, form branched colonies in response to nutrient heterogeneities, and disperse over long distances using fermentation-driven bubbles. Our work reveals how microbes in tight spots harness physical, chemical, and metabolic cues to organize and disperse, establishing new principles for living active matter in complex environments. Bio: Sujit Datta is Professor of Chemical Engineering, Bioengineering, and Biophysics at Caltech, where his group integrates experiment, theory, and computation to study transport processes of complex fluids, gels, and microbes in complex environments. He is also Editor-in-Chief of Reviews of Modern Physics. His scholarship has been recognized by awards from a range of different communities, including the Allan P. Colburn and 35 Under 35 Awards of the AIChE, three awards from the APS (Early Career Award in Biological Physics, Andreas Acrivos Award in Fluid Dynamics, and Apker Award), Pew Biomedical Scholar Award, Arthur Metzner Award of the Society of Rheology, Unilever Award of the ACS, Camille Dreyfus Teacher-Scholar Award, NSF CAREER Award, and Soft Matter Lectureship of the Royal Society of Chemistry. He received his undergraduate degrees in Physics and Mathematics at the University of Pennsylvania, his PhD in Physics from Harvard, an…",
    "end": "2026-12-04T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811777+00:00",
+   "fetched_at": "2026-11-18T18:28:37.207196+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Maxwell Dworkin, Room G115",
@@ -9037,7 +9150,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/sujit-datta-life-in-a-tight-spot-and-how-to-get-out-of-one"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54168826465626@harvard-mit-events": {
@@ -9052,7 +9165,7 @@
    "cancelled_marker": null,
    "description": "Join the Harvard Business School Entrepreneurship Club for the Entrepreneurship Conference 2026. This year’s theme, “From Ideas to Institutions,” will explore how entrepreneurs turn promising ideas into significant companies. The event will bring together founders, investors, executives, faculty, students, and aspiring entrepreneurs from across Harvard and the broader Boston community. Further information and registration details are available on the event page: https://www.eventbrite.com/e/entrepreneurship-conference-2026-at-harvard-business-school-tickets-1994640530521",
    "end": "2026-11-22T19:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811255+00:00",
+   "fetched_at": "2026-11-18T18:28:37.206691+00:00",
    "is_virtual": false,
    "kind": "conference",
    "location": "Harvard Business School (Klarman Hall)",
@@ -9099,7 +9212,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/entrepreneurship-conference-2026"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54187250906421@harvard-mit-events": {
@@ -10068,6 +10181,52 @@
   "last_seen": "2026-11-12T17:46:42+00:00",
   "sequence": 0
  },
+ "harvard_seas-54293807331199@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "af11b2841214d17d",
+  "event": {
+   "access": "check",
+   "address": "59 Shepard Street, Cambridge, MA, 02138",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "The Summer Opportunities & Funding Fair is Harvard’s largest summer planning event of the year. Meet representatives from various Harvard centers and departments, as well as external organizations, offering domestic and international research, study, internship, volunteer, and funding opportunities. Register Here (advance registration not required; register to receive event reminders)Eligibility: Open to all Harvard College students – bring your school ID; please note some organizations may be targeting specific class years. Please note seniors may not be eligible for some funded opportunities.View, search, and filter the current list of participating organizations. Note that organizations are added on a rolling basis.Check out the Summer Funding and Study Abroad Office for information on planning for summer experiences and applying for funding.",
+   "end": "2026-12-08T16:00:00-05:00",
+   "fetched_at": "2026-11-18T18:28:37.207578+00:00",
+   "is_virtual": false,
+   "kind": "other",
+   "location": "Harvard SOCH",
+   "raw_facets": {
+    "all_facet_values": [],
+    "departments": [],
+    "experience": "inperson",
+    "filters": {},
+    "free": false,
+    "has_register": false,
+    "keywords": [],
+    "private": false,
+    "recurring": false
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "harvard_seas",
+   "speaker": null,
+   "start": "2026-12-08T13:00:00-05:00",
+   "status": "CONFIRMED",
+   "title": "Summer Opportunities & Funding Fair",
+   "topics": [],
+   "uid": "harvard_seas-54293807331199@harvard-mit-events",
+   "units": [],
+   "url": "https://events.seas.harvard.edu/event/summer-opportunities-funding-fair"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
  "harvard_seas-54294409289864@harvard-mit-events": {
   "calendar": null,
   "content_hash": "49d4cd7dc99cc2cf",
@@ -10209,7 +10368,7 @@
    "cancelled_marker": null,
    "description": "Hybrid Skins are an emerging type of conformable interface that operates at various scales of human experience. These interfaces uniquely integrate technological functions with social and cultural perspectives, merging traditional crafts with miniaturized robotics, machines, and materials in their development. The resulting Hybrid Skins can serve social, cultural, and technological purposes, while supporting the formation of individual identities. This seminar explores recent work from the Hybrid Body Lab in designing Hybrid Skins through under-explored approaches such as textile robotics, bio-fluid sensing, modular flexible electronics, and the exploration of sustainable, biological materials. With their seamless and conformable design, Hybrid Skins provide unprecedented intimacy in the human experience and an opportunity for us to carefully rethink and redesign how our relationship with technology can, should, or should not be. By blending engineering, design, and active engagement with diverse communities, Kao and her lab aim to create opportunities for exploring a wide range of possible futures for wearable technology that celebrate, rather than restrict, the richness of human experiences. Bio: Dr. Cindy Hsin-Liu Kao is a computer scientist, interdisciplinary designer, and Associate Professor at Cornell University, where she founded and directs the Hybrid Body Lab. She is also the 2026-2027 Carl and Lily Pforzheimer Foundation Fellow at Harvard Radcliffe Institute. Kao’s research centers on Hybrid Skins—culturally inspired, conformable, wearable interfaces that merge traditional crafts with cutting-edge miniaturized technology. Her accolades include the National Science Foundation CAREER Award, the ACM International Symposium on Wearable Computers (ISWC) Test-of-Time 10-Year Impact Award, and multiple Best Paper and Honorable Mention awards from leading ACM computer science conferences. As an interdisciplinary designer, Kao has exhibited her work internationall…",
    "end": "2026-11-20T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.810500+00:00",
+   "fetched_at": "2026-11-18T18:28:37.205991+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Maxwell Dworkin, Room G115",
@@ -10299,7 +10458,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/cindy-hsin-liu-kao-designing-hybrid-skins"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54303721568257@harvard-mit-events": {
@@ -10369,7 +10528,7 @@
    "cancelled_marker": null,
    "description": "As AI becomes increasingly embedded in our lives, it has taken on roles as a therapist, a friend, even a lover. When we allow AI systems into our communities and our closest circles, what happens to our agency, our inner lives, and our ability to form relationships with other people? Join MIT professor and author Sherry Turkle and podcaster and tech & culture critic Bridget Todd for a conversation about what we gain and lose when we delegate acts of attention and companionship to systems designed to be available and responsive in our times of need. What does the evidence show about human-AI relationships? What about human-AI emotional reliance? Where do we draw the line? Is there even a line to be drawn? Moderated by Dean Sean Kelly, Turkle and Todd will bring their personal experiences and research findings to bear on an emerging field with little consensus — and very high stakes. This conversation will consider how engagement with AI is reshaping what we expect from friendship, family, and community, and what responsibilities belong to technology companies, public institutions, and each of us as users of technology and creatures of belonging. In-person RSVP Zoom RSVP",
    "end": "2026-11-19T18:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.810228+00:00",
+   "fetched_at": "2026-11-18T18:28:37.205750+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "Lewis Hall, Room 5th floor",
@@ -10420,7 +10579,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/crutch-or-catalyst-how-ai-is-changing-the-ways-we-relate"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54303975021189@harvard-mit-events": {
@@ -10662,6 +10821,52 @@
   "last_seen": "2026-11-10T17:20:46+00:00",
   "sequence": 0
  },
+ "harvard_seas-54373764799098@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "65b29f7f401b215f",
+  "event": {
+   "access": "check",
+   "address": "125 Western Avenue, Boston, MA, 02163",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "The Harvard Innovation Labs is inviting student founders from across all 13 Harvard schools — who are tackling problems they cannot ignore and building futures they believe should exist — to apply for this year’s Harvard President’s Innovation Challenge. This year's theme, Unprompted, celebrates people who move ideas into the world without waiting for permission. It also speaks to a new chapter in our relationship with technology. As AI systems move beyond responding to instructions toward taking initiative, the possibilities for human and AI collaboration are expanding. Apply by Dec. 8 to tell us about your world-changing idea for the chance to win a share of more than $500,000 in non-dilutive venture funding, thanks to the Bertarelli Foundation. Along the way, you’ll receive support from the i-lab, including expert feedback, pitch coaching, and membership in the i-lab community. 👉 Learn more and sign up here: ﻿https://innovationlabs.harvard.edu/presidents-innovation-challenge﻿",
+   "end": "2026-12-08T23:59:00-05:00",
+   "fetched_at": "2026-11-18T18:28:37.207449+00:00",
+   "is_virtual": false,
+   "kind": "other",
+   "location": "Harvard i-lab",
+   "raw_facets": {
+    "all_facet_values": [],
+    "departments": [],
+    "experience": "inperson",
+    "filters": {},
+    "free": false,
+    "has_register": false,
+    "keywords": [],
+    "private": false,
+    "recurring": false
+   },
+   "registration_deadline": null,
+   "registration_url": "https://innovationlabs.harvard.edu/presidents-innovation-challenge",
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "harvard_seas",
+   "speaker": null,
+   "start": "2026-12-08T00:00:00-05:00",
+   "status": "CONFIRMED",
+   "title": "Calling All Harvard Student Founders: Apply for the 2027 President's Innovation Challenge today!",
+   "topics": [],
+   "uid": "harvard_seas-54373764799098@harvard-mit-events",
+   "units": [],
+   "url": "https://events.seas.harvard.edu/event/calling-all-harvard-student-founders-apply-for-the-2027-presidents-innovation-challenge-today"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
  "harvard_seas-54409693129558@harvard-mit-events": {
   "calendar": null,
   "content_hash": "7331e32714a2d716",
@@ -10720,7 +10925,7 @@
    "cancelled_marker": null,
    "description": "REGISTER FOR THE WEBINAR A Global Energy Transition Talk Series Panel Discussion Speaker: Sumeet Singh, Chief Executive Officer of Pacific Gas and Electric Company (PG&E); Executive Vice President, Energy Delivery Sumeet Singh, Chief Executive Officer of Pacific Gas and Electric Company, previously served as Executive Vice President (EVP), Operations and Chief Operating Officer of PG&E, responsible for the utility’s operations, including gas, electric and generation, as well as the safety, vegetation management, wildfire and emergency operations. Prior to that, he was the EVP, Chief Risk Officer (CRO) and Chief Safety Officer, overseeing the company's integrated workforce health and safety strategy, its safety culture, and management of both operational risks such as wildfires, nuclear, dams, natural gas, natural disasters and non-operational risks such as cybersecurity, pandemic and others. Singh has held other leadership roles within PG&E, including serving as the Senior Vice President, CRO, and Vice President, Asset Management and Community Wildfire Safety Program. Singh also served as Vice President of Portfolio Management & Engineering in PG&E's Gas Operations, responsible for planning, prioritizing and providing oversight of Gas Operations' portfolio of work, and as Vice President, Asset & Risk Management in PG&E's Gas Operations. He joined PG&E in 2000 as an engineer, and also worked in various natural gas distribution and transmission engineering roles, as well as in the Finance and Energy Procurement functions. In 2025, Singh won the Top Chief Operating Officer sponsored by the San Francisco Business Times. Singh holds a Bachelor's Degree in Civil and Environmental Engineering from the University of California, Berkeley; and a Master of Business Administration degree from UCLA Anderson School of Management. In 2024, he completed the Massachusetts Institute of Technology Nuclear Reactor Course for Utility Executives. He is a registered professional Civil En…",
    "end": "2026-11-18T11:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.809039+00:00",
+   "fetched_at": "2026-11-18T18:28:37.204807+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": null,
@@ -10800,7 +11005,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/the-utility-of-the-future-electrification-innovation-and-the-energy-transition"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "harvard_seas-54444912303259@harvard-mit-events": {
@@ -10815,7 +11020,7 @@
    "cancelled_marker": null,
    "description": "Harvard Widely Applied Mathematics Seminar Thursday, November 19 3:00 - 4:00PM Maxwell Dworkin 119 \"Mechanical Screening: From Metamaterials to Anomalous Mechanics in Disordered Solids\" Professor Michael Moshe Hebrew University Abstract: Defects play a central role in understanding crystalline materials, from plasticity and melting to self-assembly. In disordered solids such as glasses, however, the absence of crystalline order makes conventional definitions of structural defects inapplicable. Several alternative notions of defects have therefore been proposed to extend defect-based descriptions to disordered solids. This raises the question of whether defects can provide a useful description of mechanics in the absence of an ordered reference structure. In this talk, I will introduce an order-independent definition of defects and show how these defects emerge in disordered solids. Interpreting them as geometric charges extends the analogy between mechanics and electromagnetism and provides a framework for describing mechanical screening. I will illustrate this framework through two examples: nonlinear screening in perforated metamaterials, with parallels to nonlinear optics, and a hierarchy of screening regimes in glasses, analogous to those associated with two-dimensional crystal melting. The latter illustrates a sequential breakdown of geometric conservation laws. Drawing on experiments and numerical simulations, I will discuss how this hierarchy predicts anomalous mechanical responses and suggests a possible new state of matter in three-dimensional glasses. Evidence will include simulations of model Cu–Zr metallic glasses and various tabletop experiments on disordered granular assemblies. Bio: Michael Moshe is an Associate Professor at the Racah Institute of Physics at the Hebrew University of Jerusalem, where he also received his Ph.D. in Physics. His research explores the interplay between geometry and mechanics in a broad range of physical systems and phenom…",
    "end": "2026-11-19T16:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.809855+00:00",
+   "fetched_at": "2026-11-18T18:28:37.205578+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "Maxwell Dworkin, Room MD 119",
@@ -10933,7 +11138,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/mechanical-screening-from-metamaterials-to-anomalous-mechanics-in-disordered-solids"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54445537849303@harvard-mit-events": {
@@ -10948,7 +11153,7 @@
    "cancelled_marker": null,
    "description": "The present moment is defined by both the emergence of powerful artificial intelligence and a deepening crisis of liberal democracy. Must they be opposing forces? Theoretically, AI could strengthen civic participation, enable more effective governance, and expand citizens' capacity to hold powerful institutions to account. Yet, as we have seen, it can also place unprecedented pressure on democratic institutions, proliferate misinformation, and entrench corporate—and authoritarian—power in ways that prove difficult to reverse. Anthropic researcher and neuroscientist Matt Botvinick examines these possibilities in his new book, AI and Political Freedom: The Risk to Democracy and How to Respond, a subject he never imagined confronting when building his first neural network in the 1990s. Join Botvinick in conversation with Chinmayi Arun, director of the Yale Project on Information and Society, where Botvinick is also a fellow, to explore how AI might alter the balance of power between citizens and the governments that represent them, and which direction those scales might tip. Drawing on perspectives from technology, law, and global governance, the duo will consider the interconnected short- and long-term risks to political freedom, as well as opportunities to harnessing technology for greater public participation. As AI advances amid growing strains on democratic institutions, what will determine whether it becomes an instrument of liberation, subjugation, or both?",
    "end": "2026-11-19T13:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.809396+00:00",
+   "fetched_at": "2026-11-18T18:28:37.205176+00:00",
    "is_virtual": true,
    "kind": "workshop",
    "location": "The Berkman Klein Center for Internet & Society, Room MPR (515)",
@@ -10999,7 +11204,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/ai-political-freedom"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54445797678674@harvard-mit-events": {
@@ -11014,7 +11219,7 @@
    "cancelled_marker": null,
    "description": "Who do we become when we take advice from machines? Drawing on insights from BKC Fellow Amelia Miller's research at the Berkman Klein Center and her human-AI relationship coaching practice, this workshop explores how talking to chatbots impacts our capacity to connect with real people. This session is interactive and practical: participants will leave with a better understanding of LLMs’ personality defaults, how to override them, and how to think about when we should and shouldn’t lean on AI for advice. Please note this workshop is in-person only and specific for those with a Harvard ID. Facilitator: Amelia Miller is a researcher, designer, and writer focused on how technology shapes human connection. Learn more about her work in The New York Times, or read about her human-AI relationship coaching in The New Yorker, Bloomberg, NPR or the BKC’s 3 Question series. RSVP",
    "end": "2026-11-18T18:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.809211+00:00",
+   "fetched_at": "2026-11-18T18:28:37.204976+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Room 5th Floor",
@@ -11065,7 +11270,7 @@
    ],
    "url": "https://events.seas.harvard.edu/event/is-your-relationship-with-ai-healthy"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "harvard_seas-54470376611307@harvard-mit-events": {
@@ -11130,6 +11335,223 @@
   "last_seen": "2026-11-13T17:24:45+00:00",
   "sequence": 0
  },
+ "harvard_seas-54525011221097@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "37a1eca417273f73",
+  "event": {
+   "access": "restricted",
+   "address": "150 Western Avenue, Boston, MA, 02134",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "The Office of Master’s Programs (OMP) invites the SEAS community to stop by and see some of this semester’s AC297r capstone course poster projects during the early evening on Tuesday, December 8, 2026, at 4:30p in the Science & Engineering Complex (SEC) LL2 Atrium. Students will be presenting diverse capstone project topics and sharing their Capstone Partners. Come and enjoy hor d'oeuvres, refreshments, & beverages with your classmates, faculty, OMP team members, and friends!",
+   "end": null,
+   "fetched_at": "2026-11-18T18:28:37.207890+00:00",
+   "is_virtual": false,
+   "kind": "other",
+   "location": "Science and Engineering Complex (SEC), Room LL2 Atrium",
+   "raw_facets": {
+    "all_facet_values": [
+     "Applied Computation",
+     "Master in Design Engineering",
+     "MS/MBA: Engineering Sciences",
+     "Alumni",
+     "Faculty",
+     "Graduate Students",
+     "Staff",
+     "Undergraduate Students",
+     "SEAS Community",
+     "Project Showcase (Course-Related)"
+    ],
+    "departments": [],
+    "experience": "inperson",
+    "filters": {
+     "event_academics": [
+      {
+       "id": 30972640811800,
+       "name": "Applied Computation"
+      },
+      {
+       "id": 30972655794402,
+       "name": "Master in Design Engineering"
+      },
+      {
+       "id": 30972657260992,
+       "name": "MS/MBA: Engineering Sciences"
+      }
+     ],
+     "event_target_audience": [
+      {
+       "id": 30342713159047,
+       "name": "Alumni"
+      },
+      {
+       "id": 30342713163767,
+       "name": "Faculty"
+      },
+      {
+       "id": 30342713164233,
+       "name": "Graduate Students"
+      },
+      {
+       "id": 30342713166237,
+       "name": "Staff"
+      },
+      {
+       "id": 30342713167364,
+       "name": "Undergraduate Students"
+      },
+      {
+       "id": 31159499317000,
+       "name": "SEAS Community"
+      }
+     ],
+     "event_types": [
+      {
+       "id": 30342705744330,
+       "name": "Project Showcase (Course-Related)"
+      }
+     ]
+    },
+    "free": true,
+    "has_register": false,
+    "keywords": [],
+    "private": false,
+    "recurring": false
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": null,
+   "source": "harvard_seas",
+   "speaker": null,
+   "start": "2026-12-08T16:30:00-05:00",
+   "status": "CONFIRMED",
+   "title": "AC297r Computational Science and Engineering Capstone Project Showcase & Reception",
+   "topics": [
+    "Applied Computation",
+    "MS/MBA: Engineering Sciences",
+    "Master in Design Engineering"
+   ],
+   "uid": "harvard_seas-54525011221097@harvard-mit-events",
+   "units": [
+    "Applied Computation",
+    "MS/MBA: Engineering Sciences",
+    "Master in Design Engineering"
+   ],
+   "url": "https://events.seas.harvard.edu/event/ac297r-computational-science-and-engineering-capstone-project-showcase-reception"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
+ "harvard_seas-54533934019040@harvard-mit-events": {
+  "calendar": null,
+  "content_hash": "c1d988331ed693d0",
+  "event": {
+   "access": "open",
+   "address": "33 Oxford Street, Cambridge, MA, 02138",
+   "all_day": false,
+   "alt_urls": [],
+   "campus": "cambridge_harvard",
+   "cancelled_marker": null,
+   "description": "Intelligent materials respond to the changing environment of the physical world through material-stimuli interaction. However, the design and fabrication of such advanced systems present significant challenges, requiring the integration of knowledge across multiple domains—including materials science, manufacturing, structural mechanics, and design optimization. This talk introduces a paradigm shift toward unifying “physical intelligence” with artificial intelligence (AI) to realize embodied AI in material systems. By combining data-driven generative design with physics-based modeling and simulation, we enable seamless integration of predictive materials modeling, advanced manufacturing, and design optimization—accelerating the development and deployment of next-generation intelligent materials. In this talk, I will present design methodologies that leverage statistical inference and AI techniques for the co-design of programmable architectural materials responsive to external stimuli, across the domains of material-geometry-fabrication-stimulus. Bio Dr. Wei Chen is the Wilson-Cook Professor in Engineering Design and the immediate Past Chair of the Department of Mechanical Engineering at Northwestern University. She holds courtesy appointments in both Materials Science and Engineering and Industrial Engineering and Management Sciences. As director of the Integrated Design Automation Laboratory (IDEAL; http://ideal.mech.northwestern.edu/), her research focuses on the development of statistical inference, artificial intelligence (AI), uncertainty quantification and engineering optimization techniques to addressing complex engineering design and manufacturing problems. Dr. Chen is an elected member of both the National Academy of Engineering (NAE) and the American Academy of Arts and Sciences (AAA&S). She has served as Editor-in-Chief of theASME Journal of Mechanical Design, Chair of the ASME Design Engineering Division (DED), and President of the International Societ…",
+   "end": "2026-12-08T15:00:00-05:00",
+   "fetched_at": "2026-11-18T18:28:37.207800+00:00",
+   "is_virtual": true,
+   "kind": "lecture",
+   "location": "Maxwell Dworkin, Room G115",
+   "raw_facets": {
+    "all_facet_values": [
+     "Applied Physics",
+     "Materials Science & Mechanical Engineering",
+     "Applied Physics and Applied Mechanics Colloquia",
+     "Academic Areas",
+     "Applied Physics",
+     "Materials Science & Mechanical Engineering",
+     "Harvard Community",
+     "Colloquia / Seminar / Lecture"
+    ],
+    "departments": [],
+    "experience": "hybrid",
+    "filters": {
+     "event_academics": [
+      {
+       "id": 30972645182218,
+       "name": "Applied Physics"
+      },
+      {
+       "id": 30972654027111,
+       "name": "Materials Science & Mechanical Engineering"
+      }
+     ],
+     "event_lecture_other_series": [
+      {
+       "id": 44959343168724,
+       "name": "Applied Physics and Applied Mechanics Colloquia"
+      }
+     ],
+     "event_organization": [
+      {
+       "id": 144066,
+       "name": "Academic Areas"
+      },
+      {
+       "id": 144070,
+       "name": "Applied Physics"
+      },
+      {
+       "id": 144073,
+       "name": "Materials Science & Mechanical Engineering"
+      }
+     ],
+     "event_target_audience": [
+      {
+       "id": 31159497714108,
+       "name": "Harvard Community"
+      }
+     ],
+     "event_types": [
+      {
+       "id": 30342705740552,
+       "name": "Colloquia / Seminar / Lecture"
+      }
+     ]
+    },
+    "free": false,
+    "has_register": false,
+    "keywords": [],
+    "private": false,
+    "recurring": false
+   },
+   "registration_deadline": null,
+   "registration_url": null,
+   "score": 0.0,
+   "score_detail": {},
+   "sequence": 0,
+   "series": "Applied Physics and Applied Mechanics Colloquia",
+   "source": "harvard_seas",
+   "speaker": null,
+   "start": "2026-12-08T14:00:00-05:00",
+   "status": "CONFIRMED",
+   "title": "Wei Chen: Integrating Physical Intelligence with Artificial Intelligence: Autonomous Design of Programmable Material Systems",
+   "topics": [
+    "Applied Physics",
+    "Materials Science & Mechanical Engineering"
+   ],
+   "uid": "harvard_seas-54533934019040@harvard-mit-events",
+   "units": [
+    "Academic Areas",
+    "Applied Physics",
+    "Materials Science & Mechanical Engineering"
+   ],
+   "url": "https://events.seas.harvard.edu/event/wei-chen-integrating-physical-intelligence-with-artificial-intelligence-autonomous-design-of-programmable-material-systems"
+  },
+  "last_seen": "2026-11-18T18:28:38+00:00",
+  "sequence": 0
+ },
  "harvard_seas-54540572511484@harvard-mit-events": {
   "calendar": "all",
   "content_hash": "32cabb8046604137",
@@ -11142,7 +11564,7 @@
    "cancelled_marker": null,
    "description": "Art, Community, & Holiday Cheer Celebrate the opening of Allstonway's winter art installation Crystalline Fantasia by In Theory Art. Come see these crystals light up the Laneway, enjoy hot cocoa, sweet treats, a robot selfie station, and live music by The YardBops! Take a piece of art home for the holidays and enjoy a custom mini lantern ornament from your friends at Allstonway. Help us spread a little light this holiday season! If you are fortunate enough to donate, please bring a nonperishable food item for our friends at the Allston-Brighton Food Pantry.",
    "end": "2026-12-04T20:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:22.811880+00:00",
+   "fetched_at": "2026-11-18T18:28:37.207305+00:00",
    "is_virtual": false,
    "kind": "other",
    "location": "Allstonway",
@@ -11173,7 +11595,7 @@
    "units": [],
    "url": "https://events.seas.harvard.edu/event/allstonway-light-up-the-laneway"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_all-50959151399445@harvard-mit-events": {
@@ -11188,7 +11610,7 @@
    "cancelled_marker": null,
    "description": "Interested in climate and sustainability and curious where you can make a difference? Attend the Climate and Sustainability Career Expo to learn about research, internships, and careers in climate. Salata Institute Climate and Sustainability Career Expo - Friday November 20, 2026; 1:00-4:30pm at Harvard's The David Rubenstein Treehouse, 20 Western Avenue, Boston, MA 02134 Action Steps to Attend 1. Register for the event using this form 2. Register to enter the Rubenstein Treehouse prior to attending using this form, Shuttle transportation will be available, making continuous loops between the main campus and Harvard's The David Rubenstein Treehouse, 20 Western Avenue, Boston, MA 02134 from 12:30 to 5:00 p.m. To take the shuttle, meet at the steps of 77 Mass. ----------------------------------------------------------------------- How is a career expo different from a career fair? This event is intended to be an opportunity that encourages employers to showcase their work in the climate and sustainability space even if their full-time or internship opportunities are not yet posted. During the Career Expo employers will promote upcoming jobs, internships, research experiences, and projects at their organizations. While some employers may have roles posted by the event on November 1st, many employers will open applications over the winter or in the spring. This event is open to MIT undergraduates, graduate students, and alumni. For updated MIT information, please visit https://capd.mit.edu/mit-partnership-with-the-harvard-salat-institute-climate-and-sustainability-career-expo-candidate-information/. Please indicate any accommodation needs by completing the following survey: https://airtable.com/shrfsjcovcoDIN0da The partnership is supported by these MIT Departments: Chemical Engineering, Civil and Environmental Engineering, Climate Education, Earth, Atmospheric and Planetary Science, Mechanical Engineering, Sloan Climate Sustainability, Nuclear Engineering, Undergradua…",
    "end": "2026-11-20T16:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:21.958186+00:00",
+   "fetched_at": "2026-11-18T18:28:35.186021+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": null,
@@ -11304,7 +11726,7 @@
    ],
    "url": "https://calendar.mit.edu/event/mit-partnership-w-harvard-salata-institute-climate-and-sustainability-career-expo"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_all-51216903804041@harvard-mit-events": {
@@ -11319,7 +11741,7 @@
    "cancelled_marker": null,
    "description": "Global Languages Pre-Reg Fair Mon. 11/30/26 3:30-5:00pm Bush Room (10-105) INFO BOOTHS ! RAFFLES! INTERNATIONAL TREATS! Open the door to new study and career opportunities through languages. Learn about offerings in Arabic, Chinese, French, German, Japanese, Korean, Portuguese, Russian, and Spanish! Ask about IAP and spring classes, HASS concentrations, minors, majors. Get info on Fulbright and other Distinguished Fellowships, MISTI internships, Career Advising and Professional Development!",
    "end": null,
-   "fetched_at": "2026-11-17T18:49:21.958268+00:00",
+   "fetched_at": "2026-11-18T18:28:35.186118+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building 10, Room 105",
@@ -11408,7 +11830,7 @@
    ],
    "url": "https://calendar.mit.edu/event/global-languages-pre-reg-fair-9202"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_all-52940430205781@harvard-mit-events": {
@@ -13252,7 +13674,7 @@
    "cancelled_marker": null,
    "description": "Curious how to build a career in climate and sustainability? Join us for an evening with practitioners from diverse industries who will share their insights on where the field is headed, what skills matter most, and how they got started. This program begins with a moderated panel discussion on career pathways and practical ways to make an impact, with time for audience questions. It continues with an informal networking reception, during which students can connect with panelists and employers. This panel program is the kick-off event for the The Salata Institute Climate and Sustainability Career Expo, taking place on Friday, November 20. The Salata Institute Climate and Sustainability Career Expo is a collaborative effort across Harvard schools and MIT to connect students and postdocs with organizations focused on climate, sustainability, and the environment. More information about the Expo including participating organizations, time, location can be found on the Expo webpage. MIT students, postdocs and alumni interested in attending should register here. For any questions about the Nov 19 Panel Discussion or Expo on Nov 20, please reach out to MIT Career Advising & Professional Development at hiremit@mit.edu.",
    "end": "2026-11-19T20:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:21.957961+00:00",
+   "fetched_at": "2026-11-18T18:28:35.185792+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building 34, Room Grier Room (34-401), 50 Vassar Street, Cambridge, Massachusetts 02139, United States",
@@ -13368,7 +13790,7 @@
    ],
    "url": "https://calendar.mit.edu/event/careers-in-climate-sustainability-panel-discussion-in-34-401"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_all-54375749206196@harvard-mit-events": {
@@ -13646,7 +14068,7 @@
    "cancelled_marker": null,
    "description": "Radius has historically supported MIT students’ ethical self-reflection, partnering over the decades with groups like Science for the People and MIT Students Against War. We are now pleased to support a new initiative called the AI Pause Coalition, which is petitioning for recognition as a student organization and whose leaders are actively involved in Radius programming. Do you have concerns about the speed of AI development? Are you concerned about the environmental footprint, the privacy and surveillance implications, concentration of power, or risks of catastrophic outcomes or extinction? Join us at the AI Pause Coalition’s first meeting to: Discuss recent developments in AI policy in Massachusetts and around the country Discuss the possibility of a pause on new frontier training runs Give your own perspective, hear from the community, and develop a shared understanding of key issues Join working groups to research policy and take action on AI issues Pizza will be provided!",
    "end": "2026-11-19T19:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:21.957806+00:00",
+   "fetched_at": "2026-11-18T18:28:35.185606+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building 10, Room 105",
@@ -13751,7 +14173,7 @@
    ],
    "url": "https://calendar.mit.edu/event/discussion-night-ai"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_all-54478793055651@harvard-mit-events": {
@@ -13999,7 +14421,7 @@
    "cancelled_marker": null,
    "description": "MIT Theater presents W97-160 December 3 Workshop - 3-5p Hands-On AI Filmmaking Workshop William Cusick Shoot a scene. Transform it with AI. Keep the performance. A hands-on introduction to AI filmmaking. Participants stage and shoot a short scene with a phone camera, then use generative AI video tools to transform it. A classroom might become an airplane cabin, for example, while the group tries to keep the actors' performance intact. Along the way, participants test what AI can and can't control: blocking, timing, camera angles, and continuity. Led by filmmaker William Cusick, former Creative Director at Stability AI. No coding or AI experience required. Actors, designers, filmmakers, dancers, engineers - All welcome. 2-hour session for 8–16 participants. RSVP - Observers also welcome.",
    "end": "2026-12-03T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:21.958406+00:00",
+   "fetched_at": "2026-11-18T18:28:35.186268+00:00",
    "is_virtual": false,
    "kind": "workshop",
    "location": "Building W97, Room 160",
@@ -14114,7 +14536,7 @@
    ],
    "url": "https://calendar.mit.edu/event/hands-on-ai-filmmaking-workshop"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_building_e14-54418837897849@harvard-mit-events": {
@@ -14229,7 +14651,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Aayush Jain (Carnegie Mellon) TBA https://www.csail.mit.edu/event/tba-1",
    "end": "2026-12-08T17:15:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207945+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818796+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_G449",
@@ -14258,7 +14680,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/tba-1"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-14969@harvard-mit-events": {
@@ -15373,7 +15795,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Virginia Vassilevska Williams (EECS) TBA https://www.csail.mit.edu/event/tba",
    "end": "2026-12-01T17:15:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207748+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818595+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_G449",
@@ -15402,7 +15824,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/tba"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15066@harvard-mit-events": {
@@ -16165,7 +16587,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Prashant Pandey (Northeastern) Abstract:GPUs excel at massively parallel computation, but data-intensive workloads still rely on the CPU for memory allocation and fine-grained task scheduling. Operations with unpredictable output sizes, such as string processing, graph kernels, joins, and group-bys, often need extra passes or conservative pre-allocation, and this CPU control path becomes a bottleneck as GPUs get faster and workloads become more dynamic.This talk presents two systems that move these responsibilities onto the G https://www.csail.mit.edu/event/gpu-native-data-management-memory-scheduling-and-beyond",
    "end": "2026-11-18T14:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207300+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818117+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "32_G882",
@@ -16194,7 +16616,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/gpu-native-data-management-memory-scheduling-and-beyond"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15111@harvard-mit-events": {
@@ -16209,7 +16631,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Mandar Juvekar (Boston University) We show the surprising power of combining the following two well-studied assumptions from cryptography and proof complexity:(Cryptography) there exists a subexponentially secure indistinguishability obfuscator, and(Proof Complexity) there are no subexponentially optimal propositional proof systems in the sense of Cook and Reckhow (J. Symb. Log. 1979).The first assumption allows one to hide the inner workings of a given algorithm in a certainweak sense. The second assumption is a “constructive� https://www.csail.mit.edu/event/synergies-between-proof-complexity-and-cryptography",
    "end": "2026-11-19T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207690+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818521+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_G575",
@@ -16238,7 +16660,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/synergies-between-proof-complexity-and-cryptography"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15113@harvard-mit-events": {
@@ -16253,7 +16675,7 @@
    "cancelled_marker": null,
    "description": "https://www.csail.mit.edu/event/csail-holiday-social-3",
    "end": "2026-11-30T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207717+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818563+00:00",
    "is_virtual": false,
    "kind": "social",
    "location": "32_G401",
@@ -16282,7 +16704,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/csail-holiday-social-3"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15116@harvard-mit-events": {
@@ -16297,7 +16719,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Jayender Jagadeesan (Brigham and Women’s Hospital and Harvard Medical School) Minimally invasive surgery has transformed the way operations are performed. Yet surgeons still have only a limited view of a patient’s anatomy, which can shift and deform during a procedure. As a result, small lesions can be difficult to locate, critical structures can be hard to avoid, and cancer can be challenging to remove completely. Bridging the gap between preoperative images and the realities of the operating room remains a major challenge in precision surgery.In this talk, I’ll shar https://www.csail.mit.edu/event/advancing-precision-surgery-through-image-guided-navigation-robotics-and-ai",
    "end": "2026-12-02T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207915+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818764+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_D407",
@@ -16326,7 +16748,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/advancing-precision-surgery-through-image-guided-navigation-robotics-and-ai"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15117@harvard-mit-events": {
@@ -16341,7 +16763,7 @@
    "cancelled_marker": null,
    "description": "Abstract: We develop a rigorous framework for choosing Gaussian mixture sources for diffusion and flow matching. A Gaussian mixture centered on the observations can be sampled directly near the data, leaving only finer denoising to learn. We characterize this source as the minimum of an entropy-regularized transport objective and relate it to the final part of a Gaussian-to-data Brownian entropic bridge. To retain fewer mixture components, we select a sparse source that preserves the resulting https://www.csail.mit.edu/event/gaussian-source-coresets-diffusion-and-flow-matching-alex-kokot",
    "end": "2026-11-19T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207465+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818290+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "32_D463",
@@ -16370,7 +16792,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/gaussian-source-coresets-diffusion-and-flow-matching-alex-kokot"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15118@harvard-mit-events": {
@@ -16473,7 +16895,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Hidenori Tanaka (Harvard University and NTT Research) Abstract: In physics, \"more is different\" expresses the idea that interactions among many components can give rise to collective behaviors that cannot be understood by studying individual components alone. As AI alignment extends from individual agents to multi-agent systems, we must revisit a fundamental question. What does it mean for a collective of AI agents to be aligned? To explore this question, we present two lines of research that lay the groundwork for a sociology and ecology of AI age https://www.csail.mit.edu/event/more-different-alignment-sociology-and-ecology-ai-agents",
    "end": "2026-11-18T16:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207384+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818217+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "32_G882",
@@ -16502,7 +16924,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/more-different-alignment-sociology-and-ecology-ai-agents"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_csail-15122@harvard-mit-events": {
@@ -16517,7 +16939,7 @@
    "cancelled_marker": null,
    "description": "Speaker: Andy Barry (Generalist) Speaker: Andy Barry Topic: Foundation Models in Robotics Date: Thursday, Nov 19 Time: 1 PM (ET) Zoom: https://mit.zoom.us/j/91697262920 (password: mitmlscale) Abstract: Andy Barry, CTO and co-founder of Generalist, discusses the current state of the art in physical AI and robotics. Making the same graphs as in the language model field, we draw comparisons between the fields' arcs and predict what's next for robotics, physical in-context learning, and generally useful general https://www.csail.mit.edu/event/scaleml-andy-barry-generalist-foundation-models-robotics",
    "end": "2026-11-19T14:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.207544+00:00",
+   "fetched_at": "2026-11-18T18:28:33.818369+00:00",
    "is_virtual": true,
    "kind": "lecture",
    "location": "TBD",
@@ -16546,7 +16968,7 @@
    ],
    "url": "https://www.csail.mit.edu/event/scaleml-andy-barry-generalist-foundation-models-robotics"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_media_lab-aha-seminar-yutong-zhang@harvard-mit-events": {
@@ -16698,7 +17120,7 @@
    "cancelled_marker": null,
    "description": "Reimagining Boulez at 100 through performance, technology, and dialogue.",
    "end": "2026-11-23T21:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.509290+00:00",
+   "fetched_at": "2026-11-18T18:28:34.219999+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -16728,7 +17150,7 @@
    ],
    "url": "https://www.media.mit.edu/events/boulez-at-100-gloria-cheng-and-ralph-van-raat/"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_media_lab-charles-spence-gastronomy-and-beyond@harvard-mit-events": {
@@ -16743,7 +17165,7 @@
    "cancelled_marker": null,
    "description": "The Multisensory Future of FoodProfessor Charles Spence is an experimental psychologist at the University of Oxford and Head of the Crossmo...",
    "end": "2026-12-09T13:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.510649+00:00",
+   "fetched_at": "2026-11-18T18:28:34.221336+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -16773,7 +17195,7 @@
    ],
    "url": "https://www.media.mit.edu/events/charles-spence-gastronomy-and-beyond/"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 2
  },
  "mit_media_lab-introducing-impactbench@harvard-mit-events": {
@@ -16788,7 +17210,7 @@
    "cancelled_marker": null,
    "description": "Join us for our online seminar series event hosted by MIT Media Lab’s Advancing Humans with AI (AHA) research program! This event feat...",
    "end": "2026-11-19T17:00:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.508778+00:00",
+   "fetched_at": "2026-11-18T18:28:34.219501+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -16818,7 +17240,7 @@
    ],
    "url": "https://www.media.mit.edu/events/introducing-impactbench/"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_media_lab-media-lab-immersion-tokyo-2026@harvard-mit-events": {
@@ -16833,7 +17255,7 @@
    "cancelled_marker": null,
    "description": "Date and Time 16:00-18:30 Japan Standard TimeLocation & AddressAddress: Panasonic Laboratory Tokyo (PLT)Kizashi Lab6F, ...",
    "end": "2026-11-27T18:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.509756+00:00",
+   "fetched_at": "2026-11-18T18:28:34.220452+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -16863,7 +17285,7 @@
    ],
    "url": "https://www.media.mit.edu/events/media-lab-immersion-tokyo-2026/"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 1
  },
  "mit_media_lab-media-lab-mosaic@harvard-mit-events": {
@@ -16923,7 +17345,7 @@
    "cancelled_marker": null,
    "description": "Join MIT AI Studio Demo Day for student demonstrations of the products, services, and infrastructure they have been building for the Agent...",
    "end": "2026-12-03T12:30:00-05:00",
-   "fetched_at": "2026-11-17T18:49:19.510208+00:00",
+   "fetched_at": "2026-11-18T18:28:34.220891+00:00",
    "is_virtual": false,
    "kind": "lecture",
    "location": "MIT Media Lab (E14)",
@@ -16953,7 +17375,7 @@
    ],
    "url": "https://www.media.mit.edu/events/mit-ai-studio-demo-day/"
   },
-  "last_seen": "2026-11-17T18:49:23+00:00",
+  "last_seen": "2026-11-18T18:28:38+00:00",
   "sequence": 0
  },
  "mit_media_lab-ozgun-kilic-afsar-dissertation-defense@harvard-mit-events": {
