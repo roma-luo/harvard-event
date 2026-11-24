@@ -6,81 +6,10 @@ X-WR-CALNAME:Events - Priority
 X-PUBLISHED-TTL:PT12H
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:[需确认] What is a Botluck? Introduction to Legal Engineering w
- ith Agent Swarms
-DTSTART;TZID=America/New_York:20261123T122000
-DTEND;TZID=America/New_York:20261123T132000
-DTSTAMP:20261123T214700Z
-UID:harvard_seas-54550471180390@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：工作
- 坊\n\n摘要：What does it mean to run an AI agent? What does it mean to
-  run a lot of agents? Join the teaching staff of Agentic Legal Engineering
-  for a “botluck” — a gathering of humans and agents to solve a share
- d problem. We will introduce the core techniques for working with agents\,
-  and use them to explore Transparency Hub\, a trove of the internet’s fi
- ne print that we all move through every day online.\n\n地点：1557 Massa
- chusetts Ave 4th Floor\, Cambridge\, MA 02138\, Room 515\n活动页：http
- s://events.seas.harvard.edu/event/what-is-a-botluck-introduction-to-legal-
- engineering-with-agent-swarms\n报名：https://docs.google.com/forms/d/e/
- 1FAIpQLSc8TnSbi_m6APbUSnBohJ0pMYhXzbAylK9g6qpsuJ_UNr8N-w/viewform?usp=head
- er\n\n来源：harvard_seas｜得分 12｜抓取于 2026-11-23 21:46
-LOCATION:1557 Massachusetts Avenue\, Cambridge\, MA\, 02138
-STATUS:CONFIRMED
-URL:https://events.seas.harvard.edu/event/what-is-a-botluck-introduction-t
- o-legal-engineering-with-agent-swarms
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[需确认] AI-Assisted Spec-to-DV: From Specification to Verifica
- tion Closure
-DTSTART;TZID=America/New_York:20261123T150000
-DTEND;TZID=America/New_York:20261123T160000
-DTSTAMP:20261123T214700Z
-UID:mit_csail-15127@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
- \n\n主讲：Sridevi Navulur (Tenstorrent) Developing a verification envir
- onment from a written specification involves translating re\n\n摘要：Sp
- eaker: Sridevi Navulur (Tenstorrent) Developing a verification environment
-  from a written specification involves translating requirements into test 
- plans\, checkers\, stimulus\, and coverage goals. This talk describes an A
- I-assisted Spec-to-DV flow that uses AI agents to extract requirements\, d
- raft verification plans\, generate assertions and reference models\, build
-  testbench components and tests\,…\n\n地点：32_G882\n活动页：http
- s://www.csail.mit.edu/event/ai-assisted-spec-dv-specification-verification
- -closure\n\n来源：mit_csail｜得分 14｜抓取于 2026-11-23 21:46
-LOCATION:32 Vassar Street\, Cambridge\, MA 02139
-STATUS:CONFIRMED
-URL:https://www.csail.mit.edu/event/ai-assisted-spec-dv-specification-veri
- fication-closure
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[开放] Sylvia Lavin “Architecture After Fire”
-DTSTART;TZID=America/New_York:20261123T183000
-DTEND;TZID=America/New_York:20261123T200000
-DTSTAMP:20261123T214700Z
-UID:harvard_gsd-2683529@harvard-mit-events
-SEQUENCE:0
-DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
- carl m sapers ethics in practice lecture\n\n主讲：Sylvia Lavin\n\n摘
- 要：LIVESTREAM INFO A live stream for this event will be available on th
- is page at the scheduled start time. Closed captioning is available by cli
- cking the “CC” icon at the bottom of the player window. About this Eve
- nt This lecture\, “Architecture After Fire\,” argues that the rise of 
- American architectural modernism was inseparable from the [...]\n\n地点
- ：Piper Auditorium\n活动页：https://www.gsd.harvard.edu/event/archite
- cture-after-fire/\n报名：https://www.eventbrite.com/e/sylvia-lavin-arch
- itecture-after-fire-tickets-1998435432174?aff=oddtdtcreator\n\n来源：ha
- rvard_gsd｜得分 23｜抓取于 2026-11-23 21:46
-LOCATION:48 Quincy Street\, Cambridge\, MA 02138
-STATUS:CONFIRMED
-URL:https://www.gsd.harvard.edu/event/architecture-after-fire/
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[开放] _On Location: Drawing the Outdoors_
 DTSTART;TZID=America/New_York:20261124T123000
 DTEND;TZID=America/New_York:20261124T130000
-DTSTAMP:20261123T214700Z
+DTSTAMP:20261124T202427Z
 UID:harvard_art_museums-4251@harvard-mit-events
 SEQUENCE:1
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -88,7 +17,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  27 drawing made with the camera lucida by inventor Sir John Frederick Will
  iam Herschel.\n\n地点：Harvard Art Museums\n活动页：https://harvard
  artmuseums.org/event/4251\n\n来源：harvard_art_museums｜得分 15｜
- 抓取于 2026-11-23 21:46
+ 抓取于 2026-11-24 20:24
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/event/4251
@@ -98,7 +27,7 @@ SUMMARY:[需确认] Advancing Precision Surgery through Image-Guided Navig
  ation\, Robotics and AI
 DTSTART;TZID=America/New_York:20261202T120000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261123T214700Z
+DTSTAMP:20261124T202427Z
 UID:mit_csail-15116@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -112,7 +41,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ard to avoid\, and cancer can be chall…\n\n地点：32_D407\n活动页
  ：https://www.csail.mit.edu/event/advancing-precision-surgery-through-ima
  ge-guided-navigation-robotics-and-ai\n\n来源：mit_csail｜得分 19｜
- 抓取于 2026-11-23 21:46
+ 抓取于 2026-11-24 20:24
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/advancing-precision-surgery-through-im
@@ -122,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] _On Location: Drawing the Outdoors_
 DTSTART;TZID=America/New_York:20261202T123000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261123T214700Z
+DTSTAMP:20261124T202427Z
 UID:harvard_art_museums-4252@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -130,7 +59,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  27 drawing made with the camera lucida by inventor Sir John Frederick Will
  iam Herschel.\n\n地点：Harvard Art Museums\n活动页：https://harvard
  artmuseums.org/event/4252\n\n来源：harvard_art_museums｜得分 15｜
- 抓取于 2026-11-23 21:46
+ 抓取于 2026-11-24 20:24
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/event/4252
@@ -139,7 +68,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] The Trials of Atlas
 DTSTART;TZID=America/New_York:20261212T180000
 DTEND;TZID=America/New_York:20261212T200000
-DTSTAMP:20261123T214700Z
+DTSTAMP:20261124T202427Z
 UID:mit_csail-15112@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -150,7 +79,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  Auditorium (Building 32-123) (https://whereis.mit.edu/?go=32)Ticketing:Fre
  e and open to the public. Click here for a ti…\n\n地点：KIRSCH AUDITO
  RIUM (BUILDING 32-123)\n活动页：https://www.csail.mit.edu/event/trials
- -atlas\n\n来源：mit_csail｜得分 14｜抓取于 2026-11-23 21:46
+ -atlas\n\n来源：mit_csail｜得分 14｜抓取于 2026-11-24 20:24
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/trials-atlas
