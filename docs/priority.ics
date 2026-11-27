@@ -10,7 +10,7 @@ SUMMARY:[需确认] Advancing Precision Surgery through Image-Guided Navig
  ation\, Robotics and AI
 DTSTART;TZID=America/New_York:20261202T120000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261126T191915Z
+DTSTAMP:20261127T191315Z
 UID:mit_csail-15116@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -24,7 +24,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  ard to avoid\, and cancer can be chall…\n\n地点：32_D407\n活动页
  ：https://www.csail.mit.edu/event/advancing-precision-surgery-through-ima
  ge-guided-navigation-robotics-and-ai\n\n来源：mit_csail｜得分 19｜
- 抓取于 2026-11-26 19:19
+ 抓取于 2026-11-27 19:13
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/advancing-precision-surgery-through-im
@@ -34,7 +34,7 @@ BEGIN:VEVENT
 SUMMARY:[开放] _On Location: Drawing the Outdoors_
 DTSTART;TZID=America/New_York:20261202T123000
 DTEND;TZID=America/New_York:20261202T130000
-DTSTAMP:20261126T191915Z
+DTSTAMP:20261127T191315Z
 UID:harvard_art_museums-4252@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -42,7 +42,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  27 drawing made with the camera lucida by inventor Sir John Frederick Will
  iam Herschel.\n\n地点：Harvard Art Museums\n活动页：https://harvard
  artmuseums.org/event/4252\n\n来源：harvard_art_museums｜得分 15｜
- 抓取于 2026-11-26 19:19
+ 抓取于 2026-11-27 19:13
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/event/4252
@@ -51,7 +51,7 @@ BEGIN:VEVENT
 SUMMARY:[需确认] The Trials of Atlas
 DTSTART;TZID=America/New_York:20261212T180000
 DTEND;TZID=America/New_York:20261212T200000
-DTSTAMP:20261126T191915Z
+DTSTAMP:20261127T191315Z
 UID:mit_csail-15112@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
@@ -62,7 +62,7 @@ DESCRIPTION:准入：需确认（请看活动页要求）\n类型：讲座
  Auditorium (Building 32-123) (https://whereis.mit.edu/?go=32)Ticketing:Fre
  e and open to the public. Click here for a ti…\n\n地点：KIRSCH AUDITO
  RIUM (BUILDING 32-123)\n活动页：https://www.csail.mit.edu/event/trials
- -atlas\n\n来源：mit_csail｜得分 14｜抓取于 2026-11-26 19:19
+ -atlas\n\n来源：mit_csail｜得分 14｜抓取于 2026-11-27 19:13
 LOCATION:32 Vassar Street\, Cambridge\, MA 02139
 STATUS:CONFIRMED
 URL:https://www.csail.mit.edu/event/trials-atlas
@@ -72,7 +72,7 @@ SUMMARY:[开放] Taking the Stage—Ancient Greek Performers and Their Mas
  ks
 DTSTART;TZID=America/New_York:20261217T123000
 DTEND;TZID=America/New_York:20261217T130000
-DTSTAMP:20261126T191915Z
+DTSTAMP:20261127T191315Z
 UID:harvard_art_museums-4274@harvard-mit-events
 SEQUENCE:0
 DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
@@ -80,7 +80,7 @@ DESCRIPTION:准入：开放（无需报名）\n类型：讲座｜系列：
  out the relationship between actors and theatrical masks in ancient Medite
  rranean art.\n\n地点：Harvard Art Museums\n活动页：https://harvarda
  rtmuseums.org/event/4274\n\n来源：harvard_art_museums｜得分 15｜抓
- 取于 2026-11-26 19:19
+ 取于 2026-11-27 19:13
 LOCATION:32 Quincy Street\, Cambridge\, MA
 STATUS:CONFIRMED
 URL:https://harvardartmuseums.org/event/4274
